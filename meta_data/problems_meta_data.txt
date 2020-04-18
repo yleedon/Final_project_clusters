@@ -1,0 +1,39 @@
+{
+            "RawData_Pills" :
+               {
+                   "file_name" : "/Users/yanivleedon/Desktop/final_project_clusters/data/RawData_Pills.csv",
+                   "num_of_answers" : 6,
+                   "first_idx" : 8
+               },
+            "RawData_3Robots" :
+               {
+                   "file_name" : "/Users/yanivleedon/Desktop/final_project_clusters/data/RawData_3Robots.csv",
+                   "num_of_answers" : 12,
+                   "first_idx" : 10
+               },
+            "RawData_CR_Conf":
+                {
+                    "file_name": "/Users/yanivleedon/Desktop/final_project_clusters/data/RawData_CR_Conf.csv",
+                    "num_of_answers": 10,
+                    "first_idx": 8
+                },
+            "RawData_LetterDice":
+                {
+                    "file_name": "/Users/yanivleedon/Desktop/final_project_clusters/data/RawData_LetterDice.csv",
+                    "num_of_answers": 6,
+                    "first_idx": 10
+                },
+            "RawData_MagicPotion":
+                {
+                    "file_name": "/Users/yanivleedon/Desktop/final_project_clusters/data/RawData_MagicPotion.csv",
+                    "num_of_answers": 8,
+                    "first_idx": 10
+                },
+            "RawData_Traveler":
+                {
+                    "file_name": "/Users/yanivleedon/Desktop/final_project_clusters/data/RawData_Traveler.csv",
+                    "num_of_answers": 4,
+                    "first_idx": 10
+                }
+
+        }
