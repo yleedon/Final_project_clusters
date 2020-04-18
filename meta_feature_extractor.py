@@ -19,10 +19,10 @@ def get_highest_voted_ans(dic_prob):
 
 def get_consensus(dic_prob):
     consensus = 0
-    for p in dic_prob:
-        if dic_prob[p] == 0:
+    for p_name, p in dic_prob.items():
+        if p == 0:
             continue
-        consensus -= dic_prob[p] * math.log2(dic_prob[p])
+        consensus -= p * math.log2(p)
     return consensus / math.log2(len(dic_prob))
 
 
@@ -69,7 +69,7 @@ def test():
 
 
 def extract_meta_features():
-    # Load meta sdata file
+    # Load meta data file
     with open(join(getcwd(), 'meta_data', 'problems_meta_data.JSON')) as json_file:
         problem_dic = json.load(json_file)
         ans = {}
@@ -86,13 +86,14 @@ def extract_meta_features():
 
             # get initial features
             ans[problem] = get_init_features(df, num_of_answers, first_idx)
-        print(ans)
+
+        return ans
 
 
 if __name__ == '__main__':
 
-    extract_meta_features()
-
+    m_features = extract_meta_features()
+    print(m_features)
     # test()
 
 
