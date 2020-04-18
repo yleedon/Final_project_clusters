@@ -1,0 +1,1158 @@
+Problem,Worker ID,Age,Gender,Strong hand,Education,Answer,Confidence,Psolve,1 second,1000 seconds,1 minute,1000 minutes,1 hour,1000 hours,2000 hours,1000000 hours,Infinity,There is no way to know without additional information,Class
+CR_Conf,A002160837SWJFPIAI7L7,25,Male,Right,College,1000 hours,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A102UPOA52HS8M,20,Female,Right,High School/GED,1000 minutes,2,0-10%,0-10%,21-30%,41-50%,11-20%,0-10%,31-40%,61-70%,31-40%,81-90%,61-70%,Non-Solver
+CR_Conf,A10443E11ZWEHJ,52,Male,Right,High School/GED,There is no way to know without additional information,8,21-30%,0-10%,0-10%,0-10%,21-30%,11-20%,31-40%,41-50%,51-60%,61-70%,71-80%,Non-Solver
+CR_Conf,A10NI1QOGWX2YB,36,Female,Right,High School/GED,There is no way to know without additional information,9,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A10ZC6OYXCN1DT,44,Male,Right,Graduate Degree,1 hour,9,61-70%,11-20%,21-30%,11-20%,21-30%,21-30%,61-70%,41-50%,41-50%,41-50%,11-20%,Solver
+CR_Conf,A117NSQB727D1H,62,Female,Right,High School/GED,1 hour,4,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,Solver
+CR_Conf,A11BLQKVW1951L,33,Female,Right,College,1 hour,9,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,91-100%,0-10%,Solver
+CR_Conf,A11DLGQTOOSIWR,63,Male,Right,Graduate Degree,1 hour,8,41-50%,0-10%,0-10%,0-10%,11-20%,51-60%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A12ABRH7TAD6ZJ,48,Male,Right,Graduate Degree,1000 minutes,7,41-50%,0-10%,0-10%,61-70%,71-80%,41-50%,41-50%,61-70%,61-70%,51-60%,51-60%,Non-Solver
+CR_Conf,A12HWPFXQPITHD,28,Male,Right,College,There is no way to know without additional information,7,71-80%,0-10%,11-20%,11-20%,21-30%,11-20%,41-50%,51-60%,31-40%,71-80%,81-90%,Non-Solver
+CR_Conf,A12IHTKQFQIPD1,35,Male,Right,High School/GED,1 minute,5,21-30%,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A12MVC9R26VPZ4,28,Male,Right,Graduate Degree,1000 seconds,5,11-20%,11-20%,31-40%,51-60%,51-60%,61-70%,51-60%,61-70%,51-60%,61-70%,61-70%,Non-Solver
+CR_Conf,A12OZ7P7Z41SJI,56,Male,Right,College,2000 hours,6,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,51-60%,31-40%,51-60%,51-60%,Non-Solver
+CR_Conf,A12QBCR0PBFKTI,25,Male,Right,Graduate Degree,1 minute,9,21-30%,71-80%,61-70%,71-80%,61-70%,81-90%,61-70%,71-80%,61-70%,61-70%,71-80%,Non-Solver
+CR_Conf,A12ROA2Z37KYJ9,35,Female,Right,Graduate Degree,There is no way to know without additional information,10,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,61-70%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A12VXVR5FPANU0,25,Male,Right,Graduate Degree,1000000 hours,8,51-60%,0-10%,0-10%,31-40%,61-70%,31-40%,41-50%,21-30%,51-60%,0-10%,11-20%,Non-Solver
+CR_Conf,A133DIQVVZRVPO,29,Male,Right,Graduate Degree,1000000 hours,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,21-30%,Non-Solver
+CR_Conf,A133QG754CGS3I,39,Male,Left,College,1000 hours,7,11-20%,0-10%,0-10%,0-10%,41-50%,41-50%,61-70%,61-70%,41-50%,41-50%,0-10%,Non-Solver
+CR_Conf,A13697DQL6XG9D,19,Female,Right,High School/GED,There is no way to know without additional information,8,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,31-40%,21-30%,Non-Solver
+CR_Conf,A13FUEPWBCLBUY,35,Male,Right,Graduate Degree,There is no way to know without additional information,8,11-20%,0-10%,0-10%,0-10%,21-30%,41-50%,61-70%,31-40%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A13GUTDMGGZZDL,32,Male,Right,College,1000 hours,3,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A13OHDWN9XSCIG,43,Female,Right,College,Infinity,8,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A13USF28TRFLKR,32,Male,Right,Graduate Degree,Infinity,7,11-20%,0-10%,11-20%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A13ZQUB0RP52KP,23,Male,Right,Graduate Degree,1 hour,8,41-50%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A141N2XGQXKPME,39,Male,Right,College,There is no way to know without additional information,7,11-20%,21-30%,31-40%,41-50%,31-40%,51-60%,21-30%,61-70%,31-40%,0-10%,0-10%,Non-Solver
+CR_Conf,A142YXBC1LK7HP,38,Female,Right,High School/GED,Infinity,2,0-10%,31-40%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,61-70%,Non-Solver
+CR_Conf,A143XRCI1YXAFE,26,Male,Right,College,There is no way to know without additional information,10,21-30%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A147F5PJTHOB8A,42,Male,Right,High School/GED,1000 hours,4,11-20%,0-10%,0-10%,21-30%,11-20%,31-40%,31-40%,21-30%,11-20%,51-60%,31-40%,Non-Solver
+CR_Conf,A14ADQ7RUN6TDY,70,Male,Right,College,Infinity,9,21-30%,0-10%,0-10%,21-30%,31-40%,31-40%,0-10%,0-10%,0-10%,31-40%,31-40%,Non-Solver
+CR_Conf,A14F0CMEHST22B,36,Female,Right,College,There is no way to know without additional information,8,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,91-100%,Non-Solver
+CR_Conf,A14XECI3XLI39H,30,Male,Right,Graduate Degree,1 hour,5,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,0-10%,0-10%,11-20%,0-10%,Solver
+CR_Conf,A15340BRCER2UO,39,Male,Right,Graduate Degree,1 minute,3,0-10%,11-20%,21-30%,11-20%,11-20%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,Non-Solver
+CR_Conf,A155JNJQ69WMDI,44,Male,Right,College,1000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,11-20%,0-10%,0-10%,41-50%,Non-Solver
+CR_Conf,A15781PHGW377Y,63,Male,Right,High School/GED,Infinity,9,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,11-20%,Non-Solver
+CR_Conf,A15F2JTVAJXITI,40,Female,Right,Graduate Degree,1000 hours,1,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,21-30%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A15H0ZSFQPZWAV,32,Female,Left,Graduate Degree,1000 hours,5,51-60%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,61-70%,51-60%,31-40%,21-30%,Non-Solver
+CR_Conf,A15H0ZSFQPZWAV,27,Female,Left,Graduate Degree,1000 hours,5,41-50%,0-10%,0-10%,31-40%,41-50%,51-60%,61-70%,51-60%,41-50%,21-30%,41-50%,Non-Solver
+CR_Conf,A15X0MSBZ74TFT,49,Female,Right,High School/GED,1 hour,1,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A1601UNFFAAQOI,33,Female,Right,College,Infinity,2,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A160X70DIV96VM,56,Female,Right,High School/GED,There is no way to know without additional information,7,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,0-10%,0-10%,21-30%,41-50%,Non-Solver
+CR_Conf,A161AJDHLJVCLZ,31,Female,Right,Graduate Degree,1000 hours,5,31-40%,11-20%,11-20%,11-20%,31-40%,41-50%,51-60%,31-40%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A163L8D1BG5UIT,26,Female,Right,Graduate Degree,1 hour,3,11-20%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A165C3ME31OA81,68,Female,Right,High School/GED,Infinity,8,11-20%,0-10%,21-30%,11-20%,31-40%,11-20%,41-50%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A167SYXGXFU7C8,63,Female,Right,College,Infinity,7,21-30%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A16HSMUJ7C7QA7,64,Female,Both hands are equally strong,High School/GED,Infinity,1,31-40%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,21-30%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A16PLYF8XISLFX,31,Female,Right,High School/GED,1000000 hours,6,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,51-60%,11-20%,11-20%,Non-Solver
+CR_Conf,A16QTKULP8HQ6G,34,Male,Right,College,Infinity,10,61-70%,0-10%,0-10%,41-50%,11-20%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,A16ZYJOZVLCJEP,40,Male,Right,Graduate Degree,1 hour,8,41-50%,0-10%,0-10%,0-10%,21-30%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A170TMW2VVJS7U,29,Male,Left,Graduate Degree,1000 hours,3,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A174UGURZYYCWC,30,Female,Right,College,1 hour,8,71-80%,0-10%,0-10%,0-10%,11-20%,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A175PJR0W3LO8I,36,Male,Right,College,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A17OSPGV41FZ7P,33,Female,Right,Less than High School,1000 hours,7,21-30%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,91-100%,Non-Solver
+CR_Conf,A17SWXSZOWCC3M,33,Female,Right,College,1 hour,3,21-30%,0-10%,0-10%,51-60%,41-50%,41-50%,31-40%,21-30%,21-30%,21-30%,11-20%,Solver
+CR_Conf,A17U82YPDOT3CW,48,Male,Right,Graduate Degree,1 minute,5,41-50%,0-10%,21-30%,31-40%,21-30%,31-40%,31-40%,31-40%,11-20%,0-10%,21-30%,Non-Solver
+CR_Conf,A188SHJZPHE8BA,32,Male,Right,College,1 hour,1,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,31-40%,21-30%,Solver
+CR_Conf,A18E16UFE351U6,35,Female,Right,High School/GED,1000 hours,7,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,41-50%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A18R0CMHYTNXD,32,Male,Right,Graduate Degree,1 hour,9,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,11-20%,31-40%,31-40%,Solver
+CR_Conf,A191V7PT3DQKDP,34,Male,Right,College,There is no way to know without additional information,9,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,21-30%,Non-Solver
+CR_Conf,A192MH226Q1NT4,24,Female,Right,College,Infinity,1,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,Non-Solver
+CR_Conf,A194UMZESQE6BS,30,Male,Right,Graduate Degree,1 hour,7,41-50%,0-10%,21-30%,0-10%,31-40%,51-60%,41-50%,21-30%,31-40%,0-10%,61-70%,Solver
+CR_Conf,A198MSVO1VTAT5,60,Female,Right,College,Infinity,10,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,81-90%,Non-Solver
+CR_Conf,A19OCD2Q0K2U6M,55,Male,Left,High School/GED,There is no way to know without additional information,10,91-100%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,Non-Solver
+CR_Conf,A19S8APZYIU1AC,40,Male,Right,Graduate Degree,1 minute,10,11-20%,71-80%,61-70%,81-90%,71-80%,61-70%,51-60%,61-70%,71-80%,81-90%,71-80%,Non-Solver
+CR_Conf,A19WFIR31Z74EN,38,Male,Right,College,Infinity,2,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,41-50%,51-60%,61-70%,61-70%,21-30%,Non-Solver
+CR_Conf,A1A1ZXUVSV4YR8,30,Female,Right,Graduate Degree,1 hour,3,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1A46CKE3F5JAJ,25,Female,Right,College,1 hour,4,11-20%,0-10%,0-10%,0-10%,21-30%,41-50%,21-30%,11-20%,11-20%,21-30%,41-50%,Solver
+CR_Conf,A1AF25FCVKC87X,34,Male,Right,College,1000 hours,6,31-40%,0-10%,0-10%,0-10%,21-30%,31-40%,41-50%,21-30%,0-10%,21-30%,41-50%,Non-Solver
+CR_Conf,A1AF48IBEYPQWI,33,Male,Right,College,1000 hours,6,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1AHYAWHM0ML7H,31,Female,Right,College,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A1AMJEHHQHPF1H,33,Male,Right,College,There is no way to know without additional information,1,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,21-30%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A1AWQVXK72J2N2,21,Male,Right,Graduate Degree,1000 minutes,9,31-40%,91-100%,81-90%,91-100%,81-90%,91-100%,81-90%,91-100%,81-90%,91-100%,81-90%,Non-Solver
+CR_Conf,A1AYEE7ZPR16L,33,Male,Right,Graduate Degree,Infinity,9,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1AYFPD1RFW8P5,66,Female,Right,Graduate Degree,There is no way to know without additional information,10,51-60%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,41-50%,Non-Solver
+CR_Conf,A1AYM6ORRTWOAF,50,Male,Right,College,1000 minutes,10,81-90%,81-90%,71-80%,81-90%,71-80%,81-90%,71-80%,81-90%,81-90%,61-70%,91-100%,Non-Solver
+CR_Conf,A1AZTE5W2MF1TU,70,Female,Right,High School/GED,There is no way to know without additional information,10,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,41-50%,31-40%,71-80%,81-90%,Non-Solver
+CR_Conf,A1B5PTOTIGVHRS,46,Female,Right,College,Infinity,5,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A1B9H14AV44C0G,46,Female,Right,College,There is no way to know without additional information,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1BA5ZBERA3RWI,29,Female,Right,College,Infinity,9,0-10%,31-40%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1BVG13MHBM1YD,40,Female,Left,High School/GED,1 hour,3,11-20%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1BZNPQ0H7ZSER,36,Male,Right,Graduate Degree,Infinity,7,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,11-20%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A1C1YCP428CQ7E,29,Male,Right,High School/GED,There is no way to know without additional information,6,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,51-60%,11-20%,Non-Solver
+CR_Conf,A1C59M3HPCO503,24,Female,Right,High School/GED,2000 hours,3,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A1C7XI68SED8JE,36,Female,Left,College,Infinity,4,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,21-30%,31-40%,21-30%,21-30%,Non-Solver
+CR_Conf,A1CKP36D1MKIYW,41,Male,Right,Graduate Degree,Infinity,8,11-20%,0-10%,0-10%,0-10%,31-40%,0-10%,41-50%,51-60%,71-80%,21-30%,0-10%,Non-Solver
+CR_Conf,A1CSH3P1MSSFWL,38,Female,Right,Graduate Degree,1000 minutes,9,31-40%,0-10%,0-10%,71-80%,81-90%,71-80%,81-90%,71-80%,71-80%,71-80%,81-90%,Non-Solver
+CR_Conf,A1CSHXVJJ8BPHH,26,Male,Right,College,1000 seconds,6,61-70%,31-40%,41-50%,51-60%,41-50%,31-40%,61-70%,41-50%,41-50%,71-80%,81-90%,Non-Solver
+CR_Conf,A1CUK9RG3RW1DY,51,Female,Right,High School/GED,There is no way to know without additional information,4,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,61-70%,Non-Solver
+CR_Conf,A1DBE2OL84TBKB,26,Male,Right,College,2000 hours,7,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A1DDBGQDMZZ1VW,55,Male,Right,College,1 hour,6,21-30%,0-10%,0-10%,0-10%,31-40%,41-50%,11-20%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A1DEWY831Z47BK,24,Male,Left,College,1 hour,6,21-30%,0-10%,0-10%,11-20%,11-20%,31-40%,31-40%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1DJWLP389N1S4,33,Male,Right,Graduate Degree,Infinity,10,31-40%,0-10%,0-10%,0-10%,21-30%,61-70%,61-70%,71-80%,71-80%,81-90%,81-90%,Non-Solver
+CR_Conf,A1DMXEJGJY02E1,30,Female,Right,College,1 hour,3,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,0-10%,0-10%,21-30%,31-40%,Solver
+CR_Conf,A1DNJ17PE2RYJZ,66,Male,Right,Graduate Degree,2000 hours,6,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,41-50%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A1DOO1F46UBLYT,35,Female,Right,High School/GED,There is no way to know without additional information,3,11-20%,11-20%,31-40%,21-30%,21-30%,21-30%,11-20%,21-30%,41-50%,61-70%,51-60%,Non-Solver
+CR_Conf,A1DS5O8MSI3ZH0,42,Male,Right,College,1000 minutes,2,11-20%,0-10%,11-20%,11-20%,31-40%,11-20%,21-30%,11-20%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A1DUH3RLI00YQM,74,Male,Right,College,Infinity,6,11-20%,0-10%,11-20%,0-10%,21-30%,31-40%,0-10%,0-10%,0-10%,51-60%,41-50%,Non-Solver
+CR_Conf,A1DUPOUC9RNU4L,57,Female,Right,High School/GED,Infinity,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A1DVCUCOTAC0JQ,54,Male,Right,College,Infinity,8,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A1E2T84AUMW6ZC,60,Female,Right,College,1000 minutes,2,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,31-40%,31-40%,0-10%,0-10%,61-70%,Non-Solver
+CR_Conf,A1E6XN5C8S0X7W,30,Male,Right,College,1 minute,4,0-10%,11-20%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A1E77HZO63E334,25,Male,Right,College,There is no way to know without additional information,9,21-30%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1E8PIR82KIJEP,22,Female,Right,College,Infinity,9,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1EAR8424WFLGO,47,Female,Both hands are equally strong,Graduate Degree,1 hour,9,71-80%,31-40%,51-60%,61-70%,71-80%,81-90%,51-60%,71-80%,41-50%,0-10%,0-10%,Solver
+CR_Conf,A1EH9BPKYXFBS5,51,Female,Right,Graduate Degree,2000 hours,4,21-30%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1EN3FW93BSXQQ,25,Female,Right,College,1 hour,2,41-50%,0-10%,21-30%,31-40%,41-50%,41-50%,11-20%,11-20%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A1ETEW9WH37WDS,46,Female,Right,High School/GED,Infinity,8,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,41-50%,41-50%,81-90%,Non-Solver
+CR_Conf,A1EXO9HRNQYHWC,21,Female,Right,Graduate Degree,1 minute,6,31-40%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,81-90%,91-100%,Non-Solver
+CR_Conf,A1F1BIPJR11LSR,33,Prefer not to say,Right,College,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A1F1OZ54G177D8,45,Male,,College,Infinity,8,11-20%,0-10%,0-10%,11-20%,11-20%,61-70%,41-50%,21-30%,0-10%,31-40%,61-70%,Non-Solver
+CR_Conf,A1F8O6BA8AZTRF,40,Female,Right,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,31-40%,41-50%,Non-Solver
+CR_Conf,A1FGEK2Y0ZQEAM,44,Male,Right,College,1000 hours,6,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1FN0TLGQJOR3O,58,Male,Right,Graduate Degree,1 hour,7,51-60%,0-10%,11-20%,11-20%,0-10%,51-60%,0-10%,0-10%,0-10%,0-10%,21-30%,Solver
+CR_Conf,A1FQGRDHTO68SY,24,Female,Both hands are equally strong,Graduate Degree,1 hour,9,81-90%,11-20%,11-20%,0-10%,0-10%,81-90%,0-10%,21-30%,11-20%,0-10%,0-10%,Solver
+CR_Conf,A1FWP2MESHFZQG,27,Female,Both hands are equally strong,Graduate Degree,1000 minutes,5,21-30%,0-10%,51-60%,61-70%,21-30%,41-50%,51-60%,61-70%,31-40%,41-50%,31-40%,Non-Solver
+CR_Conf,A1FY68KJTDNXFS,29,Male,Both hands are equally strong,Graduate Degree,1 hour,8,71-80%,0-10%,0-10%,61-70%,71-80%,61-70%,51-60%,51-60%,31-40%,11-20%,0-10%,Solver
+CR_Conf,A1FYMTQ3YSEOQ9,28,Male,Right,College,2000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,Non-Solver
+CR_Conf,A1G187YBG0DVMQ,27,Male,Right,College,Infinity,7,31-40%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,A1G5UODTVW13MM,40,Male,Right,High School/GED,There is no way to know without additional information,8,51-60%,0-10%,0-10%,0-10%,21-30%,0-10%,21-30%,21-30%,11-20%,0-10%,31-40%,Non-Solver
+CR_Conf,A1GD7ISOXO1XFZ,64,Male,Right,Graduate Degree,There is no way to know without additional information,4,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,41-50%,21-30%,11-20%,0-10%,61-70%,Non-Solver
+CR_Conf,A1GKD3NG1NNHRP,59,Female,Left,College,Infinity,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A1GL4CFP7ZW55X,38,Male,Right,College,1000 minutes,8,0-10%,11-20%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A1GOI5NKPQJ591,28,Female,Right,College,Infinity,8,61-70%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,81-90%,91-100%,91-100%,Non-Solver
+CR_Conf,A1GUGCOS9HM63C,27,Male,Right,Graduate Degree,1000 minutes,9,71-80%,71-80%,61-70%,71-80%,81-90%,71-80%,61-70%,81-90%,71-80%,81-90%,71-80%,Non-Solver
+CR_Conf,A1GV0URJLXH6J8,56,Male,Right,College,1 hour,7,21-30%,51-60%,41-50%,31-40%,51-60%,51-60%,41-50%,51-60%,61-70%,51-60%,51-60%,Solver
+CR_Conf,A1H1TKK54YG94Q,43,Male,Right,College,1000 hours,3,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,11-20%,0-10%,Non-Solver
+CR_Conf,A1H72Y9Z5NJXDS,39,Female,Right,High School/GED,2000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1H95YJACRLB53,28,Male,Right,Graduate Degree,1000 minutes,6,31-40%,41-50%,51-60%,31-40%,41-50%,41-50%,51-60%,41-50%,31-40%,41-50%,31-40%,Non-Solver
+CR_Conf,A1HH3ZNP1JP6KP,43,Female,Right,Graduate Degree,Infinity,8,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,31-40%,41-50%,51-60%,Non-Solver
+CR_Conf,A1HJ8WQ4SEKGTP,33,Female,Right,College,1 hour,1,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,81-90%,61-70%,51-60%,81-90%,91-100%,Solver
+CR_Conf,A1HKB73TUJ5Z42,50,Female,Right,Graduate Degree,Infinity,5,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,41-50%,11-20%,Non-Solver
+CR_Conf,A1HKCTDOTL6C9I,43,Male,Right,College,Infinity,8,51-60%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,A1HM9FS1R9YM7Y,56,Male,Right,Graduate Degree,1000 minutes,8,31-40%,0-10%,0-10%,0-10%,71-80%,31-40%,81-90%,51-60%,21-30%,41-50%,11-20%,Non-Solver
+CR_Conf,A1HN2W2M73O741,37,Female,Right,High School/GED,There is no way to know without additional information,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1HYA9IORBCUW6,51,Female,Right,College,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1HYD41SNHKM78,25,Male,Right,College,Infinity,8,31-40%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,71-80%,81-90%,61-70%,Non-Solver
+CR_Conf,A1I007GRTCODQI,28,Male,Right,Graduate Degree,1000 minutes,7,11-20%,51-60%,61-70%,51-60%,71-80%,61-70%,61-70%,41-50%,51-60%,61-70%,51-60%,Non-Solver
+CR_Conf,A1I3QYJJU5ACFR,33,Male,Right,College,Infinity,2,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,21-30%,21-30%,21-30%,Non-Solver
+CR_Conf,A1I72NHC21347A,54,Female,Right,High School/GED,There is no way to know without additional information,7,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1I7URHRM80OJ9,63,Male,Right,High School/GED,1000 hours,7,51-60%,11-20%,11-20%,11-20%,11-20%,11-20%,31-40%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A1IBQ7MUUTWLS9,30,Male,Left,Graduate Degree,1 hour,8,61-70%,11-20%,21-30%,0-10%,11-20%,51-60%,31-40%,31-40%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1ICXLX9EC5KMV,48,Male,Right,High School/GED,Infinity,8,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,51-60%,61-70%,61-70%,11-20%,0-10%,Non-Solver
+CR_Conf,A1IEAOCJNSPVRX,29,Female,Right,College,Infinity,4,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,Non-Solver
+CR_Conf,A1IFJGY0AIFDBK,30,Male,Right,Graduate Degree,There is no way to know without additional information,3,31-40%,0-10%,11-20%,31-40%,51-60%,51-60%,61-70%,21-30%,0-10%,61-70%,61-70%,Non-Solver
+CR_Conf,A1IHFGSOFAE7MK,57,Male,Right,High School/GED,1000 minutes,3,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,11-20%,0-10%,21-30%,51-60%,Non-Solver
+CR_Conf,A1IHFT9QVJ5H94,57,Female,Right,College,There is no way to know without additional information,7,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,Non-Solver
+CR_Conf,A1ILD5BPLI8X1P,24,Male,Right,College,Infinity,7,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,31-40%,21-30%,Non-Solver
+CR_Conf,A1IR488PZYN94W,28,Male,Right,Graduate Degree,1000 hours,7,41-50%,0-10%,0-10%,41-50%,21-30%,31-40%,51-60%,51-60%,41-50%,41-50%,31-40%,Non-Solver
+CR_Conf,A1J1PWS99LFVPL,38,Female,Right,Graduate Degree,1 hour,9,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1J4N2SE30LCUH,71,Male,Right,Graduate Degree,There is no way to know without additional information,9,31-40%,0-10%,61-70%,21-30%,31-40%,21-30%,11-20%,0-10%,0-10%,41-50%,61-70%,Non-Solver
+CR_Conf,A1J4SLXI1A1PF,67,Male,Right,College,There is no way to know without additional information,10,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,Non-Solver
+CR_Conf,A1J7B88OY9694M,25,Female,Right,Graduate Degree,1000 minutes,6,31-40%,0-10%,0-10%,41-50%,61-70%,31-40%,21-30%,41-50%,31-40%,61-70%,41-50%,Non-Solver
+CR_Conf,A1J82TFS52JTQ8,48,Male,Right,Graduate Degree,1 hour,5,51-60%,0-10%,0-10%,41-50%,51-60%,61-70%,41-50%,51-60%,41-50%,31-40%,31-40%,Solver
+CR_Conf,A1J9IYN46FX00O,28,Male,Right,College,1 hour,3,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,21-30%,11-20%,Solver
+CR_Conf,A1JBP4MR0694WV,25,Female,Right,Graduate Degree,1 hour,8,51-60%,0-10%,0-10%,61-70%,41-50%,51-60%,31-40%,51-60%,21-30%,41-50%,21-30%,Solver
+CR_Conf,A1JMD1M91WRWGB,45,Male,Both hands are equally strong,College,1 hour,7,21-30%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1JPUM7KH3020K,57,Female,Left,High School/GED,1000 hours,2,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A1JV64BL3WCK0G,40,Female,Left,High School/GED,There is no way to know without additional information,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A1JVO7FLPATHUB,26,Male,Right,High School/GED,Infinity,1,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,31-40%,31-40%,0-10%,Non-Solver
+CR_Conf,A1JY4MHK3V85FY,35,Male,Right,Graduate Degree,1 second,8,61-70%,71-80%,51-60%,41-50%,31-40%,41-50%,31-40%,21-30%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,A1KGCOR8OXYR72,33,Male,Right,College,Infinity,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,21-30%,Non-Solver
+CR_Conf,A1KK732EBDOVXM,30,Female,Right,College,Infinity,8,11-20%,0-10%,0-10%,0-10%,21-30%,31-40%,31-40%,31-40%,11-20%,51-60%,71-80%,Non-Solver
+CR_Conf,A1KKEN3JBVHJMO,18,Male,Right,College,1000 hours,4,21-30%,0-10%,31-40%,0-10%,11-20%,21-30%,61-70%,31-40%,41-50%,51-60%,71-80%,Non-Solver
+CR_Conf,A1KOHXO0BIQB8T,66,Male,Right,High School/GED,There is no way to know without additional information,10,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,Non-Solver
+CR_Conf,A1KRO0JWU6LT0I,35,Female,Right,College,Infinity,7,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,21-30%,31-40%,51-60%,11-20%,Non-Solver
+CR_Conf,A1KSD1NY2FPVG,35,Male,Both hands are equally strong,Graduate Degree,Infinity,4,21-30%,21-30%,21-30%,11-20%,31-40%,21-30%,31-40%,31-40%,21-30%,31-40%,31-40%,Non-Solver
+CR_Conf,A1KWC8TW8ANBQ8,55,Female,Right,College,1000 minutes,6,51-60%,0-10%,0-10%,0-10%,11-20%,51-60%,21-30%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1L2N1X8U8Z3W7,31,Female,Right,College,1000 hours,1,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1L3937MY09J3I,36,Male,Right,College,1000 minutes,6,21-30%,0-10%,0-10%,0-10%,21-30%,0-10%,11-20%,11-20%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A1L4BY5GG3U3LX,54,Male,Left,High School/GED,Infinity,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,51-60%,11-20%,Non-Solver
+CR_Conf,A1L677O8032TL1,43,Female,Right,College,Infinity,2,81-90%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,A1LAEN77KY07TK,39,Male,Left,College,1000 minutes,4,31-40%,11-20%,61-70%,0-10%,31-40%,21-30%,21-30%,41-50%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A1LD0QIDVO016U,49,Female,Right,College,2000 hours,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A1LKKK4H3XF42C,20,Male,Right,High School/GED,Infinity,2,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,31-40%,21-30%,11-20%,0-10%,Non-Solver
+CR_Conf,A1LSGYXKP6O1B8,34,Male,Right,College,There is no way to know without additional information,8,21-30%,0-10%,0-10%,0-10%,21-30%,0-10%,31-40%,11-20%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A1LXW53Z5S9XG,43,Male,Right,College,Infinity,7,61-70%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,31-40%,61-70%,0-10%,Non-Solver
+CR_Conf,A1M24593XO5Z3C,26,Male,Right,High School/GED,Infinity,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,61-70%,91-100%,21-30%,Non-Solver
+CR_Conf,A1M3HU7RRX0BXZ,39,Female,Right,Graduate Degree,2000 hours,4,21-30%,11-20%,11-20%,21-30%,21-30%,21-30%,31-40%,31-40%,31-40%,41-50%,51-60%,Non-Solver
+CR_Conf,A1M682B2WUSYJP,33,Male,Right,College,Infinity,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A1M8NRHSH58X25,39,Male,Right,High School/GED,1 hour,2,31-40%,0-10%,11-20%,11-20%,31-40%,41-50%,51-60%,41-50%,11-20%,0-10%,11-20%,Solver
+CR_Conf,A1MIB492BU9KIQ,44,Female,Right,College,Infinity,2,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1N0KY93FD1YXK,22,Female,Both hands are equally strong,College,1 minute,6,11-20%,61-70%,51-60%,51-60%,51-60%,61-70%,51-60%,41-50%,51-60%,61-70%,51-60%,Non-Solver
+CR_Conf,A1N18MITH00IW7,28,Male,Right,Graduate Degree,1 minute,7,71-80%,11-20%,21-30%,61-70%,31-40%,21-30%,31-40%,31-40%,41-50%,31-40%,31-40%,Non-Solver
+CR_Conf,A1N2O9SRQSVL03,28,Female,Right,College,Infinity,5,41-50%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,31-40%,31-40%,61-70%,11-20%,Non-Solver
+CR_Conf,A1N34IJ4VY3Y80,43,Female,Right,College,Infinity,3,51-60%,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1N35VV9QURKHX,43,Female,Right,College,1 hour,6,51-60%,0-10%,0-10%,0-10%,21-30%,51-60%,0-10%,0-10%,0-10%,0-10%,41-50%,Solver
+CR_Conf,A1NCSZCN8EA787,44,Male,Right,College,1 hour,4,21-30%,0-10%,21-30%,41-50%,0-10%,31-40%,11-20%,0-10%,0-10%,21-30%,11-20%,Solver
+CR_Conf,A1NENB83QRIAU,30,Male,Right,Graduate Degree,1 minute,10,81-90%,81-90%,71-80%,81-90%,51-60%,71-80%,71-80%,61-70%,71-80%,81-90%,61-70%,Non-Solver
+CR_Conf,A1NGG9MJ39HX5L,30,Male,Right,Graduate Degree,1000 hours,8,51-60%,41-50%,51-60%,51-60%,51-60%,41-50%,61-70%,61-70%,51-60%,51-60%,51-60%,Non-Solver
+CR_Conf,A1NITBXDX8TN7T,48,Female,Right,Graduate Degree,There is no way to know without additional information,10,11-20%,0-10%,0-10%,0-10%,0-10%,31-40%,41-50%,51-60%,41-50%,71-80%,81-90%,Non-Solver
+CR_Conf,A1NKBXOTZAI1YK,32,Male,Right,High School/GED,2000 hours,3,11-20%,0-10%,11-20%,0-10%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,41-50%,Non-Solver
+CR_Conf,A1NR3COO33J99C,37,Male,Right,Graduate Degree,Infinity,9,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,91-100%,91-100%,Non-Solver
+CR_Conf,A1NZFJHVJ9CNTO,29,Male,Right,High School/GED,Infinity,10,61-70%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,41-50%,11-20%,Non-Solver
+CR_Conf,A1O6RWI7T20126,65,Female,Right,Graduate Degree,1000 hours,8,71-80%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,61-70%,51-60%,41-50%,Non-Solver
+CR_Conf,A1OAPKSCEYJC37,28,Female,Right,Graduate Degree,1000 minutes,5,31-40%,0-10%,0-10%,0-10%,31-40%,21-30%,11-20%,21-30%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A1OK1RLVXS2RKJ,29,Prefer not to say,Right,College,There is no way to know without additional information,10,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1OKMU27HBN9T3,46,Female,Right,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A1OL25WY0BYMMH,52,Male,Right,College,1 hour,8,31-40%,0-10%,0-10%,0-10%,11-20%,61-70%,31-40%,21-30%,0-10%,11-20%,21-30%,Solver
+CR_Conf,A1OR82RF1ZFWP,68,Female,Right,High School/GED,Infinity,3,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,71-80%,71-80%,Non-Solver
+CR_Conf,A1OSRB1Q63XXWZ,58,Female,Right,College,Infinity,7,31-40%,0-10%,0-10%,0-10%,21-30%,31-40%,31-40%,21-30%,21-30%,51-60%,41-50%,Non-Solver
+CR_Conf,A1OZN075MPLC9V,49,Male,Right,High School/GED,1000 hours,7,51-60%,0-10%,0-10%,0-10%,51-60%,0-10%,31-40%,11-20%,11-20%,11-20%,81-90%,Non-Solver
+CR_Conf,A1P0FSO4SO9LAF,25,Male,Right,College,1000 minutes,9,41-50%,71-80%,91-100%,71-80%,81-90%,71-80%,61-70%,81-90%,71-80%,81-90%,91-100%,Non-Solver
+CR_Conf,A1P3J34DH57JNB,34,Female,Right,College,Infinity,5,21-30%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A1PBRKFHSF1OF8,33,Female,Right,College,There is no way to know without additional information,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A1PHDT66U6IK4Q,65,Male,Right,College,There is no way to know without additional information,8,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,71-80%,Non-Solver
+CR_Conf,A1PLQGQ95NICAF,45,Male,Left,College,There is no way to know without additional information,6,0-10%,0-10%,31-40%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,51-60%,41-50%,Non-Solver
+CR_Conf,A1PS11IRT9EFRI,46,Male,Right,Graduate Degree,1000 minutes,8,61-70%,71-80%,61-70%,71-80%,61-70%,51-60%,61-70%,71-80%,61-70%,51-60%,41-50%,Non-Solver
+CR_Conf,A1PT6264PIYFCI,28,Female,Right,Graduate Degree,1 minute,6,41-50%,41-50%,31-40%,41-50%,51-60%,61-70%,41-50%,21-30%,31-40%,41-50%,41-50%,Non-Solver
+CR_Conf,A1PUHCEBSOWETV,22,Male,Right,College,1000 seconds,3,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1Q68M0X4YXHKH,36,Prefer not to say,Right,College,Infinity,9,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,A1QDDGYC5UB9YA,41,Female,Right,College,1 hour,3,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,31-40%,31-40%,Solver
+CR_Conf,A1QHJGHKDIG3T5,37,Female,Right,Graduate Degree,1000 hours,1,0-10%,31-40%,51-60%,21-30%,71-80%,31-40%,71-80%,51-60%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1QHNL8EE7XS4M,30,Female,Left,Graduate Degree,1 minute,10,61-70%,71-80%,81-90%,61-70%,61-70%,81-90%,81-90%,81-90%,71-80%,61-70%,81-90%,Non-Solver
+CR_Conf,A1QOMPJQC9M6UO,32,Female,Right,High School/GED,1000 minutes,6,41-50%,0-10%,0-10%,0-10%,0-10%,61-70%,61-70%,61-70%,61-70%,61-70%,61-70%,Non-Solver
+CR_Conf,A1QUBLZCONL4QD,40,Male,Right,College,1 hour,3,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,31-40%,41-50%,31-40%,51-60%,Solver
+CR_Conf,A1QVNF19XSRSD7,35,Male,Right,College,1000 minutes,5,21-30%,21-30%,11-20%,31-40%,41-50%,21-30%,31-40%,11-20%,21-30%,41-50%,31-40%,Non-Solver
+CR_Conf,A1QW6HQKXCLS1N,27,Male,Right,College,1 hour,7,21-30%,0-10%,0-10%,0-10%,0-10%,31-40%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1R5FQ17RRFMIF,38,Female,Right,College,1 hour,7,51-60%,51-60%,41-50%,51-60%,31-40%,41-50%,61-70%,31-40%,51-60%,41-50%,61-70%,Solver
+CR_Conf,A1RATFICCKLCQ,31,Female,Right,College,Infinity,6,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1RZJN7U08N4Y5,35,Female,Right,College,1000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1S1K7134S2VUC,46,Male,Both hands are equally strong,Graduate Degree,There is no way to know without additional information,9,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1S1O9ZCONEGE3,22,Male,Right,College,Infinity,3,0-10%,0-10%,0-10%,11-20%,21-30%,41-50%,51-60%,51-60%,61-70%,51-60%,51-60%,Non-Solver
+CR_Conf,A1S315FYTGY9GL,29,Male,Right,Graduate Degree,1000000 hours,2,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A1S3P218RBL9JY,45,Female,Right,Graduate Degree,Infinity,8,91-100%,21-30%,11-20%,0-10%,21-30%,11-20%,31-40%,21-30%,0-10%,91-100%,91-100%,Non-Solver
+CR_Conf,A1S7WGRS6BVBGW,39,Female,Right,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,51-60%,71-80%,Non-Solver
+CR_Conf,A1S88VQY8G8CNC,63,Male,Right,College,1000 seconds,1,11-20%,21-30%,0-10%,21-30%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1SBGHP430ZVZ1,27,Prefer not to say,Left,High School/GED,1000 hours,3,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A1SCLZJMXYG630,37,Male,Right,Graduate Degree,2000 hours,7,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1SFS9OSGRXODZ,49,Male,Right,High School/GED,1000000 hours,2,0-10%,0-10%,11-20%,0-10%,0-10%,31-40%,41-50%,41-50%,61-70%,41-50%,0-10%,Non-Solver
+CR_Conf,A1SIUJEL2LS8UO,30,Male,Right,College,1 second,6,21-30%,41-50%,11-20%,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A1SP4XA17LVUQI,32,Female,Left,High School/GED,1000 hours,6,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,21-30%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1ST0FIJXMNPPW,21,Male,Both hands are equally strong,High School/GED,1 hour,2,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A1SUHA3IDGN3LO,28,Male,Right,Graduate Degree,1000 seconds,8,71-80%,41-50%,61-70%,31-40%,21-30%,31-40%,41-50%,41-50%,31-40%,51-60%,41-50%,Non-Solver
+CR_Conf,A1SXYET0NA1IY5,30,Male,Right,College,There is no way to know without additional information,7,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,41-50%,Non-Solver
+CR_Conf,A1SYKMD6FC8BD3,28,Female,Right,Graduate Degree,1000 minutes,6,51-60%,11-20%,21-30%,11-20%,21-30%,51-60%,31-40%,11-20%,21-30%,51-60%,31-40%,Non-Solver
+CR_Conf,A1TA2I82B8DJSA,37,Male,Left,Graduate Degree,There is no way to know without additional information,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A1TLNLB9D87H6,35,Female,Left,College,1000 minutes,1,0-10%,0-10%,0-10%,0-10%,31-40%,41-50%,51-60%,31-40%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1TM0YUPC90UFZ,63,Male,Right,College,Infinity,10,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,41-50%,51-60%,11-20%,71-80%,Non-Solver
+CR_Conf,A1TMF8Z3VT364E,37,Female,Right,College,There is no way to know without additional information,4,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,21-30%,31-40%,41-50%,Non-Solver
+CR_Conf,A1TSD3O3C3ZUT6,27,Male,Right,High School/GED,1000 seconds,4,31-40%,11-20%,31-40%,41-50%,51-60%,61-70%,41-50%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A1TU2A8SKSYGY,24,Male,Left,College,Infinity,9,51-60%,21-30%,0-10%,21-30%,0-10%,31-40%,31-40%,41-50%,51-60%,41-50%,61-70%,Non-Solver
+CR_Conf,A1TUI63TLCHYMR,40,Female,Right,Graduate Degree,1 hour,9,71-80%,61-70%,71-80%,51-60%,41-50%,51-60%,61-70%,71-80%,81-90%,71-80%,81-90%,Solver
+CR_Conf,A1TYMXIYUUUL6F,31,Male,Left,College,1000 hours,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1TZCSZA0IQ6JB,27,Male,Right,Graduate Degree,1 minute,6,41-50%,31-40%,61-70%,51-60%,61-70%,71-80%,51-60%,41-50%,31-40%,51-60%,51-60%,Non-Solver
+CR_Conf,A1U1GMBTI1BGL2,29,Male,Right,College,1 minute,8,41-50%,51-60%,31-40%,71-80%,61-70%,31-40%,41-50%,71-80%,71-80%,41-50%,51-60%,Non-Solver
+CR_Conf,A1U3TT3VMH9FU9,24,Female,Right,College,Infinity,7,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A1UCWQNS6WL35N,36,Female,Right,Graduate Degree,1000 seconds,8,31-40%,11-20%,11-20%,21-30%,41-50%,51-60%,41-50%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A1ULZEKGAZ6D0E,26,Female,Right,Graduate Degree,1 minute,6,11-20%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,61-70%,71-80%,51-60%,51-60%,Non-Solver
+CR_Conf,A1USDMJVT10CE4,26,Male,Right,College,1 hour,4,21-30%,31-40%,31-40%,31-40%,31-40%,31-40%,21-30%,21-30%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A1USR9JCAMDGM3,33,Female,Right,High School/GED,1000 minutes,1,11-20%,0-10%,11-20%,11-20%,41-50%,41-50%,41-50%,31-40%,0-10%,21-30%,31-40%,Non-Solver
+CR_Conf,A1USST4VUQUHGF,28,Female,Right,Graduate Degree,1 hour,8,41-50%,71-80%,71-80%,61-70%,61-70%,51-60%,61-70%,71-80%,71-80%,61-70%,71-80%,Solver
+CR_Conf,A1UT24L635HEZ6,36,Male,Right,College,1 hour,6,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,11-20%,41-50%,Solver
+CR_Conf,A1V0L5FYLMAHTG,62,Female,Right,College,1 hour,3,21-30%,0-10%,0-10%,0-10%,11-20%,71-80%,61-70%,51-60%,41-50%,71-80%,51-60%,Solver
+CR_Conf,A1V1Q9L3DG40WQ,24,Male,Right,Graduate Degree,1 minute,5,41-50%,21-30%,11-20%,81-90%,31-40%,61-70%,41-50%,71-80%,51-60%,0-10%,11-20%,Non-Solver
+CR_Conf,A1V2AXAOP2XLND,43,Male,Left,Graduate Degree,2000 hours,3,21-30%,0-10%,0-10%,11-20%,21-30%,61-70%,21-30%,31-40%,11-20%,71-80%,71-80%,Non-Solver
+CR_Conf,A1V2H0UF94ATWY,59,Male,Right,High School/GED,1 hour,5,31-40%,0-10%,0-10%,0-10%,11-20%,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A1V5VJE32G7HDE,48,Female,Left,High School/GED,1000000 hours,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,31-40%,31-40%,Non-Solver
+CR_Conf,A1VAL7L9L79IN0,28,Male,Right,High School/GED,There is no way to know without additional information,3,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,A1VC6F0FYG1L5I,36,Female,Right,College,There is no way to know without additional information,5,41-50%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,0-10%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A1VCAMP3XM62R4,36,Male,Right,High School/GED,1 hour,6,31-40%,0-10%,21-30%,11-20%,31-40%,61-70%,31-40%,31-40%,11-20%,41-50%,41-50%,Solver
+CR_Conf,A1VDJ5IGNKQBLU,31,Female,Right,College,There is no way to know without additional information,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A1VDWLPTE2XC88,31,Male,Left,Graduate Degree,There is no way to know without additional information,8,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,0-10%,41-50%,Non-Solver
+CR_Conf,A1VDWLPTE2XC88,31,Male,Left,Graduate Degree,There is no way to know without additional information,8,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,31-40%,Non-Solver
+CR_Conf,A1VE1CAMPSYRHE,44,Female,Right,College,1000 hours,3,41-50%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A1VEEZ5D9WXZIV,53,Female,Left,High School/GED,Infinity,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A1VFIUM6FD1D2M,57,Male,Right,College,Infinity,9,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A1VFRCYMWGWWCZ,34,Female,Right,High School/GED,1000 minutes,4,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,21-30%,11-20%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A1VJ4ZOXP9PUCP,29,Female,Right,College,Infinity,2,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A1VKVBVPK57OD5,31,Female,Right,College,1000 seconds,6,21-30%,0-10%,11-20%,21-30%,11-20%,31-40%,11-20%,21-30%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A1VR49TB3Q4BV8,24,Male,Right,College,1 minute,6,31-40%,31-40%,31-40%,41-50%,51-60%,41-50%,31-40%,31-40%,41-50%,41-50%,51-60%,Non-Solver
+CR_Conf,A1VSHM4NLZ705D,39,Male,Right,High School/GED,Infinity,9,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,71-80%,81-90%,Non-Solver
+CR_Conf,A1W0RFLBR5FSPD,28,Male,Left,Graduate Degree,1000 hours,10,61-70%,0-10%,0-10%,0-10%,0-10%,61-70%,51-60%,31-40%,11-20%,41-50%,31-40%,Non-Solver
+CR_Conf,A1WFTVEEPWWLMU,45,Female,Right,Graduate Degree,There is no way to know without additional information,7,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,51-60%,51-60%,31-40%,61-70%,61-70%,Non-Solver
+CR_Conf,A1WFX002RMZY7N,43,Female,Right,High School/GED,Infinity,2,11-20%,0-10%,11-20%,21-30%,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1WH32GYQOHIRQ,53,Female,Right,High School/GED,Infinity,6,21-30%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,Non-Solver
+CR_Conf,A1WJU1IQ3UTRC6,39,Male,Right,High School/GED,Infinity,8,21-30%,0-10%,21-30%,11-20%,41-50%,31-40%,51-60%,61-70%,71-80%,81-90%,0-10%,Non-Solver
+CR_Conf,A1WKF2VH7TV0H2,23,Female,Right,College,1 hour,7,11-20%,0-10%,41-50%,11-20%,21-30%,41-50%,21-30%,0-10%,0-10%,31-40%,51-60%,Solver
+CR_Conf,A1WWDLR9F8RBMN,49,Male,Right,Graduate Degree,There is no way to know without additional information,10,51-60%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,0-10%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,A1WYMR7MGOCO83,39,Male,Right,High School/GED,Infinity,7,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,Non-Solver
+CR_Conf,A1WZ7YAPM1K559,25,Male,Right,College,1 hour,8,61-70%,51-60%,71-80%,41-50%,31-40%,21-30%,11-20%,21-30%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1WZBK5PRHBW3H,57,Male,Right,High School/GED,1 hour,5,21-30%,0-10%,0-10%,0-10%,0-10%,81-90%,0-10%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A1X2NKYJNHB1A5,43,Female,Left,College,Infinity,3,11-20%,0-10%,11-20%,21-30%,21-30%,21-30%,41-50%,51-60%,61-70%,81-90%,91-100%,Non-Solver
+CR_Conf,A1X4HV5XW7EMA2,32,Male,Right,Graduate Degree,1000 minutes,5,21-30%,21-30%,61-70%,41-50%,71-80%,41-50%,21-30%,41-50%,11-20%,21-30%,41-50%,Non-Solver
+CR_Conf,A1X8YRYS8MBDWX,65,Male,Right,College,Infinity,6,11-20%,0-10%,0-10%,0-10%,21-30%,31-40%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A1XK77VP2S13YC,47,Male,Right,College,There is no way to know without additional information,7,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A1XOORV7G5IVGI,71,Male,Right,High School/GED,1000 seconds,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1Y4C2TYJFRF1G,52,Male,Right,College,There is no way to know without additional information,5,21-30%,0-10%,11-20%,21-30%,41-50%,31-40%,51-60%,61-70%,71-80%,81-90%,81-90%,Non-Solver
+CR_Conf,A1Y6YA93AFCHPY,59,Female,Right,Graduate Degree,1000 hours,8,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,41-50%,Non-Solver
+CR_Conf,A1Y9395AXC1FS0,36,Male,Right,College,There is no way to know without additional information,10,11-20%,0-10%,0-10%,0-10%,31-40%,0-10%,31-40%,41-50%,51-60%,31-40%,71-80%,Non-Solver
+CR_Conf,A1YBG1VIIO80DZ,33,Female,Right,College,1000 hours,3,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,0-10%,0-10%,11-20%,41-50%,Non-Solver
+CR_Conf,A1YBX7P5PY8LL,37,Male,Right,Graduate Degree,There is no way to know without additional information,8,41-50%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,11-20%,0-10%,41-50%,Non-Solver
+CR_Conf,A1YBZWXXW358IF,64,Male,Right,High School/GED,1 hour,2,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1YE5MMN372OQC,42,Female,Right,College,1000 hours,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,0-10%,Non-Solver
+CR_Conf,A1YFLIT0E5OJG4,56,Male,Right,High School/GED,There is no way to know without additional information,9,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,41-50%,51-60%,Non-Solver
+CR_Conf,A1YGF0LJJGB30G,38,Male,Both hands are equally strong,High School/GED,1000 hours,2,21-30%,0-10%,0-10%,0-10%,31-40%,0-10%,21-30%,51-60%,41-50%,21-30%,21-30%,Non-Solver
+CR_Conf,A1YP6FLJ18FJHN,26,Female,Right,College,1000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,51-60%,71-80%,21-30%,31-40%,51-60%,41-50%,Non-Solver
+CR_Conf,A1YQRXE5CBVBHV,28,Male,Right,Graduate Degree,1000 seconds,8,11-20%,71-80%,61-70%,91-100%,81-90%,71-80%,61-70%,91-100%,81-90%,61-70%,71-80%,Non-Solver
+CR_Conf,A1YU4SBBNGGP75,28,Male,Right,College,1000 minutes,7,31-40%,0-10%,0-10%,51-60%,51-60%,71-80%,61-70%,51-60%,71-80%,71-80%,51-60%,Non-Solver
+CR_Conf,A1YXJR7PNV16LV,45,Female,Left,College,There is no way to know without additional information,4,21-30%,0-10%,11-20%,31-40%,31-40%,31-40%,21-30%,0-10%,0-10%,0-10%,51-60%,Non-Solver
+CR_Conf,A1YZ0ETOCJO1B2,35,Male,Right,College,1 hour,2,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A1YZJTC04W0A01,30,Male,Right,High School/GED,1000 hours,4,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1Z3JC2PWOL1NY,62,Female,Right,College,There is no way to know without additional information,7,11-20%,0-10%,11-20%,0-10%,11-20%,21-30%,21-30%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1Z6Z8DLHRO46O,40,Male,Left,High School/GED,There is no way to know without additional information,5,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A1ZD8RU6YB0VEU,25,Male,Left,High School/GED,There is no way to know without additional information,10,21-30%,0-10%,0-10%,11-20%,21-30%,21-30%,31-40%,31-40%,31-40%,61-70%,31-40%,Non-Solver
+CR_Conf,A1ZD9SJXQ9C6EW,26,Male,Right,College,1000 hours,6,31-40%,0-10%,0-10%,0-10%,21-30%,11-20%,41-50%,51-60%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A1ZEKTR4YBTMVO,23,Female,Right,College,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A1ZGUINLRI34VO,28,Male,Right,Graduate Degree,1 second,7,61-70%,71-80%,51-60%,81-90%,81-90%,51-60%,21-30%,11-20%,41-50%,71-80%,41-50%,Non-Solver
+CR_Conf,A1ZH3ZHSDR0EDZ,25,Male,Right,College,1 hour,8,21-30%,0-10%,0-10%,11-20%,0-10%,21-30%,11-20%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A1ZHVMG4DXPLHL,27,Female,Right,College,Infinity,10,31-40%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,21-30%,21-30%,31-40%,31-40%,Non-Solver
+CR_Conf,A1ZMXWYKWSH0I8,66,Female,Right,Graduate Degree,1000 hours,7,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A205N2LYF7T1LM,31,Female,Right,College,1000 hours,2,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A207IHY6GERCFO,35,Male,Left,College,1 hour,5,41-50%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,0-10%,0-10%,21-30%,11-20%,Solver
+CR_Conf,A209KJOPCV44TQ,26,Female,Left,Graduate Degree,Infinity,10,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,31-40%,Non-Solver
+CR_Conf,A20AZHMLAM1MHV,26,Male,Right,Graduate Degree,1000 seconds,6,41-50%,0-10%,61-70%,51-60%,41-50%,31-40%,21-30%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A20C7ZLLE41JUO,33,Female,Right,High School/GED,1 hour,9,61-70%,0-10%,0-10%,0-10%,0-10%,51-60%,11-20%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A20FTMW1E6AR1T,33,Male,Right,College,Infinity,9,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,71-80%,61-70%,Non-Solver
+CR_Conf,A20K99JZE0L8HU,22,Male,Left,College,There is no way to know without additional information,10,41-50%,11-20%,21-30%,11-20%,0-10%,11-20%,0-10%,21-30%,31-40%,21-30%,11-20%,Non-Solver
+CR_Conf,A20N1NK5X5S88F,32,Male,Left,High School/GED,There is no way to know without additional information,10,61-70%,21-30%,21-30%,31-40%,31-40%,41-50%,11-20%,0-10%,0-10%,0-10%,61-70%,Non-Solver
+CR_Conf,A20RVM3V1A3DKX,55,Male,Right,High School/GED,1000 hours,2,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A20SXG1DHDIDI7,46,Female,Right,High School/GED,There is no way to know without additional information,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A218V56FZZD9B8,23,Male,Right,High School/GED,1000 hours,6,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A21C13L3DKZJW1,41,Male,Right,College,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A21C7LCEX3EYQH,45,Female,Right,High School/GED,There is no way to know without additional information,5,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,81-90%,81-90%,Non-Solver
+CR_Conf,A21P6KJJT0SLXQ,35,Female,Both hands are equally strong,College,1 minute,10,81-90%,61-70%,31-40%,51-60%,41-50%,51-60%,61-70%,71-80%,81-90%,41-50%,41-50%,Non-Solver
+CR_Conf,A21SF3IKIZB0VN,72,Female,Left,Graduate Degree,There is no way to know without additional information,10,81-90%,0-10%,0-10%,0-10%,0-10%,81-90%,0-10%,0-10%,0-10%,0-10%,81-90%,Non-Solver
+CR_Conf,A21UA6O7ZFAIQJ,36,Male,Right,College,Infinity,2,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,71-80%,11-20%,Non-Solver
+CR_Conf,A21ZMR7O42OSMI,38,Female,Right,High School/GED,1000 hours,3,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A224B7BAQ0MZSN,24,Female,Right,College,1000 hours,2,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,0-10%,11-20%,Non-Solver
+CR_Conf,A22A52DRIIEV6K,32,Male,Right,Graduate Degree,2000 hours,6,61-70%,31-40%,51-60%,61-70%,71-80%,81-90%,81-90%,21-30%,81-90%,31-40%,21-30%,Non-Solver
+CR_Conf,A22FYR6PQNQXDA,32,Female,Right,College,1 hour,2,21-30%,11-20%,11-20%,21-30%,21-30%,31-40%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A22JV1E02E0VQO,28,Male,Right,College,1000 hours,9,11-20%,0-10%,0-10%,61-70%,71-80%,51-60%,61-70%,61-70%,81-90%,61-70%,51-60%,Non-Solver
+CR_Conf,A234SQAJKIG8VD,38,Male,Right,Graduate Degree,1000000 hours,7,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,21-30%,21-30%,21-30%,Non-Solver
+CR_Conf,A235DXY5FJN0IW,28,Female,Left,College,1000 minutes,5,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A2393VG74LGXWN,29,Male,Right,College,1000 seconds,7,41-50%,11-20%,41-50%,51-60%,31-40%,71-80%,51-60%,31-40%,41-50%,51-60%,41-50%,Non-Solver
+CR_Conf,A239EUWY6SNDEZ,37,Female,Left,College,2000 hours,2,21-30%,0-10%,11-20%,21-30%,41-50%,31-40%,51-60%,41-50%,31-40%,51-60%,41-50%,Non-Solver
+CR_Conf,A23BQ23YJE0VYL,29,Male,Right,High School/GED,1000 hours,8,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A23KAJRDVCVGOE,40,Male,Left,High School/GED,1 minute,2,11-20%,0-10%,11-20%,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A23MUEBG3CX8ZH,34,Male,Right,College,There is no way to know without additional information,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A23OS0HQ12VVOR,31,Male,Right,High School/GED,1000 hours,5,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,41-50%,31-40%,11-20%,0-10%,11-20%,Non-Solver
+CR_Conf,A23Q978GYHTPD3,25,Male,Right,Graduate Degree,Infinity,6,51-60%,21-30%,31-40%,41-50%,31-40%,31-40%,51-60%,31-40%,41-50%,61-70%,71-80%,Non-Solver
+CR_Conf,A23S3TBFRILU5H,33,Female,Right,Graduate Degree,1000 hours,1,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,21-30%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A240OTT1T85UGT,35,Male,Right,College,There is no way to know without additional information,9,31-40%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,A247LQ2UQW4LH0,34,Female,Right,College,Infinity,5,11-20%,0-10%,0-10%,11-20%,21-30%,31-40%,21-30%,31-40%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,A247NH2O6XIL28,25,Male,Right,College,2000 hours,7,21-30%,61-70%,71-80%,61-70%,61-70%,71-80%,61-70%,51-60%,61-70%,51-60%,61-70%,Non-Solver
+CR_Conf,A247PDSKLZU86P,32,Male,Left,College,There is no way to know without additional information,6,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2482SLAY120J2,65,Male,Right,College,There is no way to know without additional information,10,71-80%,0-10%,0-10%,0-10%,0-10%,31-40%,21-30%,11-20%,0-10%,61-70%,61-70%,Non-Solver
+CR_Conf,A248QG4DPULP46,64,Female,Right,College,There is no way to know without additional information,10,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,0-10%,71-80%,Non-Solver
+CR_Conf,A24OFVJG4SHSWU,28,Male,Right,Graduate Degree,1 minute,9,31-40%,61-70%,71-80%,61-70%,51-60%,61-70%,51-60%,61-70%,51-60%,61-70%,51-60%,Non-Solver
+CR_Conf,A24RGLS3BRZ60J,33,Female,Right,High School/GED,1000 hours,5,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A2541C8MY0BYV3,29,Male,Right,College,1 hour,4,41-50%,11-20%,11-20%,31-40%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,31-40%,Solver
+CR_Conf,A258MR1IS96JEP,35,Male,Left,High School/GED,1 second,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A25CFVQND4A0EV,24,Male,Right,High School/GED,1 hour,1,11-20%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A25DP39XRZDLQM,26,Female,Right,High School/GED,1 hour,2,21-30%,11-20%,21-30%,31-40%,41-50%,31-40%,21-30%,11-20%,21-30%,21-30%,41-50%,Solver
+CR_Conf,A25FH7PXC446RG,52,Female,Right,College,Infinity,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,51-60%,0-10%,Non-Solver
+CR_Conf,A25R2OI9L2Q1OW,44,Male,Right,College,1000 seconds,10,31-40%,0-10%,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A25RPYFIZRW6HN,32,Male,Right,High School/GED,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A25ZZOSL7MVU22,27,Male,Right,College,1000 hours,2,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,51-60%,0-10%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,A26A4HEBGP2MOX,40,Male,Right,College,1000 hours,7,11-20%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A26MHSME6PFECG,27,Male,Right,High School/GED,There is no way to know without additional information,7,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,41-50%,71-80%,Non-Solver
+CR_Conf,A26N7JWACRX7BW,29,non binary,Right,College,There is no way to know without additional information,4,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A26NGLGGFTATVN,37,Male,Right,High School/GED,Infinity,5,21-30%,0-10%,11-20%,0-10%,21-30%,21-30%,31-40%,31-40%,51-60%,41-50%,31-40%,Non-Solver
+CR_Conf,A26RO8GGTQAXGG,55,Female,Right,College,Infinity,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A26TY8FHMJ183C,29,Male,Right,College,1000 hours,2,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,11-20%,Non-Solver
+CR_Conf,A270HX8LH9LJ8W,37,Male,Right,Graduate Degree,1 hour,7,31-40%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A271V19C06841K,32,Male,Left,College,1000 hours,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A27CRMVD7S41J,35,Female,Right,Graduate Degree,There is no way to know without additional information,3,31-40%,51-60%,41-50%,21-30%,71-80%,11-20%,31-40%,61-70%,81-90%,41-50%,41-50%,Non-Solver
+CR_Conf,A27RS192S3Q5EW,54,Female,Right,College,There is no way to know without additional information,10,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,21-30%,31-40%,21-30%,21-30%,71-80%,Non-Solver
+CR_Conf,A27ZE20JZ3VDUP,27,Male,Right,College,1 hour,5,31-40%,11-20%,11-20%,41-50%,51-60%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A287E47V4ZVZ6D,28,Female,Right,Graduate Degree,1000 hours,8,81-90%,0-10%,0-10%,41-50%,51-60%,71-80%,81-90%,61-70%,51-60%,61-70%,41-50%,Non-Solver
+CR_Conf,A289D98Z4GAZ28,49,Male,Right,Graduate Degree,1 hour,2,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A289S5O8KN4JYI,33,Female,Right,College,There is no way to know without additional information,10,21-30%,0-10%,0-10%,0-10%,0-10%,61-70%,21-30%,11-20%,0-10%,31-40%,51-60%,Non-Solver
+CR_Conf,A28A7NZUJWGZ7Q,32,Female,Right,College,1000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A28F1ZWZ9H0RHA,34,Male,Right,College,There is no way to know without additional information,4,11-20%,0-10%,11-20%,0-10%,11-20%,31-40%,21-30%,11-20%,0-10%,0-10%,41-50%,Non-Solver
+CR_Conf,A28N0N4A0UP1XH,28,Male,Right,Graduate Degree,1000 minutes,8,71-80%,0-10%,0-10%,71-80%,61-70%,71-80%,71-80%,61-70%,71-80%,51-60%,71-80%,Non-Solver
+CR_Conf,A28P3ZGZB3XG9P,50,Female,Right,Graduate Degree,1 minute,6,11-20%,11-20%,21-30%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A28PSBVTD53WQV,22,Male,Right,College,There is no way to know without additional information,7,51-60%,71-80%,51-60%,41-50%,41-50%,61-70%,61-70%,51-60%,51-60%,71-80%,71-80%,Non-Solver
+CR_Conf,A28ZPY6D5AS7GZ,46,Male,Right,High School/GED,1000000 hours,4,11-20%,81-90%,91-100%,71-80%,0-10%,61-70%,11-20%,51-60%,21-30%,31-40%,41-50%,Non-Solver
+CR_Conf,A291ANCQDMM2QE,48,Female,Right,High School/GED,Infinity,3,51-60%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,21-30%,21-30%,51-60%,21-30%,Non-Solver
+CR_Conf,A2930JNK5X98HQ,26,Male,Right,College,Infinity,6,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A293TIAVWJX7KC,37,Female,Right,Graduate Degree,1000 hours,5,11-20%,21-30%,41-50%,31-40%,41-50%,51-60%,61-70%,61-70%,51-60%,11-20%,21-30%,Non-Solver
+CR_Conf,A298GPAEHRSV9J,28,Male,Right,Graduate Degree,1 second,9,61-70%,61-70%,31-40%,51-60%,31-40%,41-50%,31-40%,31-40%,21-30%,41-50%,31-40%,Non-Solver
+CR_Conf,A29LQXBCJLIG1H,24,Male,Right,College,Infinity,10,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A29M7C2GYXB3OM5,54,Female,Right,College,There is no way to know without additional information,8,51-60%,0-10%,0-10%,0-10%,31-40%,11-20%,21-30%,0-10%,11-20%,11-20%,31-40%,Non-Solver
+CR_Conf,A29RRZYB15066A,27,Male,Left,College,1000 hours,3,41-50%,0-10%,0-10%,11-20%,11-20%,21-30%,31-40%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A29SMGPDP7K9NU,28,Female,Right,College,Infinity,9,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,A29V2XPA9H2NAN,32,Female,Right,High School/GED,1 hour,4,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,Solver
+CR_Conf,A2A0M8N8ZCZBBL,40,Male,Right,College,2000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2A3WIYPZD8XSC,46,Female,Right,College,1000 hours,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A2A4DJKCY4T6N5,38,Male,Right,Graduate Degree,1000 minutes,6,41-50%,41-50%,41-50%,41-50%,41-50%,41-50%,51-60%,51-60%,41-50%,41-50%,41-50%,Non-Solver
+CR_Conf,A2A8YVGW9PSY25,32,Female,Right,High School/GED,1000000 hours,10,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2A91NSJ5LMGOT,28,Female,Right,College,Infinity,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,61-70%,0-10%,Non-Solver
+CR_Conf,A2AGDF3VY0L1QP,32,Male,Right,Graduate Degree,Infinity,9,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2AU67VHVTA68M,44,Female,Right,College,Infinity,6,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2AUMGW4F3G1OF,31,Female,Right,College,Infinity,9,21-30%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,71-80%,Non-Solver
+CR_Conf,A2B227N1NQYS56,33,Male,Right,High School/GED,1000 hours,4,31-40%,21-30%,51-60%,21-30%,31-40%,41-50%,61-70%,31-40%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2BHZNAKEDRYCB,42,Female,Right,College,1000 hours,4,21-30%,0-10%,71-80%,0-10%,71-80%,21-30%,41-50%,51-60%,81-90%,91-100%,91-100%,Non-Solver
+CR_Conf,A2BIRTV9HI6M5Z,27,Male,Right,Graduate Degree,1 hour,9,31-40%,0-10%,0-10%,31-40%,21-30%,41-50%,0-10%,21-30%,11-20%,21-30%,31-40%,Solver
+CR_Conf,A2BN1CX0PTWBXW,36,Male,Left,College,1000 minutes,3,21-30%,0-10%,0-10%,0-10%,21-30%,11-20%,21-30%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2BTDUJFLSBN8E,31,Male,Right,High School/GED,Infinity,3,11-20%,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,A2BV7O07LVX731,30,Female,Left,Graduate Degree,1 hour,6,21-30%,11-20%,0-10%,11-20%,0-10%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2BX8RJDS9GYZ1,41,Female,Right,High School/GED,Infinity,2,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A2BXQ8SZLFQF4D,57,Female,Right,College,Infinity,9,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,31-40%,11-20%,Non-Solver
+CR_Conf,A2BZY06YRWGEDL,30,Male,Right,High School/GED,Infinity,3,0-10%,0-10%,11-20%,21-30%,31-40%,31-40%,21-30%,11-20%,0-10%,61-70%,51-60%,Non-Solver
+CR_Conf,A2C39KTRMOM1XZ,53,Female,Right,High School/GED,1000 minutes,4,11-20%,0-10%,31-40%,31-40%,51-60%,41-50%,0-10%,0-10%,0-10%,31-40%,31-40%,Non-Solver
+CR_Conf,A2C4VDQC5HQ1YP,42,Male,Right,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,0-10%,21-30%,Non-Solver
+CR_Conf,A2CA2CUWD2BH07,69,Female,Right,Graduate Degree,There is no way to know without additional information,5,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2CAVHHY7X7YBP,27,Male,Right,Graduate Degree,Infinity,9,31-40%,0-10%,11-20%,21-30%,61-70%,41-50%,71-80%,21-30%,31-40%,51-60%,81-90%,Non-Solver
+CR_Conf,A2CF2BD4Q0ZDJN,56,Male,Right,College,Infinity,8,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,11-20%,31-40%,Non-Solver
+CR_Conf,A2CHDWKAYZ3P3E,32,Male,Right,High School/GED,Infinity,10,21-30%,0-10%,21-30%,11-20%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A2CHKF2A6F4MIX,34,Female,Right,Graduate Degree,1000 seconds,5,51-60%,21-30%,51-60%,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,11-20%,Non-Solver
+CR_Conf,A2CJNNTLFULCTH,47,Female,Right,College,Infinity,7,41-50%,0-10%,0-10%,0-10%,0-10%,31-40%,21-30%,21-30%,41-50%,41-50%,51-60%,Non-Solver
+CR_Conf,A2CLGYPCKVH59J,50,Male,Right,Graduate Degree,1 hour,8,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,11-20%,31-40%,Solver
+CR_Conf,A2D3K70E5IO34V,30,Female,Right,Graduate Degree,1000 hours,8,31-40%,41-50%,51-60%,51-60%,61-70%,51-60%,71-80%,61-70%,61-70%,51-60%,61-70%,Non-Solver
+CR_Conf,A2D6VL5XE0O4D3,28,Female,Right,College,There is no way to know without additional information,3,41-50%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,0-10%,11-20%,31-40%,Non-Solver
+CR_Conf,A2DC9KLE5M9G1A,28,Female,Both hands are equally strong,Graduate Degree,1 hour,8,51-60%,0-10%,0-10%,21-30%,21-30%,21-30%,21-30%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2DDOEOO1D99X4,47,Female,Right,Graduate Degree,1000 hours,6,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A2DFSLUXNR2HDC,34,Male,Right,College,Infinity,5,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2DFXQ3QVQ9ELH,35,Male,Right,College,1 hour,3,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A2DH6KE258SZBH,32,Female,Left,High School/GED,Infinity,4,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A2DNCU1H95HCBS,37,Male,Right,Graduate Degree,1 hour,10,41-50%,11-20%,21-30%,31-40%,41-50%,71-80%,51-60%,61-70%,11-20%,0-10%,0-10%,Solver
+CR_Conf,A2DNLHS1RSTF5R,33,Female,Right,Graduate Degree,1000 seconds,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2DVCDDVI697QR,41,Female,Right,College,1 hour,1,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2E1GWCDFUAZA3,40,Female,Right,College,There is no way to know without additional information,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2E2O8EBNS694H,24,Male,Left,College,There is no way to know without additional information,10,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,0-10%,11-20%,0-10%,31-40%,Non-Solver
+CR_Conf,A2EB254ETVD4KF,27,Male,Right,College,1000 minutes,9,21-30%,0-10%,0-10%,0-10%,61-70%,41-50%,31-40%,11-20%,11-20%,0-10%,61-70%,Non-Solver
+CR_Conf,A2EDI66B0KTBEH,48,Female,Left,College,Infinity,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2EE1ES8TUMNCM,36,Male,Right,College,Infinity,8,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,0-10%,Non-Solver
+CR_Conf,A2EED3HLTA96CP,42,Female,Right,College,Infinity,2,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,61-70%,71-80%,Non-Solver
+CR_Conf,A2EHH2ZFIRF1BF,60,Male,Right,High School/GED,1 hour,10,11-20%,0-10%,11-20%,11-20%,11-20%,41-50%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A2EI075XZT9Y2S,42,Male,Right,High School/GED,1000000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A2EOOF9D135HQ1,43,Male,Right,College,1 hour,8,41-50%,0-10%,0-10%,0-10%,11-20%,31-40%,41-50%,21-30%,0-10%,31-40%,31-40%,Solver
+CR_Conf,A2EUJY669L0PEH,25,Female,Both hands are equally strong,College,2000 hours,6,41-50%,0-10%,41-50%,41-50%,31-40%,41-50%,61-70%,71-80%,11-20%,81-90%,81-90%,Non-Solver
+CR_Conf,A2EXM21XS6NZV5,41,Male,Right,Graduate Degree,There is no way to know without additional information,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A2EZNZ6X58RTNR,36,Male,Right,Graduate Degree,1000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2F0A4FIVT9M3O,37,Female,Right,College,Infinity,4,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,81-90%,61-70%,Non-Solver
+CR_Conf,A2F3HRVAQOSIVQ,31,Female,Right,College,There is no way to know without additional information,5,51-60%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2F3K66NA4471N,27,Male,Right,Graduate Degree,1000 hours,7,51-60%,0-10%,0-10%,31-40%,21-30%,11-20%,11-20%,11-20%,31-40%,21-30%,11-20%,Non-Solver
+CR_Conf,A2FBP73AQACKZ2,36,Male,Right,College,1 hour,3,21-30%,0-10%,0-10%,11-20%,11-20%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2FKEASJJHYISJ,70,Female,Right,High School/GED,1 hour,1,21-30%,41-50%,11-20%,31-40%,21-30%,41-50%,41-50%,31-40%,31-40%,71-80%,71-80%,Solver
+CR_Conf,A2FLOH4DM8A4ZS,32,Male,Left,College,Infinity,10,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2FM59WS6UHSOD,23,Female,Right,College,1 hour,9,61-70%,0-10%,0-10%,0-10%,0-10%,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2FMAYSRF4VKNB,42,Male,Right,College,Infinity,5,21-30%,0-10%,0-10%,21-30%,11-20%,31-40%,21-30%,41-50%,41-50%,51-60%,31-40%,Non-Solver
+CR_Conf,A2G7F16RAOFTXG,24,Female,Right,College,Infinity,1,31-40%,0-10%,31-40%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2G7N0X0PNX0EE,32,Male,Right,College,1 hour,2,41-50%,0-10%,0-10%,0-10%,0-10%,41-50%,11-20%,0-10%,0-10%,11-20%,21-30%,Solver
+CR_Conf,A2GDIWT471AR78,52,Female,Right,College,There is no way to know without additional information,5,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2GQGYKPLKQGSZ,33,Male,Right,Graduate Degree,1 hour,10,11-20%,11-20%,21-30%,31-40%,21-30%,11-20%,31-40%,41-50%,31-40%,41-50%,41-50%,Solver
+CR_Conf,A2GTBBZA2M82NR,37,Male,Right,College,1000 hours,4,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,41-50%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A2GV9WSNSPX53,26,Male,Left,Graduate Degree,1 hour,2,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A2GZ00IMOT6L3X,49,Female,Right,High School/GED,1000000 hours,2,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A2GZNOA5CIVKUB,25,Female,Right,College,1 minute,7,21-30%,21-30%,31-40%,41-50%,41-50%,31-40%,31-40%,31-40%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,A2H1QUGX0SOUMH,68,Male,Right,College,There is no way to know without additional information,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,31-40%,Non-Solver
+CR_Conf,A2HDK3ZI4R4VJV,28,Male,Right,Graduate Degree,1 minute,9,91-100%,61-70%,51-60%,41-50%,51-60%,61-70%,51-60%,51-60%,61-70%,51-60%,51-60%,Non-Solver
+CR_Conf,A2HG1N3BVQO6I,57,Female,Right,High School/GED,Infinity,5,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,21-30%,41-50%,Non-Solver
+CR_Conf,A2HJ68MCAG1TD1,56,Female,Right,High School/GED,Infinity,5,41-50%,41-50%,31-40%,41-50%,31-40%,71-80%,51-60%,0-10%,61-70%,51-60%,51-60%,Non-Solver
+CR_Conf,A2I4VNAS21FXCE,47,Male,Right,College,1 hour,10,0-10%,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2I6ZALE49CVSC,28,Male,Right,High School/GED,1 hour,6,31-40%,0-10%,0-10%,41-50%,41-50%,61-70%,11-20%,31-40%,11-20%,0-10%,11-20%,Solver
+CR_Conf,A2IGPW784OFV3D,30,Male,Right,High School/GED,1 hour,5,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A2IHCA80163TL7,48,Female,Right,Graduate Degree,1000000 hours,2,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,A2ILMFOOCW8ITR,50,Male,Right,Graduate Degree,1 minute,9,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,71-80%,71-80%,91-100%,71-80%,Non-Solver
+CR_Conf,A2ILUP6FN8HKKC,31,Female,Right,College,1 hour,2,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A2IQ0QCTQ3KWLT,48,Female,Right,High School/GED,Infinity,5,11-20%,0-10%,0-10%,0-10%,41-50%,41-50%,41-50%,51-60%,51-60%,51-60%,41-50%,Non-Solver
+CR_Conf,A2IQU1LQHQHWQD,54,Female,Left,College,There is no way to know without additional information,6,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2ITJNPW1LDUN7,24,Male,Right,College,Infinity,6,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A2IU5TX5S0FA1C,65,Female,Right,High School/GED,There is no way to know without additional information,1,0-10%,0-10%,11-20%,0-10%,21-30%,21-30%,61-70%,71-80%,21-30%,41-50%,61-70%,Non-Solver
+CR_Conf,A2IVGLOBFOT67M,28,Female,Right,College,1000 minutes,2,21-30%,0-10%,0-10%,0-10%,21-30%,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A2J5XTBTEKX0T4,28,Male,Right,College,1000 minutes,9,61-70%,51-60%,61-70%,71-80%,61-70%,71-80%,61-70%,51-60%,41-50%,31-40%,21-30%,Non-Solver
+CR_Conf,A2J6T9ELNZ97JH,70,Male,Right,High School/GED,1000 hours,2,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A2JALZMZ2RMQ2W,30,Male,Right,High School/GED,1000 hours,7,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A2JC3V9RTU8XLW,57,Female,Right,High School/GED,There is no way to know without additional information,7,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,71-80%,Non-Solver
+CR_Conf,A2JCHN90PRUWDH,25,Male,Right,College,1000 seconds,2,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2JCK494NV7TFX,36,Male,Right,College,There is no way to know without additional information,4,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,31-40%,Non-Solver
+CR_Conf,A2JHF7CU91EVXW,44,Male,Right,College,1 hour,5,71-80%,0-10%,0-10%,0-10%,0-10%,41-50%,11-20%,11-20%,11-20%,0-10%,11-20%,Solver
+CR_Conf,A2JPOXYZM5AJZZ,46,Male,Left,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A2JTV44ZIGMS5D,45,Male,Right,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,11-20%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A2JZUSRBP6H5S,35,Male,Left,College,There is no way to know without additional information,9,21-30%,0-10%,21-30%,21-30%,11-20%,41-50%,21-30%,21-30%,21-30%,41-50%,41-50%,Non-Solver
+CR_Conf,A2K14THTRC00OH,24,Female,Right,Graduate Degree,2000 hours,8,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2K3MUBO2FWKRD,26,Male,Right,College,1000 hours,3,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A2K54VYAGSEL2O,30,Male,Right,High School/GED,There is no way to know without additional information,10,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A2KBTDHM44J7X4,32,Male,Right,College,1000 minutes,6,11-20%,0-10%,0-10%,0-10%,11-20%,51-60%,41-50%,0-10%,41-50%,11-20%,11-20%,Non-Solver
+CR_Conf,A2KED6T6BO622W,49,Female,Left,College,Infinity,8,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2KI0ORVSCIUK7,63,Male,Right,High School/GED,There is no way to know without additional information,2,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,81-90%,Non-Solver
+CR_Conf,A2KPTJMOIYHG69,51,Male,Left,College,Infinity,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,61-70%,11-20%,Non-Solver
+CR_Conf,A2L26DMSVUEDP6,45,Male,Right,High School/GED,There is no way to know without additional information,8,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,A2L9G4YBBC7Z99,40,Male,Right,Graduate Degree,1000 minutes,9,41-50%,51-60%,61-70%,71-80%,81-90%,71-80%,61-70%,51-60%,61-70%,71-80%,61-70%,Non-Solver
+CR_Conf,A2LF84L3K71GR2,36,Female,Left,High School/GED,1 hour,7,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A2LHAMZNC1JZA8,46,Female,Right,High School/GED,There is no way to know without additional information,2,21-30%,0-10%,11-20%,21-30%,21-30%,0-10%,0-10%,0-10%,0-10%,61-70%,51-60%,Non-Solver
+CR_Conf,A2LTOS0AZ3B28A,46,Female,Right,College,1000 minutes,1,0-10%,0-10%,51-60%,0-10%,0-10%,31-40%,21-30%,11-20%,41-50%,61-70%,71-80%,Non-Solver
+CR_Conf,A2LV5432PV1S39,32,Male,Right,College,1000 hours,4,21-30%,0-10%,11-20%,0-10%,21-30%,11-20%,51-60%,61-70%,31-40%,71-80%,61-70%,Non-Solver
+CR_Conf,A2M8R4MP1Y3T3I,52,Female,Right,Graduate Degree,There is no way to know without additional information,9,51-60%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,91-100%,Non-Solver
+CR_Conf,A2M9ONJ71ZC79O,22,Male,Right,College,1000 hours,3,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,31-40%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2MAFM9LD9FBIH,42,Male,Left,College,2000 hours,1,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,A2MCI9K0K5VX50,32,Male,Right,College,1000 minutes,2,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2MGH3MBXMKD96,34,Female,Right,High School/GED,Infinity,6,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,41-50%,21-30%,Non-Solver
+CR_Conf,A2ML0070M8FDK1,59,Female,Right,High School/GED,Infinity,6,11-20%,0-10%,0-10%,0-10%,0-10%,31-40%,21-30%,31-40%,21-30%,41-50%,11-20%,Non-Solver
+CR_Conf,A2MPH5RMQ3B1V0,25,Female,Right,Graduate Degree,1 hour,2,0-10%,0-10%,0-10%,31-40%,21-30%,61-70%,41-50%,11-20%,0-10%,71-80%,81-90%,Solver
+CR_Conf,A2MR1H3PV0EDDR,30,Female,Right,Graduate Degree,1000000 hours,10,41-50%,81-90%,71-80%,61-70%,51-60%,61-70%,71-80%,81-90%,71-80%,61-70%,61-70%,Non-Solver
+CR_Conf,A2MU4RWJG4NJ06,30,Female,Right,College,1 hour,9,71-80%,51-60%,61-70%,71-80%,81-90%,81-90%,71-80%,71-80%,81-90%,81-90%,71-80%,Solver
+CR_Conf,A2N5O2OTCXM8Z4,30,Male,Right,Graduate Degree,1 hour,9,61-70%,0-10%,0-10%,71-80%,41-50%,51-60%,61-70%,51-60%,51-60%,61-70%,71-80%,Solver
+CR_Conf,A2N7VLJD8UE6VC,35,Male,Right,College,1 hour,8,61-70%,0-10%,0-10%,0-10%,11-20%,61-70%,11-20%,0-10%,0-10%,11-20%,0-10%,Solver
+CR_Conf,A2N8RYFLWR04AV,27,Male,Right,Graduate Degree,1 hour,8,81-90%,0-10%,0-10%,41-50%,51-60%,81-90%,61-70%,51-60%,71-80%,61-70%,71-80%,Solver
+CR_Conf,A2NDYOUC0SJXR1,30,Male,Right,College,1 hour,5,0-10%,61-70%,61-70%,41-50%,51-60%,61-70%,71-80%,71-80%,61-70%,41-50%,51-60%,Solver
+CR_Conf,A2NGD01946RWYW,23,Male,Right,High School/GED,Infinity,7,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,Non-Solver
+CR_Conf,A2NGMLBFZ3YQP5,59,Female,Right,Graduate Degree,Infinity,4,61-70%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2NGSSVZ08HZVD,52,Male,Right,High School/GED,There is no way to know without additional information,8,21-30%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A2NGVPAXDPI41B,35,Female,Right,High School/GED,There is no way to know without additional information,7,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,21-30%,21-30%,Non-Solver
+CR_Conf,A2NK67A23XP83H,30,Male,Right,Graduate Degree,1 minute,10,81-90%,51-60%,61-70%,71-80%,61-70%,61-70%,51-60%,41-50%,51-60%,61-70%,61-70%,Non-Solver
+CR_Conf,A2NVO55DO76R80,47,Male,Left,Graduate Degree,1000 hours,3,51-60%,0-10%,21-30%,21-30%,31-40%,21-30%,31-40%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2NXHJ905WLGAA,34,Male,Right,High School/GED,There is no way to know without additional information,5,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,31-40%,11-20%,51-60%,91-100%,Non-Solver
+CR_Conf,A2NXMRPHG86N2T,45,Male,Right,College,2000 hours,5,0-10%,0-10%,0-10%,41-50%,11-20%,21-30%,31-40%,0-10%,51-60%,61-70%,71-80%,Non-Solver
+CR_Conf,A2NZAH96NU7EL6,29,Male,Right,High School/GED,Infinity,8,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2O2Y99RA9GFUJ,64,Male,Right,College,1000 hours,7,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,61-70%,31-40%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,A2O4QLHKZ3A0PM,23,Male,Right,College,2000 hours,8,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,41-50%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A2O5PPV8TCNWP8,39,Female,Left,College,There is no way to know without additional information,10,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,61-70%,Non-Solver
+CR_Conf,A2O7LNRIBPIHAF,48,Male,Right,High School/GED,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,21-30%,31-40%,Non-Solver
+CR_Conf,A2OFRJHPNIMPI7,44,Female,Right,Graduate Degree,1000 seconds,6,51-60%,41-50%,31-40%,61-70%,21-30%,31-40%,41-50%,31-40%,41-50%,11-20%,51-60%,Non-Solver
+CR_Conf,A2ONILC0LZKG6Y,43,Female,Right,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A2OPVDPTGKZPRU,28,Female,Right,Graduate Degree,1000 minutes,9,61-70%,51-60%,21-30%,31-40%,71-80%,21-30%,41-50%,31-40%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A2OVX9UW5WANQE,45,Female,Left,College,Infinity,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,31-40%,11-20%,Non-Solver
+CR_Conf,A2OYUYH6ATMKHN,63,Male,Right,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A2P2SUJ6F18W1B,28,Male,Right,Graduate Degree,1000 minutes,9,41-50%,71-80%,61-70%,81-90%,61-70%,71-80%,81-90%,71-80%,61-70%,71-80%,81-90%,Non-Solver
+CR_Conf,A2PBIFYF14M5MD,39,Male,Right,Graduate Degree,There is no way to know without additional information,3,11-20%,0-10%,11-20%,21-30%,21-30%,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2PDB64F7UMYUD,23,Male,Right,College,1 hour,9,71-80%,0-10%,0-10%,0-10%,0-10%,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2PDV2VWVVQIMK,27,Female,Right,College,There is no way to know without additional information,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A2PMVVXWGRFSEH,29,Male,Right,Graduate Degree,1000 hours,8,61-70%,31-40%,11-20%,51-60%,21-30%,61-70%,41-50%,71-80%,51-60%,61-70%,41-50%,Non-Solver
+CR_Conf,A2PV770EBUE9UQ,36,Male,Right,College,1000000 hours,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A2Q1JUSJ9THUDZ,31,Male,Right,College,There is no way to know without additional information,6,21-30%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,51-60%,51-60%,Non-Solver
+CR_Conf,A2Q3KN46PUMMX2,35,Female,Right,Graduate Degree,There is no way to know without additional information,6,41-50%,0-10%,11-20%,51-60%,31-40%,41-50%,71-80%,61-70%,21-30%,81-90%,91-100%,Non-Solver
+CR_Conf,A2Q9888BL4P09X,25,Male,Right,Graduate Degree,1000 hours,8,61-70%,0-10%,0-10%,61-70%,41-50%,51-60%,71-80%,21-30%,41-50%,61-70%,81-90%,Non-Solver
+CR_Conf,A2QB46ZVBFQ8VZ,23,Female,Right,College,There is no way to know without additional information,1,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,41-50%,Non-Solver
+CR_Conf,A2QFQSLWUAX9ZU,37,Male,Right,College,Infinity,3,21-30%,0-10%,0-10%,0-10%,11-20%,31-40%,41-50%,41-50%,51-60%,61-70%,41-50%,Non-Solver
+CR_Conf,A2QG8DGOPT6F9P,52,Female,Both hands are equally strong,High School/GED,Infinity,5,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,11-20%,41-50%,51-60%,11-20%,Non-Solver
+CR_Conf,A2QLKEEJ9T2I25,60,Male,Right,College,2000 hours,8,31-40%,71-80%,61-70%,71-80%,61-70%,71-80%,51-60%,51-60%,71-80%,51-60%,71-80%,Non-Solver
+CR_Conf,A2QUQ0S2F6K3QJ,62,Female,Right,High School/GED,1000 minutes,3,21-30%,61-70%,41-50%,31-40%,11-20%,61-70%,31-40%,21-30%,51-60%,0-10%,71-80%,Non-Solver
+CR_Conf,A2R0YYUAWNT7UD,27,Male,Right,College,There is no way to know without additional information,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,A2R182TXQ26ZGE,32,Male,Left,High School/GED,Infinity,5,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A2R3JUR8AHZF1D,54,Female,Right,College,There is no way to know without additional information,5,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2R72PEQOZAINO,59,Female,Right,Graduate Degree,Infinity,9,61-70%,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,21-30%,21-30%,61-70%,11-20%,Non-Solver
+CR_Conf,A2RAS1CI2IY938,25,Male,Right,College,Infinity,10,41-50%,11-20%,11-20%,21-30%,0-10%,0-10%,41-50%,0-10%,0-10%,61-70%,51-60%,Non-Solver
+CR_Conf,A2RDAJ32TF20LF,26,Female,Right,College,There is no way to know without additional information,2,61-70%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A2REBBMVBFBWFD,44,Male,Right,Graduate Degree,Infinity,3,21-30%,0-10%,0-10%,0-10%,0-10%,51-60%,61-70%,71-80%,31-40%,41-50%,61-70%,Non-Solver
+CR_Conf,A2RHE12CJSKCRE,29,Female,Right,High School/GED,1 minute,7,11-20%,31-40%,31-40%,71-80%,41-50%,41-50%,41-50%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2RQSTZGWSZEOE,26,Female,Right,Graduate Degree,1 hour,9,81-90%,11-20%,21-30%,31-40%,21-30%,71-80%,51-60%,0-10%,0-10%,21-30%,0-10%,Solver
+CR_Conf,A2RQZJV3501QIH,27,Female,Right,College,1000 minutes,7,21-30%,0-10%,0-10%,0-10%,31-40%,11-20%,31-40%,21-30%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2RRC5B4M80XXO,46,Male,Right,High School/GED,There is no way to know without additional information,5,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,51-60%,61-70%,71-80%,71-80%,81-90%,Non-Solver
+CR_Conf,A2RVDEU138ZF9P,23,Male,Right,College,1000 minutes,8,51-60%,0-10%,0-10%,21-30%,41-50%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2RVKQ541U9VGP,34,Male,Right,College,1000 hours,8,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,61-70%,71-80%,81-90%,11-20%,Non-Solver
+CR_Conf,A2RVOEFBFCLGH4,43,Female,Right,Graduate Degree,1000 minutes,9,11-20%,41-50%,51-60%,41-50%,41-50%,51-60%,61-70%,51-60%,51-60%,61-70%,51-60%,Non-Solver
+CR_Conf,A2S0MB5JFG8DF,30,Male,Right,High School/GED,1 hour,1,61-70%,0-10%,0-10%,0-10%,0-10%,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2S3X4TZTX5NXY,30,Male,Right,Graduate Degree,1000 hours,8,41-50%,51-60%,31-40%,11-20%,61-70%,31-40%,0-10%,21-30%,51-60%,61-70%,31-40%,Non-Solver
+CR_Conf,A2S96ZZ70YFPSK,45,Female,Left,College,There is no way to know without additional information,8,51-60%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,A2SCVCEOV33QB8,28,Male,Right,College,1000 hours,3,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A2SD7GN80U31GW,34,Female,Right,College,1000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,21-30%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A2SF0TUK6XTPCO,36,Female,Right,College,Infinity,10,51-60%,0-10%,11-20%,11-20%,21-30%,21-30%,41-50%,41-50%,51-60%,61-70%,41-50%,Non-Solver
+CR_Conf,A2SO6K35NMGBB7,39,Male,Left,College,There is no way to know without additional information,7,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A2SQNS3J389FRJ,62,Male,Right,College,There is no way to know without additional information,9,51-60%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,11-20%,21-30%,41-50%,Non-Solver
+CR_Conf,A2STBTRTBN661Z,51,Female,Right,College,1 hour,8,21-30%,0-10%,11-20%,31-40%,21-30%,71-80%,0-10%,0-10%,0-10%,11-20%,21-30%,Solver
+CR_Conf,A2T11H7YI7QPGD,28,Male,Left,College,There is no way to know without additional information,10,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,51-60%,61-70%,61-70%,61-70%,Non-Solver
+CR_Conf,A2T1JYVKKQQHH9,34,Female,Left,High School/GED,There is no way to know without additional information,5,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,A2T98ZNH6C3EPY,35,Female,Right,Graduate Degree,Infinity,8,41-50%,31-40%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2TAUP3B2QB99F,29,Male,Right,College,1000000 hours,6,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,31-40%,81-90%,61-70%,21-30%,Non-Solver
+CR_Conf,A2TH9DIRISH8FE,28,Male,Right,College,1000 minutes,1,41-50%,0-10%,11-20%,21-30%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2TI2AHF94WF1M,38,Female,Right,College,Infinity,8,81-90%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,A2TI9CGVG147MZ,48,Female,Left,High School/GED,Infinity,8,31-40%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,0-10%,0-10%,51-60%,31-40%,Non-Solver
+CR_Conf,A2TKHXY755FAM,43,Female,Right,College,There is no way to know without additional information,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,41-50%,51-60%,71-80%,Non-Solver
+CR_Conf,A2TLN8489YGY81,31,Male,Right,College,There is no way to know without additional information,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,71-80%,Non-Solver
+CR_Conf,A2TUUIV61CR0C7,61,Female,Right,High School/GED,1 hour,3,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,31-40%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A2TXC8Q2IFGRXH,67,Male,Right,College,There is no way to know without additional information,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2U3F2J227NFAP,40,Male,Right,Graduate Degree,1000 minutes,10,71-80%,61-70%,51-60%,61-70%,71-80%,61-70%,71-80%,61-70%,71-80%,71-80%,61-70%,Non-Solver
+CR_Conf,A2U5DWGXEAIWYE,24,Female,Right,College,1000 minutes,6,21-30%,41-50%,31-40%,41-50%,51-60%,31-40%,0-10%,0-10%,0-10%,0-10%,51-60%,Non-Solver
+CR_Conf,A2UK6SLUS8P0H2,27,Female,Right,College,1000000 hours,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A2UMLFMF60AX21,31,Female,Right,College,Infinity,8,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,31-40%,11-20%,Non-Solver
+CR_Conf,A2UO3QJZNC2VOE,33,Male,Right,High School/GED,1000 minutes,4,21-30%,11-20%,51-60%,0-10%,61-70%,31-40%,21-30%,31-40%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A2UOSEPGNUITM8,26,Male,Left,High School/GED,1000 hours,4,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,21-30%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2UXVNIR273792,35,Male,Right,High School/GED,1000 hours,6,41-50%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2V35L3RIRYYXV,26,Female,Left,College,1 hour,6,61-70%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A2V3ECGQQYNO85,42,Male,Right,High School/GED,1000000 hours,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,31-40%,Non-Solver
+CR_Conf,A2V4BSE9TL8GM5,30,Male,Right,Graduate Degree,1 hour,8,71-80%,71-80%,71-80%,61-70%,51-60%,61-70%,61-70%,61-70%,71-80%,71-80%,71-80%,Solver
+CR_Conf,A2V891K6X2055Y,36,Male,Left,High School/GED,Infinity,7,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,0-10%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,A2V8QBXRQ2VRPS,55,Male,Right,College,1000 hours,3,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,31-40%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,A2VBSFSJXLZZ7A,36,Male,Left,High School/GED,2000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,41-50%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,A2VFEDAK5C1E1O,38,Male,Right,College,Infinity,2,11-20%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2VFHTZKUFKG16,42,Male,Right,Graduate Degree,1000 minutes,5,21-30%,21-30%,21-30%,61-70%,51-60%,41-50%,71-80%,41-50%,31-40%,51-60%,41-50%,Non-Solver
+CR_Conf,A2VM3GR5I8KOLW,25,Female,Both hands are equally strong,Graduate Degree,1 hour,6,21-30%,31-40%,41-50%,51-60%,31-40%,21-30%,41-50%,41-50%,51-60%,31-40%,41-50%,Solver
+CR_Conf,A2VN3OJKI3R6HE,56,Male,Right,High School/GED,2000 hours,7,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,41-50%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A2VNR6984SDFGQ,44,Female,Right,Graduate Degree,There is no way to know without additional information,10,21-30%,21-30%,81-90%,71-80%,61-70%,41-50%,0-10%,51-60%,11-20%,31-40%,21-30%,Non-Solver
+CR_Conf,A2VNSNAN1LZBAM,61,Female,Right,High School/GED,Infinity,5,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,51-60%,61-70%,41-50%,61-70%,41-50%,Non-Solver
+CR_Conf,A2VPHDKX329A8I,26,Female,Both hands are equally strong,College,There is no way to know without additional information,10,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,61-70%,81-90%,Non-Solver
+CR_Conf,A2VWQNU4TQ7ECK,30,Female,Right,Graduate Degree,1000 hours,9,71-80%,61-70%,71-80%,61-70%,61-70%,61-70%,71-80%,71-80%,71-80%,61-70%,71-80%,Non-Solver
+CR_Conf,A2VXCN6C2NADP8,43,Female,Right,High School/GED,There is no way to know without additional information,5,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2W3A42TRMJ861,57,Female,Right,High School/GED,1000 hours,7,31-40%,0-10%,11-20%,0-10%,11-20%,11-20%,31-40%,11-20%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,A2W5Q0IVJUS7Y6,68,Male,Left,High School/GED,1000 hours,2,21-30%,0-10%,41-50%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2W8ZCOM232LAJ,22,Female,Right,College,There is no way to know without additional information,3,21-30%,0-10%,21-30%,21-30%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A2WCKFUIHFR0E1,35,Female,Right,Graduate Degree,1000 minutes,10,51-60%,51-60%,61-70%,71-80%,81-90%,61-70%,51-60%,41-50%,71-80%,51-60%,81-90%,Non-Solver
+CR_Conf,A2WD7K61WGL37E,56,Female,Right,Graduate Degree,1000 minutes,2,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,11-20%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,A2WGW5Y3ZFBDEC,48,Male,Right,College,1000 hours,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2WHC086WNUQNB,52,Female,Right,College,1 hour,2,11-20%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,71-80%,Solver
+CR_Conf,A2WQPXGX5H7C0R,24,Male,Right,College,1 hour,8,71-80%,0-10%,0-10%,0-10%,0-10%,71-80%,0-10%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A2WQT33K6LD9Z5,30,Male,Right,High School/GED,1000 minutes,6,21-30%,0-10%,0-10%,0-10%,31-40%,21-30%,11-20%,0-10%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A2WYCY1FMQOD5F,30,Male,Left,College,1 hour,6,41-50%,11-20%,41-50%,31-40%,31-40%,51-60%,41-50%,31-40%,21-30%,0-10%,0-10%,Solver
+CR_Conf,A2X00K0L67M360,26,Female,Right,Graduate Degree,1 hour,10,51-60%,21-30%,41-50%,21-30%,51-60%,51-60%,31-40%,11-20%,31-40%,61-70%,11-20%,Solver
+CR_Conf,A2X1NEG8QWQOO6,25,Female,Right,Graduate Degree,1 hour,8,71-80%,11-20%,21-30%,31-40%,21-30%,81-90%,31-40%,11-20%,21-30%,0-10%,0-10%,Solver
+CR_Conf,A2X7GGLA848P32,42,Female,Right,Graduate Degree,1000 hours,1,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2XH3ANYM43OB9,35,Male,Right,Graduate Degree,There is no way to know without additional information,9,11-20%,0-10%,21-30%,11-20%,21-30%,11-20%,21-30%,21-30%,11-20%,21-30%,31-40%,Non-Solver
+CR_Conf,A2XMFTY9WB05U6,33,Male,Right,College,There is no way to know without additional information,4,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A2XQFZSSV468NF,28,Male,Right,College,1 hour,9,71-80%,61-70%,51-60%,41-50%,31-40%,21-30%,11-20%,0-10%,11-20%,31-40%,51-60%,Solver
+CR_Conf,A2XVQVZ97PT3GD,29,Male,Right,Graduate Degree,1 minute,9,11-20%,61-70%,51-60%,61-70%,61-70%,41-50%,71-80%,51-60%,81-90%,51-60%,71-80%,Non-Solver
+CR_Conf,A2XXIMYOWPM5T5,30,Male,Right,College,1 minute,8,51-60%,0-10%,0-10%,81-90%,51-60%,81-90%,31-40%,31-40%,41-50%,41-50%,21-30%,Non-Solver
+CR_Conf,A2YB18JHC2C7GF,67,Female,Left,High School/GED,1000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,31-40%,41-50%,61-70%,61-70%,81-90%,Non-Solver
+CR_Conf,A2YE2I9DYV9OKW,43,Male,Right,College,1000 hours,7,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,61-70%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2YE7NBCK14VAQ,38,Male,Right,High School/GED,Infinity,1,0-10%,0-10%,0-10%,0-10%,41-50%,31-40%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A2YGVZ7TQ20JOI,39,Female,Both hands are equally strong,Graduate Degree,Infinity,5,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A2YJZYTC8WOIZT,45,Female,Left,College,1 hour,2,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,21-30%,31-40%,0-10%,Solver
+CR_Conf,A2YKYAZYVWOXBO,41,Male,Right,High School/GED,1 hour,8,31-40%,0-10%,0-10%,0-10%,11-20%,61-70%,0-10%,0-10%,0-10%,21-30%,21-30%,Solver
+CR_Conf,A2YLEULZ7L44FP,31,Male,Right,High School/GED,Infinity,4,31-40%,0-10%,0-10%,0-10%,11-20%,51-60%,61-70%,51-60%,61-70%,51-60%,51-60%,Non-Solver
+CR_Conf,A2YLWZJ64PI1RQ,40,Female,Right,High School/GED,Infinity,10,41-50%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,31-40%,41-50%,61-70%,71-80%,Non-Solver
+CR_Conf,A2YOVBJ9EXAI8W,33,Male,Right,High School/GED,1 hour,7,31-40%,0-10%,11-20%,11-20%,0-10%,21-30%,0-10%,0-10%,0-10%,21-30%,0-10%,Solver
+CR_Conf,A2YT81KJG6VUA9,32,Female,Right,College,1000 minutes,5,21-30%,0-10%,11-20%,31-40%,41-50%,11-20%,0-10%,31-40%,61-70%,11-20%,31-40%,Non-Solver
+CR_Conf,A2YT81KJG6VUA9,32,Female,Right,College,1 minute,5,21-30%,0-10%,21-30%,21-30%,41-50%,41-50%,31-40%,41-50%,51-60%,0-10%,21-30%,Non-Solver
+CR_Conf,A2YTO4EY3MNYAJ,44,Female,Left,College,1 hour,10,81-90%,0-10%,0-10%,0-10%,41-50%,81-90%,61-70%,31-40%,11-20%,51-60%,61-70%,Solver
+CR_Conf,A2Z64HYA7GG3KM,37,Male,Right,High School/GED,2000 hours,3,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,41-50%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A2Z6NL0CTXY0ZB,39,Female,Right,High School/GED,Infinity,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,51-60%,71-80%,81-90%,0-10%,Non-Solver
+CR_Conf,A2Z8V601LQT1KU,65,Female,Right,College,Infinity,8,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A2ZBDD2PGJ262Y,27,Female,Right,Graduate Degree,Infinity,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A2ZDEERVRN5AMC,27,Male,Right,High School/GED,2000 hours,3,11-20%,0-10%,0-10%,0-10%,41-50%,11-20%,41-50%,41-50%,11-20%,51-60%,61-70%,Non-Solver
+CR_Conf,A2ZDK0Y5466BXN,49,Female,Right,College,Infinity,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A2ZGRB5DEGOG9C,36,Male,Right,Less than High School,There is no way to know without additional information,4,41-50%,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,A2ZK5I1MDWNPRU,25,Female,Right,Graduate Degree,2000 hours,7,0-10%,0-10%,0-10%,0-10%,0-10%,61-70%,61-70%,0-10%,21-30%,81-90%,71-80%,Non-Solver
+CR_Conf,A2ZL5GAZK6S0H1,25,Male,Left,Graduate Degree,1000 hours,7,61-70%,41-50%,21-30%,21-30%,51-60%,41-50%,21-30%,51-60%,41-50%,31-40%,61-70%,Non-Solver
+CR_Conf,A300GJOLD4FJF4,40,Male,Left,Graduate Degree,1000 hours,2,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,51-60%,61-70%,11-20%,71-80%,41-50%,Non-Solver
+CR_Conf,A308FEI88TJ8WV,62,Female,Right,High School/GED,There is no way to know without additional information,1,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,41-50%,51-60%,21-30%,71-80%,61-70%,Non-Solver
+CR_Conf,A308FEI88TJ8WV,62,Female,Right,High School/GED,There is no way to know without additional information,2,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,A30H5IF78HYZJ4,38,Female,Right,Graduate Degree,There is no way to know without additional information,8,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A30J4IZCMCR31F,33,Female,Right,College,2000 hours,1,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,21-30%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A30PLS3F9AM54J,49,Female,Right,Graduate Degree,There is no way to know without additional information,5,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A30XJHY5V549VC,30,Female,Right,College,1000 hours,5,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A311K1G5AP6FRA,42,Female,Right,Graduate Degree,1 hour,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A318574M8Q965P,49,Female,Right,Graduate Degree,Infinity,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A31AUIR5PDLYM,36,Female,Right,College,1000 hours,4,31-40%,0-10%,0-10%,0-10%,21-30%,21-30%,31-40%,31-40%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A31NILFUEWAOSJ,33,Male,Right,High School/GED,1 hour,6,11-20%,0-10%,0-10%,0-10%,11-20%,41-50%,31-40%,11-20%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A31U7VGTEOY2RG,48,Female,Right,College,There is no way to know without additional information,4,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A31VW44MXV7PP5,31,Male,Right,College,There is no way to know without additional information,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A31Z5TPD8QKE26,34,Male,Right,High School/GED,1000 hours,2,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,21-30%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A320BT7PLIQVZT,26,Female,Right,College,1 hour,3,21-30%,31-40%,31-40%,31-40%,31-40%,31-40%,21-30%,21-30%,21-30%,21-30%,11-20%,Solver
+CR_Conf,A3216JB8CWIUNR,27,Male,Right,Graduate Degree,1 hour,8,71-80%,0-10%,0-10%,71-80%,61-70%,71-80%,51-60%,61-70%,71-80%,81-90%,61-70%,Solver
+CR_Conf,A32613MWIE6YYD,37,Male,Right,College,There is no way to know without additional information,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A32BYZ60Q41UNC,38,Female,Right,College,1000 hours,4,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,11-20%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,A32HFMZVTLF1JG,26,Male,Left,Graduate Degree,1000 hours,10,71-80%,11-20%,51-60%,31-40%,41-50%,41-50%,61-70%,11-20%,51-60%,51-60%,41-50%,Non-Solver
+CR_Conf,A32RHBK1BQB9N0,26,Male,Right,College,1 hour,8,61-70%,0-10%,21-30%,31-40%,41-50%,61-70%,51-60%,31-40%,21-30%,21-30%,11-20%,Solver
+CR_Conf,A32RV3F0QV5ZED,28,Female,Right,Graduate Degree,1 hour,6,41-50%,21-30%,31-40%,21-30%,41-50%,71-80%,41-50%,21-30%,31-40%,21-30%,31-40%,Solver
+CR_Conf,A32XCTDWEIXDI0,25,Male,Right,Graduate Degree,1 hour,8,41-50%,11-20%,21-30%,41-50%,41-50%,51-60%,51-60%,61-70%,61-70%,71-80%,61-70%,Solver
+CR_Conf,A334NPHULT0Q8V,43,Male,Right,College,1000 minutes,5,21-30%,51-60%,61-70%,71-80%,61-70%,71-80%,51-60%,61-70%,41-50%,61-70%,51-60%,Non-Solver
+CR_Conf,A336V7IY38Q2WN,33,Male,Right,College,Infinity,8,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,21-30%,31-40%,41-50%,0-10%,0-10%,Non-Solver
+CR_Conf,A337MKRWW1YJSD,35,Male,Right,College,1 hour,8,41-50%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A339L5YF2O6773,28,Male,,Graduate Degree,1 minute,8,21-30%,51-60%,61-70%,51-60%,41-50%,51-60%,51-60%,41-50%,51-60%,41-50%,51-60%,Non-Solver
+CR_Conf,A33GOGPEB64S9Q,30,Female,Right,Graduate Degree,1000 seconds,10,61-70%,81-90%,31-40%,51-60%,71-80%,51-60%,61-70%,51-60%,51-60%,21-30%,11-20%,Non-Solver
+CR_Conf,A33QSLM9P8111P,32,Female,Right,Graduate Degree,Infinity,4,31-40%,11-20%,21-30%,51-60%,51-60%,31-40%,11-20%,0-10%,0-10%,81-90%,11-20%,Non-Solver
+CR_Conf,A33UMG50QSJ7KS,28,Female,Right,College,Infinity,1,21-30%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,11-20%,11-20%,41-50%,11-20%,Non-Solver
+CR_Conf,A341XKSRZ58FJK,45,Male,Right,High School/GED,Infinity,9,0-10%,0-10%,0-10%,0-10%,0-10%,71-80%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A345F5R4TUA45A,49,Male,Right,High School/GED,1000000 hours,2,21-30%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A345RMXKPKS5AD,39,Male,Right,Graduate Degree,1000 hours,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A346XPIBKBQ8Z6,38,Male,Right,College,1 hour,4,31-40%,0-10%,0-10%,0-10%,21-30%,41-50%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A34F2ESTZYTWRM,36,Male,Right,College,1 hour,10,51-60%,0-10%,0-10%,31-40%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A34LDW7RA32V00,49,Female,Right,College,1000 hours,7,11-20%,21-30%,11-20%,21-30%,31-40%,41-50%,31-40%,41-50%,61-70%,41-50%,51-60%,Non-Solver
+CR_Conf,A34M6IVV9AYXHP,25,Male,Right,Graduate Degree,1000 seconds,9,61-70%,31-40%,71-80%,51-60%,61-70%,41-50%,31-40%,41-50%,31-40%,11-20%,21-30%,Non-Solver
+CR_Conf,A34XIQTEVQ5VSU,24,Female,Right,Graduate Degree,Infinity,4,81-90%,71-80%,61-70%,11-20%,11-20%,31-40%,31-40%,31-40%,21-30%,71-80%,61-70%,Non-Solver
+CR_Conf,A354QMVOXVCIS2,45,Male,Right,Graduate Degree,1 minute,7,71-80%,31-40%,21-30%,61-70%,51-60%,41-50%,61-70%,21-30%,21-30%,31-40%,31-40%,Non-Solver
+CR_Conf,A35D31QHYQUF9V,35,Male,Right,College,There is no way to know without additional information,5,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A35FEVVJUP5AL5,54,Male,Left,Graduate Degree,Infinity,1,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,0-10%,0-10%,21-30%,31-40%,Non-Solver
+CR_Conf,A35QZFRG4FKK3Z,67,Female,Right,Graduate Degree,1 hour,6,91-100%,0-10%,0-10%,0-10%,0-10%,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A364KJDYEBAWC9,50,Male,Left,College,1000 minutes,5,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,41-50%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A36793QL7HS6JB,57,Female,Right,College,Infinity,9,91-100%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,11-20%,Non-Solver
+CR_Conf,A36EOEBVBUTO85,41,Female,Right,Graduate Degree,There is no way to know without additional information,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,Non-Solver
+CR_Conf,A36HFMF9Z4BGS8,55,Male,Right,High School/GED,1 minute,8,41-50%,0-10%,0-10%,41-50%,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,71-80%,Non-Solver
+CR_Conf,A36IU5EX4AZD04,21,Male,Right,High School/GED,Infinity,4,0-10%,0-10%,0-10%,11-20%,41-50%,41-50%,41-50%,51-60%,31-40%,71-80%,71-80%,Non-Solver
+CR_Conf,A36IYIE23IO4HE,42,Female,Left,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,51-60%,11-20%,81-90%,71-80%,0-10%,Non-Solver
+CR_Conf,A36OLZLW29173F,26,Male,Right,College,1 hour,7,11-20%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,41-50%,0-10%,Solver
+CR_Conf,A36UNYMDBED99W,70,Male,Both hands are equally strong,College,There is no way to know without additional information,8,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,21-30%,31-40%,Non-Solver
+CR_Conf,A36UZHVNGAP6R6,37,Female,Right,College,1 hour,3,41-50%,0-10%,11-20%,0-10%,0-10%,51-60%,0-10%,0-10%,0-10%,0-10%,21-30%,Solver
+CR_Conf,A36VXS1NZ2GN2T,48,Female,Right,College,Infinity,6,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,31-40%,31-40%,31-40%,41-50%,Non-Solver
+CR_Conf,A36ZLJPURT0ILP,46,Male,Left,High School/GED,There is no way to know without additional information,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A37035O52KQUMA,34,Male,Right,Graduate Degree,1 hour,7,21-30%,61-70%,51-60%,41-50%,51-60%,31-40%,41-50%,21-30%,31-40%,41-50%,81-90%,Solver
+CR_Conf,A37533SGF100SL,30,Male,Right,College,2000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,21-30%,31-40%,Non-Solver
+CR_Conf,A37EV8RZ82WT8E,30,Male,Right,College,1000 hours,8,21-30%,0-10%,0-10%,31-40%,21-30%,11-20%,21-30%,11-20%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A37JW9XJ3Y9BKO,39,Male,Right,Graduate Degree,There is no way to know without additional information,10,41-50%,0-10%,21-30%,11-20%,21-30%,11-20%,11-20%,0-10%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A37QFZ8I1TGH2C,66,Female,Right,College,Infinity,2,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A37QSL0PMFJ7TM,51,Male,Both hands are equally strong,College,There is no way to know without additional information,9,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A37S96RT1P1IT2,36,Female,Right,College,1 hour,2,21-30%,0-10%,0-10%,0-10%,0-10%,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A37VBAMFEQKJO4,52,Male,Right,College,There is no way to know without additional information,10,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A37W0GRXSM04LX,50,Male,Both hands are equally strong,High School/GED,There is no way to know without additional information,4,21-30%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A37XJVQF62ZYC,55,Male,Left,High School/GED,There is no way to know without additional information,8,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A38AF7RJM28PGX,66,Female,Right,College,1 hour,3,21-30%,0-10%,11-20%,11-20%,11-20%,31-40%,0-10%,0-10%,0-10%,0-10%,61-70%,Solver
+CR_Conf,A38DHLB88V8DL8,44,Female,Right,College,Infinity,2,11-20%,0-10%,11-20%,0-10%,21-30%,21-30%,11-20%,0-10%,0-10%,41-50%,0-10%,Non-Solver
+CR_Conf,A38DXFI1TZA295,55,Male,Right,College,1 hour,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A38F8U7SZ7CE1Y,27,Male,Right,Graduate Degree,1000 minutes,5,41-50%,0-10%,0-10%,61-70%,61-70%,31-40%,21-30%,11-20%,0-10%,0-10%,51-60%,Non-Solver
+CR_Conf,A38GD64MIM8FML,25,Female,Right,Graduate Degree,2000 hours,9,71-80%,0-10%,0-10%,71-80%,61-70%,41-50%,51-60%,41-50%,21-30%,31-40%,51-60%,Non-Solver
+CR_Conf,A38ILUORAQ7EJ0,33,Female,Right,High School/GED,1 minute,1,0-10%,0-10%,0-10%,81-90%,51-60%,61-70%,71-80%,0-10%,0-10%,61-70%,81-90%,Non-Solver
+CR_Conf,A38OPVI04AH4JG,51,Male,Right,College,1 minute,5,21-30%,11-20%,11-20%,31-40%,11-20%,11-20%,21-30%,31-40%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A38TZK07ON180S,39,Male,Right,College,Infinity,7,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,91-100%,0-10%,Non-Solver
+CR_Conf,A38ZV8LBZ034IZ,56,Male,Right,College,There is no way to know without additional information,10,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A394B1YXZ1G9SI,30,Male,Right,Graduate Degree,1000 minutes,9,51-60%,51-60%,61-70%,51-60%,41-50%,61-70%,71-80%,61-70%,21-30%,31-40%,41-50%,Non-Solver
+CR_Conf,A395TE79MF1S36,38,Female,Right,College,Infinity,2,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A398PAVIY4EUGH,27,Male,Right,Graduate Degree,1 hour,8,71-80%,0-10%,0-10%,71-80%,61-70%,81-90%,71-80%,61-70%,71-80%,71-80%,61-70%,Solver
+CR_Conf,A39C4K9XUBO2AI,37,Male,Right,Graduate Degree,1 hour,7,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,51-60%,0-10%,Solver
+CR_Conf,A39EBCTD36G85Y,36,Female,Left,College,Infinity,4,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,11-20%,Non-Solver
+CR_Conf,A39GADIK8RLMVC,36,Male,Left,College,1 hour,8,21-30%,21-30%,21-30%,11-20%,31-40%,21-30%,11-20%,41-50%,21-30%,0-10%,0-10%,Solver
+CR_Conf,A39KHMYFO61LKN,37,Male,Left,College,There is no way to know without additional information,4,11-20%,0-10%,0-10%,0-10%,31-40%,41-50%,61-70%,51-60%,21-30%,81-90%,71-80%,Non-Solver
+CR_Conf,A39PWM9C4U0TEP,41,Male,Right,Graduate Degree,2000 hours,8,31-40%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A39Q4SNT7SRK94,28,Male,Right,College,1 minute,2,31-40%,21-30%,41-50%,61-70%,41-50%,31-40%,21-30%,11-20%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A39QNT90QCP5KA,28,Male,Right,College,1000 hours,6,11-20%,0-10%,11-20%,0-10%,11-20%,21-30%,21-30%,0-10%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,A39S29IP6ZSNT4,30,Female,Right,College,1 minute,10,11-20%,0-10%,0-10%,71-80%,71-80%,71-80%,71-80%,71-80%,71-80%,71-80%,71-80%,Non-Solver
+CR_Conf,A39ZJ6GDHFZRJW,66,Male,Right,College,1 hour,4,21-30%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,81-90%,81-90%,Solver
+CR_Conf,A3A07QA5U733HQ,35,Male,Right,College,There is no way to know without additional information,8,11-20%,0-10%,21-30%,41-50%,31-40%,21-30%,41-50%,21-30%,0-10%,41-50%,11-20%,Non-Solver
+CR_Conf,A3A8P4UR9A0DWQ,43,Female,Right,College,Infinity,1,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,31-40%,51-60%,61-70%,41-50%,Non-Solver
+CR_Conf,A3AELT3Y5E6X7U,26,Female,Right,Graduate Degree,Infinity,10,91-100%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,41-50%,0-10%,Non-Solver
+CR_Conf,A3AGF9EJPNNZH5,28,Female,Right,Graduate Degree,1000 minutes,9,41-50%,41-50%,51-60%,71-80%,31-40%,61-70%,71-80%,51-60%,61-70%,51-60%,71-80%,Non-Solver
+CR_Conf,A3AHCT6Q7A3Q23,45,Female,Left,College,1000 minutes,5,21-30%,0-10%,0-10%,0-10%,31-40%,0-10%,21-30%,11-20%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A3AKKYZC4JE3UF,48,Female,Right,College,1000 minutes,6,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3ANKNB1TOCXQU,48,Female,Left,College,1000 minutes,4,11-20%,0-10%,11-20%,41-50%,31-40%,61-70%,41-50%,71-80%,21-30%,81-90%,81-90%,Non-Solver
+CR_Conf,A3AS3TZQF4X6ZK,35,Male,Right,College,2000 hours,6,31-40%,61-70%,51-60%,41-50%,31-40%,41-50%,41-50%,51-60%,71-80%,71-80%,61-70%,Non-Solver
+CR_Conf,A3AY0315YWWNXY,28,Male,Right,College,1000 hours,1,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,11-20%,Non-Solver
+CR_Conf,A3B4cnx1GH6054,57,Female,Left,College,There is no way to know without additional information,10,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,11-20%,21-30%,71-80%,Non-Solver
+CR_Conf,A3B653FLHLS9LW,32,Female,Left,College,1 hour,7,21-30%,81-90%,0-10%,21-30%,21-30%,61-70%,81-90%,21-30%,21-30%,81-90%,81-90%,Solver
+CR_Conf,A3B82GXN9H9MPZ,25,Male,Right,College,1 hour,8,31-40%,0-10%,0-10%,21-30%,51-60%,81-90%,31-40%,21-30%,0-10%,0-10%,41-50%,Solver
+CR_Conf,A3B8L74ETTJXX1,61,Female,Right,College,1000 minutes,7,21-30%,0-10%,11-20%,0-10%,41-50%,0-10%,21-30%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3B96BW9I8IZA2,45,Female,Right,College,There is no way to know without additional information,6,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3B9OZQTE4US3T,40,Male,Right,College,1 hour,4,21-30%,31-40%,41-50%,31-40%,21-30%,71-80%,11-20%,41-50%,41-50%,11-20%,21-30%,Solver
+CR_Conf,A3BLA95UAQCY8V,41,Female,Right,College,There is no way to know without additional information,10,0-10%,0-10%,21-30%,11-20%,41-50%,31-40%,61-70%,71-80%,81-90%,81-90%,81-90%,Non-Solver
+CR_Conf,A3BOY7SUI425MK,22,Male,Right,College,1000 minutes,5,31-40%,41-50%,41-50%,21-30%,21-30%,51-60%,31-40%,51-60%,41-50%,21-30%,21-30%,Non-Solver
+CR_Conf,A3BRH4KXTQ349T,28,Male,Right,Graduate Degree,1 minute,8,41-50%,41-50%,51-60%,61-70%,71-80%,61-70%,71-80%,61-70%,71-80%,71-80%,61-70%,Non-Solver
+CR_Conf,A3C0NQ2IP5FTZQ,31,Male,Right,College,Infinity,8,21-30%,0-10%,0-10%,0-10%,21-30%,11-20%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A3C7COPV48I37D,56,Male,Right,High School/GED,Infinity,8,21-30%,0-10%,11-20%,11-20%,11-20%,21-30%,11-20%,11-20%,11-20%,61-70%,61-70%,Non-Solver
+CR_Conf,A3C9GW7WIFKS7W,52,Male,Right,Graduate Degree,1000 seconds,10,51-60%,71-80%,81-90%,71-80%,71-80%,81-90%,71-80%,61-70%,71-80%,81-90%,71-80%,Non-Solver
+CR_Conf,A3CEO8VV1ZMXY0,35,Male,Right,Graduate Degree,Infinity,7,31-40%,0-10%,21-30%,11-20%,31-40%,11-20%,11-20%,0-10%,0-10%,51-60%,0-10%,Non-Solver
+CR_Conf,A3CH1Z6J9R38G9,29,Male,Both hands are equally strong,College,1000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A3CTXWISODY7D8,41,Male,Right,College,1000000 hours,9,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3CWEIEY3TGJFX,43,Male,Right,College,1000 hours,6,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3CXJ18H14DXBN,39,Male,Right,College,1 hour,9,71-80%,11-20%,0-10%,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A3CYHZ9BKS79E5,31,Female,Right,High School/GED,There is no way to know without additional information,9,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,41-50%,41-50%,Non-Solver
+CR_Conf,A3D2GO0IFRFN6R,34,Female,Left,College,Infinity,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3DAJROQC1BLNI,40,Female,Right,College,1000 hours,7,11-20%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A3DB8QTQS5J8MM,25,Male,Right,College,Infinity,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,31-40%,71-80%,81-90%,Non-Solver
+CR_Conf,A3DZ46U9XRLVBI,38,Female,Right,High School/GED,Infinity,2,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A3EC954ZQ3DYCU,28,Female,Right,College,1 minute,9,71-80%,51-60%,71-80%,71-80%,41-50%,31-40%,21-30%,31-40%,31-40%,41-50%,11-20%,Non-Solver
+CR_Conf,A3ECSH4KKQJX9N,36,Female,Right,Graduate Degree,There is no way to know without additional information,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A3EIVR2LS7CCWB,46,Female,Right,College,1 hour,7,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,41-50%,31-40%,11-20%,11-20%,21-30%,Solver
+CR_Conf,A3EPQ3XMQZQXCW,30,Female,Right,Graduate Degree,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A3F51C49T9A34D,53,Male,Right,Graduate Degree,Infinity,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,41-50%,11-20%,Non-Solver
+CR_Conf,A3F90N8YVKJ4I7,40,Male,Right,College,1 hour,4,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A3FJCLBK3HF4PD,29,Male,Left,College,There is no way to know without additional information,7,41-50%,11-20%,21-30%,41-50%,31-40%,31-40%,21-30%,0-10%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,A3FJE9AUW0O41D,32,Female,Left,College,1 hour,3,11-20%,0-10%,11-20%,11-20%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A3FMSV2KW0YQZB,28,Male,Right,College,1 hour,7,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,Solver
+CR_Conf,A3G1ODAPIHRHUI,51,Female,Right,College,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,41-50%,41-50%,51-60%,51-60%,61-70%,Non-Solver
+CR_Conf,A3G5IPGLH1IIZN,55,Female,Right,College,There is no way to know without additional information,1,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3G85PECAGKPBK,54,Female,Right,Graduate Degree,1000 minutes,5,31-40%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,31-40%,41-50%,51-60%,61-70%,Non-Solver
+CR_Conf,A3GF17EKYEJFZQ,58,Female,Right,High School/GED,1 hour,1,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,21-30%,11-20%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A3GFGPPC495SPO,38,Female,Right,College,1000 hours,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,21-30%,Non-Solver
+CR_Conf,A3GIZ0VFD8CS47,43,Male,Right,High School/GED,Infinity,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A3GO2JCV966XGE,29,Male,Right,College,Infinity,6,51-60%,0-10%,0-10%,0-10%,21-30%,11-20%,0-10%,0-10%,0-10%,41-50%,51-60%,Non-Solver
+CR_Conf,A3GPYCHKB2KDLC,55,Male,Right,Graduate Degree,1 hour,5,11-20%,0-10%,31-40%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A3GUPOYHXOIQ6B,27,Male,Left,Graduate Degree,1000 hours,5,51-60%,0-10%,0-10%,21-30%,31-40%,41-50%,51-60%,61-70%,51-60%,41-50%,31-40%,Non-Solver
+CR_Conf,A3HE8VNBXD2BR0,29,Male,Right,High School/GED,1 hour,3,31-40%,0-10%,0-10%,0-10%,11-20%,41-50%,0-10%,0-10%,0-10%,11-20%,21-30%,Solver
+CR_Conf,A3HEFFEBOZC50K,35,Female,Right,Graduate Degree,Infinity,7,41-50%,31-40%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3HH7T31PFH49C,34,Female,Right,Graduate Degree,1 hour,6,51-60%,0-10%,0-10%,11-20%,0-10%,51-60%,21-30%,11-20%,11-20%,0-10%,21-30%,Solver
+CR_Conf,A3HI6K8RIQ8A7X,27,Male,Both hands are equally strong,Graduate Degree,1 minute,8,61-70%,11-20%,21-30%,51-60%,31-40%,21-30%,21-30%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A3HIZXUSZUQLYS,32,Male,Right,College,There is no way to know without additional information,8,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,11-20%,51-60%,Non-Solver
+CR_Conf,A3HL2LL0LEPZT8,34,Male,Left,College,1 hour,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,A3HLIJUBLECL5T,27,Female,Right,College,1 minute,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3HMDGRGC5JB7E,33,Female,Right,College,1 minute,2,11-20%,21-30%,11-20%,31-40%,31-40%,0-10%,31-40%,11-20%,31-40%,11-20%,21-30%,Non-Solver
+CR_Conf,A3HV6WJ4V1625R,59,Male,Right,Graduate Degree,1 minute,9,91-100%,0-10%,0-10%,61-70%,71-80%,61-70%,71-80%,61-70%,71-80%,61-70%,71-80%,Non-Solver
+CR_Conf,A3HW4QDJB63OQ2,29,Male,Right,College,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3HXM7BGH18FOW,64,Female,Right,Graduate Degree,There is no way to know without additional information,1,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,51-60%,21-30%,0-10%,51-60%,71-80%,Non-Solver
+CR_Conf,A3HZA5ZOPA298N,24,Male,Right,College,1000 seconds,5,31-40%,11-20%,21-30%,21-30%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3I55L67X0MWC4,52,Female,Right,Graduate Degree,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,A3I8HU3ZCHOROC,28,Male,Right,Graduate Degree,1 hour,10,71-80%,0-10%,0-10%,21-30%,21-30%,71-80%,61-70%,41-50%,31-40%,11-20%,21-30%,Solver
+CR_Conf,A3ID4YTU6O6J4E,26,Male,Right,College,2000 hours,7,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,A3IEFYBAJDK48K,30,Male,Right,Graduate Degree,Infinity,10,21-30%,0-10%,0-10%,11-20%,0-10%,51-60%,0-10%,0-10%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,A3IMB1JAMHP1KK,35,Male,Right,High School/GED,There is no way to know without additional information,8,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,61-70%,Non-Solver
+CR_Conf,A3IO849YPKG09B,46,Male,Right,College,There is no way to know without additional information,10,21-30%,0-10%,0-10%,0-10%,21-30%,21-30%,21-30%,11-20%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,A3IU1F9KR74CLH,36,Female,Right,College,Infinity,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,31-40%,Non-Solver
+CR_Conf,A3J0ZJRVD5882T,25,Male,Left,Graduate Degree,There is no way to know without additional information,10,11-20%,0-10%,11-20%,11-20%,31-40%,41-50%,51-60%,61-70%,61-70%,41-50%,61-70%,Non-Solver
+CR_Conf,A3J2B1CXC671CE,36,Male,Right,Graduate Degree,1000 minutes,7,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A3JAM040VWXHDO,48,Female,Right,College,1000 hours,2,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,31-40%,Non-Solver
+CR_Conf,A3JBAUWN5T7E0Q,34,Male,Right,College,Infinity,6,21-30%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A3JKYTCUACTDZA,23,Female,Both hands are equally strong,College,1000 hours,3,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3JVG39ZC5U3AE,30,Female,Right,College,1000 hours,6,31-40%,0-10%,0-10%,0-10%,31-40%,11-20%,31-40%,0-10%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,A3JVOMZOZ81R1S,35,Female,Left,College,1000 hours,5,31-40%,0-10%,0-10%,0-10%,21-30%,21-30%,41-50%,41-50%,41-50%,51-60%,21-30%,Non-Solver
+CR_Conf,A3K415WNTD33IK,39,Female,Right,College,1000 hours,5,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3K5HNLPS3F0I8,69,Female,Right,College,Infinity,6,31-40%,0-10%,31-40%,31-40%,51-60%,51-60%,81-90%,81-90%,81-90%,41-50%,0-10%,Non-Solver
+CR_Conf,A3K61IVKI7FBTY,29,Female,Right,College,1000000 hours,10,41-50%,51-60%,41-50%,61-70%,61-70%,31-40%,41-50%,41-50%,51-60%,61-70%,51-60%,Non-Solver
+CR_Conf,A3KC26Z78FBOJT,31,Male,Right,Graduate Degree,There is no way to know without additional information,2,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,41-50%,Non-Solver
+CR_Conf,A3KK1BNF5H0N1Z,33,Male,Right,College,1000 hours,4,21-30%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,31-40%,31-40%,41-50%,0-10%,Non-Solver
+CR_Conf,A3KK1GTAF77JFK,16,Female,Right,College,Infinity,6,41-50%,0-10%,0-10%,0-10%,0-10%,31-40%,11-20%,11-20%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A3KM1ZZ6OB52L5,29,Female,Right,Graduate Degree,Infinity,10,41-50%,0-10%,0-10%,41-50%,31-40%,21-30%,21-30%,31-40%,31-40%,71-80%,0-10%,Non-Solver
+CR_Conf,A3KNO82DZ519HG,54,Female,Right,College,2000 hours,1,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,31-40%,21-30%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,A3KOT3B7E14QGF,48,Female,Right,College,Infinity,8,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,21-30%,21-30%,0-10%,Non-Solver
+CR_Conf,A3KQZ7XGK5N58I,39,Female,Right,Graduate Degree,Infinity,5,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,51-60%,Non-Solver
+CR_Conf,A3KUGXG2Y6X7BD,42,Female,Right,College,There is no way to know without additional information,9,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,Non-Solver
+CR_Conf,A3KWWXE2Y5O896,30,Male,Right,High School/GED,1 hour,7,41-50%,11-20%,71-80%,11-20%,71-80%,61-70%,71-80%,31-40%,21-30%,31-40%,41-50%,Solver
+CR_Conf,A3KYRBGZWQR9CO,35,Female,Both hands are equally strong,College,There is no way to know without additional information,6,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A3L04E6VTT3LCI,26,Female,Right,College,1 minute,9,0-10%,0-10%,61-70%,51-60%,41-50%,61-70%,71-80%,0-10%,21-30%,0-10%,0-10%,Non-Solver
+CR_Conf,A3L2UXYEVOU5UI,28,Male,Right,Graduate Degree,1 hour,7,31-40%,51-60%,31-40%,41-50%,51-60%,11-20%,41-50%,31-40%,41-50%,41-50%,61-70%,Solver
+CR_Conf,A3L4JI1S352HB8,47,Female,Left,College,2000 hours,4,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,31-40%,41-50%,21-30%,11-20%,Non-Solver
+CR_Conf,A3LMXV4SZ33HPR,21,Male,Right,College,Infinity,10,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,0-10%,Non-Solver
+CR_Conf,A3LMXV4SZ33HPR,21,Male,Right,College,Infinity,10,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,81-90%,0-10%,Non-Solver
+CR_Conf,A3LOLMFCFVCXSX,30,Male,Right,Graduate Degree,1 hour,7,31-40%,11-20%,0-10%,11-20%,0-10%,41-50%,0-10%,11-20%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A3LYQ5490FJYXK,58,Male,Right,Graduate Degree,1 minute,6,0-10%,11-20%,21-30%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3M3DCE0R1ZWQS,28,Male,Right,Graduate Degree,Infinity,9,51-60%,31-40%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3MF31JQ350ABS,47,Female,Right,High School/GED,Infinity,4,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,71-80%,Non-Solver
+CR_Conf,A3MHX8S9QFT8SB,25,Female,Right,Graduate Degree,2000 hours,9,81-90%,0-10%,0-10%,51-60%,61-70%,71-80%,81-90%,91-100%,91-100%,81-90%,81-90%,Non-Solver
+CR_Conf,A3ML5HJCV407RX,29,Male,Right,Graduate Degree,1000 minutes,9,81-90%,0-10%,0-10%,71-80%,81-90%,61-70%,81-90%,81-90%,81-90%,61-70%,61-70%,Non-Solver
+CR_Conf,A3MNVY7TDODBGM,27,Male,Right,College,1000 hours,9,21-30%,0-10%,0-10%,71-80%,61-70%,61-70%,71-80%,61-70%,71-80%,61-70%,71-80%,Non-Solver
+CR_Conf,A3N0QZ9ZKUCTCQ,30,Male,Right,College,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A3N1K46ESYH5JN,45,Male,Right,Graduate Degree,1 hour,8,41-50%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,11-20%,11-20%,0-10%,0-10%,Solver
+CR_Conf,A3N4A8O8K7WOYV,47,Female,Right,Graduate Degree,1000 hours,10,61-70%,71-80%,61-70%,71-80%,71-80%,61-70%,81-90%,71-80%,61-70%,51-60%,71-80%,Non-Solver
+CR_Conf,A3N66DKF3VNB9X,29,Male,Left,High School/GED,Infinity,6,11-20%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,A3N7R7P9HP2YB6,52,Male,Right,College,1000000 hours,1,11-20%,0-10%,21-30%,11-20%,41-50%,31-40%,61-70%,51-60%,71-80%,81-90%,91-100%,Non-Solver
+CR_Conf,A3NHJPE6326P9V,46,Female,Right,College,1000 hours,3,41-50%,0-10%,0-10%,0-10%,21-30%,31-40%,81-90%,41-50%,41-50%,31-40%,21-30%,Non-Solver
+CR_Conf,A3NQ988D43B0JW,25,Male,Right,College,1000 minutes,8,11-20%,11-20%,21-30%,31-40%,31-40%,21-30%,11-20%,0-10%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3NTC98M8AY5O5,24,Male,Right,Graduate Degree,1 hour,10,51-60%,81-90%,71-80%,81-90%,71-80%,81-90%,71-80%,81-90%,71-80%,81-90%,71-80%,Solver
+CR_Conf,A3NTC98M8AY5O5,24,Male,Right,Graduate Degree,1 hour,10,51-60%,81-90%,71-80%,81-90%,71-80%,71-80%,81-90%,71-80%,81-90%,71-80%,81-90%,Solver
+CR_Conf,A3NTWOX5ZA4NHN,25,Male,Right,Graduate Degree,1000 minutes,9,61-70%,0-10%,0-10%,11-20%,61-70%,21-30%,11-20%,11-20%,11-20%,31-40%,31-40%,Non-Solver
+CR_Conf,A3O2E4NV3H37CG,28,Female,Right,College,1000 minutes,7,21-30%,31-40%,31-40%,0-10%,0-10%,21-30%,0-10%,0-10%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A3OC0ZHZBEPEA3,33,Female,Right,Graduate Degree,1 hour,5,41-50%,31-40%,41-50%,31-40%,31-40%,41-50%,41-50%,41-50%,41-50%,41-50%,41-50%,Solver
+CR_Conf,A3OGH0HZMJPS9W,28,Male,Right,Graduate Degree,1000 minutes,7,31-40%,11-20%,31-40%,21-30%,41-50%,51-60%,11-20%,21-30%,31-40%,21-30%,41-50%,Non-Solver
+CR_Conf,A3OGTLX5HE30XS,25,Male,Right,Less than High School,1000 hours,8,51-60%,0-10%,0-10%,41-50%,51-60%,41-50%,51-60%,61-70%,51-60%,41-50%,51-60%,Non-Solver
+CR_Conf,A3OMXJE08GFFTG,44,Male,Right,High School/GED,1000 hours,4,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,61-70%,51-60%,21-30%,41-50%,31-40%,Non-Solver
+CR_Conf,A3OV99F0BY8XVD,26,Male,Right,College,Infinity,10,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,71-80%,11-20%,Non-Solver
+CR_Conf,A3P7QP6K56ED2Z,26,Male,Right,College,1000 hours,8,31-40%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,51-60%,51-60%,11-20%,0-10%,Non-Solver
+CR_Conf,A3P7XF4LBBEWW,34,Female,Right,College,1 hour,2,11-20%,11-20%,41-50%,51-60%,51-60%,61-70%,0-10%,0-10%,0-10%,0-10%,31-40%,Solver
+CR_Conf,A3P9BLJVSMDRBZ,35,Female,Right,Graduate Degree,1000 minutes,10,41-50%,51-60%,61-70%,71-80%,81-90%,71-80%,61-70%,51-60%,61-70%,71-80%,61-70%,Non-Solver
+CR_Conf,A3PC0K7YU9PBAH,34,Female,Right,Graduate Degree,1000 seconds,3,51-60%,0-10%,31-40%,11-20%,51-60%,61-70%,71-80%,81-90%,31-40%,0-10%,0-10%,Non-Solver
+CR_Conf,A3PIRKF57QSWMS,37,Female,Right,College,1 hour,7,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A3PL7JEMIPFHI9,37,Female,Right,College,There is no way to know without additional information,9,41-50%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,A3PSFD0UI0ZC94,37,Female,Right,College,There is no way to know without additional information,9,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3PT32853VOR8D,25,Female,Right,College,1 minute,8,81-90%,0-10%,0-10%,61-70%,31-40%,21-30%,41-50%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A3Q3PCMTLK6JF1,31,Male,Right,Graduate Degree,There is no way to know without additional information,10,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A3QA0Y16Q4273V,45,Female,Right,High School/GED,2000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,21-30%,31-40%,0-10%,Non-Solver
+CR_Conf,A3QAETE7C7Z4R3,29,Male,Right,College,1 hour,5,31-40%,0-10%,0-10%,31-40%,21-30%,51-60%,11-20%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,A3QC57KUVJP5EW,27,Male,Right,High School/GED,Infinity,2,41-50%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A3QEVFM3UD67BA,42,Female,Right,College,Infinity,2,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,51-60%,Non-Solver
+CR_Conf,A3QMED18F7JJWE,28,Female,Right,Graduate Degree,1 second,9,81-90%,91-100%,81-90%,91-100%,81-90%,91-100%,81-90%,91-100%,81-90%,91-100%,81-90%,Non-Solver
+CR_Conf,A3QSJY1FFN0N6V,36,Female,Right,High School/GED,Infinity,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3QUAM5Y482D4U,31,Male,Right,College,1 minute,8,41-50%,0-10%,0-10%,61-70%,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3QUGJF2AN8TF2,35,Male,Right,College,1 hour,4,11-20%,0-10%,0-10%,0-10%,21-30%,51-60%,11-20%,11-20%,0-10%,71-80%,61-70%,Solver
+CR_Conf,A3QUTOJ3J3ZIMV,32,Male,Right,College,Infinity,4,31-40%,0-10%,0-10%,11-20%,31-40%,41-50%,51-60%,41-50%,31-40%,61-70%,61-70%,Non-Solver
+CR_Conf,A3QUWIT972BYUH,55,Female,Left,Graduate Degree,1000000 hours,2,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,31-40%,31-40%,Non-Solver
+CR_Conf,A3R457FAWQXZN3,27,Female,Right,High School/GED,There is no way to know without additional information,1,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,31-40%,Non-Solver
+CR_Conf,A3R5OJR60C6004,45,Male,Right,College,Infinity,4,21-30%,11-20%,11-20%,11-20%,11-20%,21-30%,0-10%,0-10%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,A3RCX3IQ8L6HHW,47,Female,Right,College,Infinity,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3RGC0P0GID8KU,23,Female,Right,College,1000 hours,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,41-50%,11-20%,41-50%,Non-Solver
+CR_Conf,A3RIAV3H8NSUSF,32,Female,Right,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,A3ROQ06884CV1P,52,Male,Right,College,1 minute,6,0-10%,11-20%,21-30%,31-40%,21-30%,11-20%,31-40%,31-40%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A3RS7UCO7CQ74R,31,Male,Right,High School/GED,There is no way to know without additional information,10,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3RYH6OUH7BJ4Z,29,Male,Right,Graduate Degree,1 minute,3,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A3S5M6R3ZR6ECN,39,Female,Right,Graduate Degree,2000 hours,3,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3S8TUZ94SKSDC,29,Male,Right,College,Infinity,9,41-50%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,0-10%,31-40%,41-50%,11-20%,Non-Solver
+CR_Conf,A3SD02HCW68EUL,29,Female,Right,College,1000 hours,5,21-30%,51-60%,41-50%,21-30%,11-20%,41-50%,51-60%,0-10%,41-50%,61-70%,0-10%,Non-Solver
+CR_Conf,A3SEJCTDA6P46H,35,Female,Left,Graduate Degree,1 hour,7,31-40%,61-70%,61-70%,51-60%,51-60%,51-60%,51-60%,51-60%,51-60%,51-60%,51-60%,Solver
+CR_Conf,A3SKEW89V5S0DI,48,Male,Right,College,Infinity,5,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,31-40%,11-20%,Non-Solver
+CR_Conf,A3SSOC4IVTSIFL,40,Male,Right,Graduate Degree,There is no way to know without additional information,10,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,11-20%,11-20%,0-10%,21-30%,Non-Solver
+CR_Conf,A3T08B0RTD7PRH,30,Male,Right,College,1 minute,6,51-60%,51-60%,21-30%,41-50%,31-40%,51-60%,61-70%,41-50%,31-40%,21-30%,41-50%,Non-Solver
+CR_Conf,A3T7N805PVNEXN,22,Male,Right,High School/GED,There is no way to know without additional information,8,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,91-100%,Non-Solver
+CR_Conf,A3TBR9GIXU42DM,27,Male,Right,Graduate Degree,1000 hours,1,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A3TDA1NWHNQFE3,30,Female,Right,Graduate Degree,2000 hours,2,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A3THBDPK44FBW8,25,Female,Right,College,1000 hours,6,61-70%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3TKA13VTOCJH6,26,Male,Right,College,1 hour,2,21-30%,0-10%,21-30%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A3TP06ZKSDOPAO,30,Male,Right,College,1000000 hours,8,41-50%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,11-20%,31-40%,21-30%,11-20%,Non-Solver
+CR_Conf,A3TWHISTACUZBU,29,Female,Right,Graduate Degree,1 minute,8,11-20%,51-60%,61-70%,51-60%,51-60%,61-70%,51-60%,51-60%,61-70%,51-60%,61-70%,Non-Solver
+CR_Conf,A3TWYQENN82FJI,41,Female,Right,Graduate Degree,There is no way to know without additional information,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3TZNS3TG01U9B,30,Male,Right,Graduate Degree,2000 hours,3,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3U0W0PAA0LAZP,50,Female,Right,Graduate Degree,1 hour,3,61-70%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,81-90%,11-20%,41-50%,Solver
+CR_Conf,A3U1H9RXWF5G7M,28,Female,Right,College,1 hour,4,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A3U2BUIISXODXG,59,Male,Right,High School/GED,1 minute,1,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A3U2BUIISXODXG,59,Male,Right,High School/GED,1 minute,1,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A3U2UNSYDPS933,56,Female,Right,College,1000 hours,3,11-20%,61-70%,91-100%,21-30%,81-90%,41-50%,71-80%,31-40%,0-10%,11-20%,51-60%,Non-Solver
+CR_Conf,A3UBCLCN42M4I7,38,Male,Right,College,There is no way to know without additional information,7,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,21-30%,71-80%,71-80%,Non-Solver
+CR_Conf,A3ULACFKAGPVU8,22,Female,Right,Graduate Degree,1 minute,9,81-90%,61-70%,51-60%,71-80%,21-30%,21-30%,21-30%,31-40%,31-40%,0-10%,0-10%,Non-Solver
+CR_Conf,A3UWM3KJYEL5XU,34,Male,Right,College,1000000 hours,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,21-30%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A3UZIW8HF28L9E,28,Male,Right,College,1 hour,7,51-60%,11-20%,51-60%,41-50%,51-60%,61-70%,81-90%,71-80%,51-60%,51-60%,51-60%,Solver
+CR_Conf,A3V8LIMUUJWUTL,36,Male,Left,High School/GED,1000 hours,4,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,31-40%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A3VSZODOMU00P7,25,Male,Right,College,1 minute,10,21-30%,71-80%,91-100%,71-80%,61-70%,91-100%,71-80%,61-70%,71-80%,81-90%,91-100%,Non-Solver
+CR_Conf,A3VTOW7WLPTBRR,31,Female,Right,College,Infinity,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,A3VUL0CD19IIF8,33,Female,Right,Graduate Degree,There is no way to know without additional information,5,31-40%,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,A3Z78JLIWMA81,26,Male,Right,Graduate Degree,1000 minutes,7,21-30%,41-50%,21-30%,51-60%,21-30%,21-30%,31-40%,71-80%,51-60%,41-50%,31-40%,Non-Solver
+CR_Conf,A4158R4Y06ZB4,28,Male,Right,High School/GED,1000 hours,2,31-40%,0-10%,0-10%,0-10%,41-50%,51-60%,61-70%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A44GF72UX2T66,24,Male,Right,High School/GED,There is no way to know without additional information,7,31-40%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,21-30%,31-40%,Non-Solver
+CR_Conf,A469WIPCE72UL,36,Male,Right,College,Infinity,8,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,51-60%,21-30%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A4IH4CO046EV3,40,Male,Right,College,1 hour,2,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,11-20%,Solver
+CR_Conf,A4LCG4MSNJRUF,25,Female,Right,College,2000 hours,3,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,31-40%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A4W9APAHFWVLO,37,Male,Right,College,2000 hours,2,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,41-50%,41-50%,21-30%,21-30%,41-50%,Non-Solver
+CR_Conf,A4XR158GYZ3QW,43,Male,Right,Graduate Degree,1 hour,10,71-80%,0-10%,0-10%,0-10%,0-10%,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A4ZPIPBDO624H,40,Male,Right,College,There is no way to know without additional information,5,11-20%,0-10%,0-10%,0-10%,11-20%,31-40%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,A53S7J4JGWG38,42,Male,Left,College,There is no way to know without additional information,2,11-20%,0-10%,11-20%,71-80%,21-30%,31-40%,41-50%,61-70%,71-80%,51-60%,81-90%,Non-Solver
+CR_Conf,A55TVOL4JWIAY,43,Male,Right,Graduate Degree,Infinity,7,31-40%,0-10%,11-20%,71-80%,51-60%,61-70%,21-30%,41-50%,31-40%,21-30%,81-90%,Non-Solver
+CR_Conf,A58YY3SJI3B6D,30,Nonbinary,Both hands are equally strong,College,There is no way to know without additional information,7,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,11-20%,31-40%,Non-Solver
+CR_Conf,A5DUYL6LHBXE0,36,Male,Right,Graduate Degree,1 hour,7,61-70%,51-60%,61-70%,51-60%,41-50%,61-70%,51-60%,51-60%,41-50%,61-70%,61-70%,Solver
+CR_Conf,A5I5153ANR10V,29,Female,Right,College,There is no way to know without additional information,10,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,41-50%,41-50%,Non-Solver
+CR_Conf,A5M58TUNBG0PV,34,Male,Both hands are equally strong,College,Infinity,3,11-20%,81-90%,71-80%,41-50%,31-40%,21-30%,21-30%,31-40%,51-60%,41-50%,81-90%,Non-Solver
+CR_Conf,A5Q0UTSKAI2TQ,34,Male,Both hands are equally strong,College,There is no way to know without additional information,9,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A5QPJC897RQAD,28,Male,Right,Graduate Degree,1000 seconds,10,21-30%,21-30%,51-60%,31-40%,81-90%,41-50%,81-90%,31-40%,81-90%,21-30%,11-20%,Non-Solver
+CR_Conf,A5T9IFDZ3W4T6,28,Male,Right,High School/GED,1 hour,3,11-20%,0-10%,0-10%,0-10%,11-20%,41-50%,21-30%,11-20%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A5UWA3ZKASWA9,25,Male,Right,Graduate Degree,There is no way to know without additional information,10,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A5XQ30GQTHHK6,46,Female,Right,College,1000 hours,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,0-10%,21-30%,Non-Solver
+CR_Conf,A66I5CGTSAXGD,36,Male,Left,Graduate Degree,1000 minutes,7,0-10%,61-70%,51-60%,61-70%,51-60%,51-60%,41-50%,21-30%,61-70%,51-60%,61-70%,Non-Solver
+CR_Conf,A67NLYRZZZY6E,22,Male,Right,College,1000 hours,4,41-50%,0-10%,0-10%,0-10%,11-20%,0-10%,31-40%,41-50%,41-50%,51-60%,21-30%,Non-Solver
+CR_Conf,A6C6L7ZHRO5QX,31,Female,Right,College,Infinity,8,61-70%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,31-40%,31-40%,Non-Solver
+CR_Conf,A6IP0HCC1ZZRX,25,Female,Right,Graduate Degree,1 hour,7,61-70%,0-10%,21-30%,21-30%,31-40%,81-90%,51-60%,11-20%,21-30%,0-10%,0-10%,Solver
+CR_Conf,A6JKKANO7F4KD,57,Male,Right,College,1000 hours,3,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A6MGJFBYSGYWQ,61,Female,Right,College,Infinity,2,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,0-10%,Non-Solver
+CR_Conf,A6OGM0SSWQZXN,44,Male,Right,College,2000 hours,4,21-30%,0-10%,0-10%,0-10%,21-30%,31-40%,61-70%,51-60%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,A6V8NEBFEKLR3,28,Male,Right,Graduate Degree,There is no way to know without additional information,6,0-10%,21-30%,51-60%,31-40%,41-50%,21-30%,51-60%,51-60%,51-60%,31-40%,11-20%,Non-Solver
+CR_Conf,A6V8NEBFEKLR3,28,Male,Right,Graduate Degree,1 minute,6,21-30%,0-10%,0-10%,51-60%,41-50%,31-40%,21-30%,21-30%,0-10%,61-70%,51-60%,Non-Solver
+CR_Conf,A77K8W55MJEKX,46,Female,Right,College,1000 seconds,7,21-30%,11-20%,31-40%,21-30%,11-20%,21-30%,11-20%,11-20%,21-30%,11-20%,41-50%,Non-Solver
+CR_Conf,A781V32B5WDX6,29,Male,Right,College,Infinity,9,51-60%,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A79DQ52TB006D,36,Male,Right,High School/GED,1000 hours,4,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,A7F1QHDL6ZDVA,25,Male,Right,College,1 hour,1,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,41-50%,0-10%,Solver
+CR_Conf,A7KKB6J717F1V,26,Male,Right,High School/GED,2000 hours,6,11-20%,0-10%,11-20%,0-10%,11-20%,0-10%,11-20%,21-30%,21-30%,11-20%,11-20%,Non-Solver
+CR_Conf,A7MBVKNW8RTFI,29,Male,Right,Graduate Degree,There is no way to know without additional information,8,61-70%,11-20%,21-30%,11-20%,21-30%,21-30%,61-70%,41-50%,51-60%,11-20%,71-80%,Non-Solver
+CR_Conf,A7O82NXM2PI12,40,Male,Left,College,There is no way to know without additional information,8,61-70%,0-10%,0-10%,0-10%,0-10%,21-30%,51-60%,81-90%,0-10%,41-50%,61-70%,Non-Solver
+CR_Conf,A7RHAQOVU68VN,25,Male,Right,College,1 minute,8,61-70%,41-50%,51-60%,61-70%,41-50%,51-60%,61-70%,61-70%,51-60%,41-50%,41-50%,Non-Solver
+CR_Conf,A7T06JMP6BTDS,28,Male,Right,High School/GED,Infinity,4,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,A7XAEZTNECKT5,35,Female,Right,Graduate Degree,1 hour,9,71-80%,41-50%,71-80%,51-60%,61-70%,71-80%,61-70%,51-60%,61-70%,71-80%,51-60%,Solver
+CR_Conf,A82Q1HS5CPZ5I,29,Male,Right,College,Infinity,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,0-10%,41-50%,11-20%,Non-Solver
+CR_Conf,A89R5XGMHOTJE,25,Female,Right,College,1000 minutes,5,31-40%,0-10%,21-30%,0-10%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A8AG71WQHPTYN,32,Male,Right,Graduate Degree,1 hour,7,21-30%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,Solver
+CR_Conf,A8C3WNWRBWUXO,47,Male,Right,College,1 hour,8,11-20%,0-10%,0-10%,0-10%,11-20%,51-60%,11-20%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,A8FLNGDLNJCUU,23,Female,Right,College,1000 minutes,6,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,41-50%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A8KX1HFH8NE2Q,52,Male,Right,Graduate Degree,1000 minutes,4,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A8TLS2F8LFQ68,29,Male,Right,Graduate Degree,1000 seconds,3,0-10%,0-10%,31-40%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,A8W1V4XOJT7F7,42,Male,Right,College,1 minute,7,11-20%,41-50%,51-60%,51-60%,31-40%,31-40%,41-50%,51-60%,41-50%,31-40%,51-60%,Non-Solver
+CR_Conf,A94604LMX24XZ,23,Female,Right,College,1000 hours,2,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,A98E8M4QLI9RS,52,Female,Right,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,41-50%,Non-Solver
+CR_Conf,A9AGRDVF1QWE8,37,Female,Left,College,There is no way to know without additional information,4,21-30%,0-10%,0-10%,31-40%,21-30%,41-50%,11-20%,81-90%,51-60%,61-70%,0-10%,Non-Solver
+CR_Conf,A9BG6V33ZTVZT,23,Female,Right,College,1 minute,8,61-70%,61-70%,41-50%,51-60%,41-50%,51-60%,51-60%,31-40%,41-50%,51-60%,71-80%,Non-Solver
+CR_Conf,A9IPY1BU3GE2J,28,Male,Right,Graduate Degree,2000 hours,9,51-60%,0-10%,0-10%,81-90%,91-100%,91-100%,91-100%,91-100%,91-100%,91-100%,91-100%,Non-Solver
+CR_Conf,A9KOO1EFXIZDP,29,Male,Both hands are equally strong,Graduate Degree,1 hour,10,81-90%,0-10%,0-10%,31-40%,41-50%,51-60%,61-70%,71-80%,71-80%,61-70%,71-80%,Solver
+CR_Conf,A9MGD6PRW1N7K,34,Female,Right,College,2000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,A9OVGHDW5JVD9,27,Female,Right,College,Infinity,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,A9QZDOVGBPYOP,28,Male,Right,Graduate Degree,1 hour,5,51-60%,0-10%,0-10%,41-50%,51-60%,41-50%,51-60%,61-70%,51-60%,61-70%,51-60%,Solver
+CR_Conf,A9YJYYOWOVCR1,30,Male,Right,College,Infinity,7,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,41-50%,71-80%,61-70%,Non-Solver
+CR_Conf,A9YQQIZRWVPIT,34,Female,Right,High School/GED,1000 minutes,6,21-30%,0-10%,11-20%,11-20%,21-30%,21-30%,41-50%,41-50%,31-40%,21-30%,11-20%,Non-Solver
+CR_Conf,AA4O2W236E3FW,47,Female,Right,Less than High School,There is no way to know without additional information,4,21-30%,0-10%,11-20%,11-20%,21-30%,31-40%,51-60%,41-50%,51-60%,51-60%,41-50%,Non-Solver
+CR_Conf,AA9P9RSK7VMHJ,43,Male,Right,High School/GED,1 second,2,41-50%,41-50%,41-50%,31-40%,51-60%,51-60%,41-50%,31-40%,41-50%,31-40%,51-60%,Non-Solver
+CR_Conf,AAH34PTBV5AX,32,Male,Right,College,1000 seconds,8,51-60%,11-20%,51-60%,31-40%,11-20%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AAQREZOK13OV7,30,Male,Right,College,There is no way to know without additional information,10,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,AB09L2R4BPI6M,29,Male,Left,Graduate Degree,There is no way to know without additional information,10,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,AB66CTVQ90RCV,29,Female,Right,Graduate Degree,1000 minutes,1,0-10%,0-10%,11-20%,21-30%,61-70%,31-40%,71-80%,41-50%,51-60%,81-90%,91-100%,Non-Solver
+CR_Conf,AB774I47XHB4K,22,Male,Right,High School/GED,2000 hours,6,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,ABI7LAZ5192UL,28,Male,Right,College,1000 minutes,7,21-30%,21-30%,41-50%,31-40%,51-60%,41-50%,31-40%,51-60%,31-40%,51-60%,41-50%,Non-Solver
+CR_Conf,ABLP1KUWW46S6,45,Female,Right,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,11-20%,0-10%,11-20%,11-20%,0-10%,11-20%,31-40%,Non-Solver
+CR_Conf,ABMAH819AVF2U,32,Female,Right,Graduate Degree,1000 minutes,2,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,ABN9IUIM1YA7Y,58,Female,Right,High School/GED,Infinity,8,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,61-70%,61-70%,Non-Solver
+CR_Conf,ABQ65VUI4C9RK,44,Male,Right,College,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,31-40%,Non-Solver
+CR_Conf,ABZR4ETDWHPS3,28,Female,Right,College,1000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,21-30%,0-10%,Non-Solver
+CR_Conf,AC2YW45VFGRVR,60,Male,Right,High School/GED,Infinity,5,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AC32NRGRII3TA,39,Male,Right,Graduate Degree,Infinity,10,71-80%,0-10%,0-10%,0-10%,11-20%,41-50%,11-20%,11-20%,31-40%,61-70%,81-90%,Non-Solver
+CR_Conf,ACBWXQ7XU65FI,27,Female,Both hands are equally strong,Graduate Degree,Infinity,9,51-60%,31-40%,21-30%,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,ACDX50KGPE97I,29,Male,Right,College,1000 hours,6,31-40%,0-10%,0-10%,0-10%,11-20%,31-40%,31-40%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,ACMB4EM30MOWW,53,Female,Right,College,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,61-70%,Non-Solver
+CR_Conf,ACZCCLKP1S5B4,36,Female,Right,College,Infinity,5,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,Non-Solver
+CR_Conf,AD14EQ9O9JKRI,25,Male,Right,College,1 hour,6,31-40%,0-10%,0-10%,11-20%,0-10%,31-40%,11-20%,11-20%,0-10%,11-20%,21-30%,Solver
+CR_Conf,AD21ES5UMD77U,64,Male,Right,College,There is no way to know without additional information,4,0-10%,0-10%,21-30%,11-20%,41-50%,31-40%,11-20%,11-20%,0-10%,41-50%,31-40%,Non-Solver
+CR_Conf,ADB4T3R6KXQ73,42,Male,Right,Graduate Degree,There is no way to know without additional information,6,11-20%,11-20%,21-30%,21-30%,11-20%,21-30%,11-20%,31-40%,0-10%,0-10%,61-70%,Non-Solver
+CR_Conf,ADEB30PTLXXWU,25,Male,Right,High School/GED,1 hour,3,21-30%,0-10%,0-10%,11-20%,11-20%,21-30%,11-20%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,ADQEDEGVPG7R,34,Male,Right,Graduate Degree,1000 hours,5,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,ADW1CCQRMHXBP,27,Female,Right,College,There is no way to know without additional information,5,51-60%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,0-10%,0-10%,71-80%,81-90%,Non-Solver
+CR_Conf,ADX8Y4UXA4IDA,35,Male,,Graduate Degree,1000 hours,9,31-40%,31-40%,41-50%,31-40%,51-60%,31-40%,31-40%,21-30%,41-50%,41-50%,51-60%,Non-Solver
+CR_Conf,ADXFLF2SL8MFF,25,Female,Right,High School/GED,1000 seconds,1,11-20%,0-10%,81-90%,0-10%,81-90%,51-60%,81-90%,81-90%,81-90%,81-90%,81-90%,Non-Solver
+CR_Conf,ADXHWQLUQBK77,66,Male,Right,College,2000 hours,3,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,AE9PIXLCAFMFX,27,Female,Left,Graduate Degree,There is no way to know without additional information,6,71-80%,41-50%,51-60%,41-50%,31-40%,51-60%,61-70%,51-60%,71-80%,61-70%,51-60%,Non-Solver
+CR_Conf,AEB42Q2Z31GN,45,Female,Right,High School/GED,Infinity,8,11-20%,0-10%,0-10%,0-10%,21-30%,41-50%,61-70%,71-80%,81-90%,81-90%,81-90%,Non-Solver
+CR_Conf,AECI7BS2GGN6G,30,Male,Right,College,1000 hours,8,61-70%,41-50%,51-60%,71-80%,61-70%,71-80%,61-70%,71-80%,61-70%,61-70%,61-70%,Non-Solver
+CR_Conf,AECI7BS2GGN6G,29,Female,Right,Graduate Degree,1000 minutes,9,71-80%,61-70%,71-80%,61-70%,71-80%,81-90%,71-80%,71-80%,71-80%,61-70%,71-80%,Non-Solver
+CR_Conf,AEI5USUUPBU2G,33,Female,Right,College,1 hour,7,51-60%,0-10%,0-10%,0-10%,21-30%,51-60%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,AEOFJWOEXF94U,22,Male,Right,High School/GED,2000 hours,9,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AESL8Q8Z3RQY5,25,Male,Right,High School/GED,1 hour,3,21-30%,0-10%,0-10%,0-10%,11-20%,41-50%,81-90%,81-90%,81-90%,51-60%,21-30%,Solver
+CR_Conf,AETIZKQNUSBLB,29,Male,Right,College,1000000 hours,4,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,31-40%,21-30%,Non-Solver
+CR_Conf,AFK9ALQK5GPNG,34,Male,Right,College,2000 hours,3,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,AFKB7F09OVKV7,28,Male,Left,College,1000000 hours,3,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,Non-Solver
+CR_Conf,AFN5VMMGYPF1I,60,Female,Right,High School/GED,There is no way to know without additional information,10,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,21-30%,51-60%,51-60%,Non-Solver
+CR_Conf,AFUX7IUQOE0NA,37,Male,Right,College,1000 hours,2,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,0-10%,21-30%,Non-Solver
+CR_Conf,AFYNKZJRA5G9P,35,Male,Right,Graduate Degree,1000 seconds,10,11-20%,71-80%,61-70%,71-80%,61-70%,71-80%,61-70%,71-80%,81-90%,61-70%,71-80%,Non-Solver
+CR_Conf,AFZKP8TAXAUCR,25,Male,Left,College,Infinity,1,11-20%,0-10%,0-10%,0-10%,21-30%,31-40%,31-40%,0-10%,0-10%,21-30%,0-10%,Non-Solver
+CR_Conf,AG5HAUJJV4OCY,35,Male,Right,Graduate Degree,1 minute,9,11-20%,71-80%,81-90%,61-70%,71-80%,81-90%,71-80%,61-70%,71-80%,71-80%,81-90%,Non-Solver
+CR_Conf,AG8LX96SD4ROA,25,Female,Right,College,1 hour,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,AG9LWKO86TNHG,47,Female,Left,College,Infinity,7,11-20%,0-10%,41-50%,41-50%,51-60%,51-60%,61-70%,61-70%,71-80%,81-90%,81-90%,Non-Solver
+CR_Conf,AGC9SDAHS3ZQG,28,Male,Right,Graduate Degree,1 minute,7,31-40%,0-10%,0-10%,41-50%,61-70%,71-80%,61-70%,61-70%,71-80%,81-90%,91-100%,Non-Solver
+CR_Conf,AGG989UVC0TQR,38,Male,Right,High School/GED,Infinity,8,21-30%,0-10%,11-20%,21-30%,31-40%,31-40%,51-60%,61-70%,71-80%,81-90%,81-90%,Non-Solver
+CR_Conf,AGI7TIN3SOL7X,30,Female,Right,Graduate Degree,Infinity,9,51-60%,0-10%,0-10%,41-50%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AGN2WNWU7JSYF,66,Male,Right,College,There is no way to know without additional information,9,41-50%,0-10%,0-10%,0-10%,0-10%,41-50%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,AGP1IXSTAD126,74,Female,Right,College,Infinity,5,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AGPUAIA4AYRR6,28,Male,Right,College,1000 minutes,4,11-20%,0-10%,0-10%,61-70%,91-100%,91-100%,91-100%,91-100%,71-80%,51-60%,61-70%,Non-Solver
+CR_Conf,AHBWX3WYMAB0E,44,Female,Right,College,Infinity,6,11-20%,0-10%,0-10%,0-10%,31-40%,11-20%,11-20%,11-20%,11-20%,51-60%,51-60%,Non-Solver
+CR_Conf,AHDY3BLTTUYFG,28,Female,Right,Graduate Degree,1000 seconds,9,21-30%,71-80%,61-70%,81-90%,51-60%,81-90%,61-70%,71-80%,51-60%,81-90%,71-80%,Non-Solver
+CR_Conf,AHNNJ5ZKO3AXB,37,Female,Right,High School/GED,There is no way to know without additional information,10,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,71-80%,71-80%,Non-Solver
+CR_Conf,AHZK3Z1KHJ0BO,34,Male,Right,College,Infinity,5,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,11-20%,Non-Solver
+CR_Conf,AI3FXSITMG1GI,34,Male,Right,Graduate Degree,There is no way to know without additional information,7,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,41-50%,Non-Solver
+CR_Conf,AI3K9BDEZT558,32,Female,Right,College,There is no way to know without additional information,10,41-50%,0-10%,11-20%,21-30%,51-60%,21-30%,61-70%,61-70%,21-30%,91-100%,91-100%,Non-Solver
+CR_Conf,AI7JJFWNOMF5M,26,Male,Right,College,1 hour,6,21-30%,0-10%,11-20%,0-10%,61-70%,11-20%,61-70%,71-80%,31-40%,21-30%,21-30%,Solver
+CR_Conf,AIC2D8A9UQO8S,37,Male,Right,High School/GED,1000 hours,3,0-10%,0-10%,0-10%,11-20%,31-40%,41-50%,31-40%,21-30%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,AIHXN5QSXGICS,31,Male,Right,High School/GED,Infinity,7,31-40%,0-10%,0-10%,11-20%,21-30%,31-40%,31-40%,31-40%,41-50%,41-50%,41-50%,Non-Solver
+CR_Conf,AIK9IRPT4M848,45,Male,Right,College,1000 hours,10,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,61-70%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AIO0IW74PIY91,27,Male,Both hands are equally strong,Graduate Degree,1000 minutes,8,61-70%,51-60%,61-70%,51-60%,41-50%,51-60%,61-70%,41-50%,51-60%,41-50%,51-60%,Non-Solver
+CR_Conf,AIOZF654BN0LT,28,Female,Right,College,Infinity,2,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,21-30%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,AIPTD20LYS1QV,51,Female,Right,College,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AISNLDPD2DFEG,46,Female,Right,College,2000 hours,5,11-20%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,AJ6EHNV0RNEK6,29,Female,Right,College,Infinity,9,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,AJI1NU81EWEWQ,54,Male,Right,Graduate Degree,1000 hours,9,91-100%,91-100%,91-100%,81-90%,71-80%,91-100%,71-80%,81-90%,71-80%,91-100%,71-80%,Non-Solver
+CR_Conf,AJM4334V07JDQ,40,Male,Left,College,1 hour,6,21-30%,41-50%,31-40%,11-20%,21-30%,21-30%,41-50%,0-10%,0-10%,51-60%,0-10%,Solver
+CR_Conf,AJMWITY1XT7H7,37,Female,Left,College,There is no way to know without additional information,2,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,AJTLLYV8O5FQU,60,Female,Right,College,There is no way to know without additional information,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AJTNDRWYD3IFR,23,Male,Both hands are equally strong,College,Infinity,8,21-30%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,11-20%,21-30%,31-40%,11-20%,Non-Solver
+CR_Conf,AJW3PL5UDH4BP,35,Male,Left,High School/GED,1000 hours,4,11-20%,0-10%,0-10%,11-20%,21-30%,21-30%,31-40%,31-40%,21-30%,31-40%,21-30%,Non-Solver
+CR_Conf,AJXUWIDZ3HTC6,35,Male,Right,College,1 minute,3,21-30%,51-60%,31-40%,31-40%,41-50%,41-50%,51-60%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AJZT40UH0HWQ3,53,Male,Right,College,1000 hours,9,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,AK1Q45RF8A87Z,54,Female,Left,High School/GED,2000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,61-70%,61-70%,Non-Solver
+CR_Conf,AK3H5QRAROFGP,31,Male,Right,College,There is no way to know without additional information,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,AK77EA1UZ8KJG,22,Male,Right,College,1000 minutes,7,31-40%,51-60%,31-40%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AK81F0NOBFJS3,34,Male,Right,College,There is no way to know without additional information,6,31-40%,0-10%,21-30%,11-20%,11-20%,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,AKE13X5TTBPLC,23,Female,Right,College,1 hour,9,71-80%,41-50%,51-60%,31-40%,41-50%,71-80%,41-50%,51-60%,61-70%,61-70%,61-70%,Solver
+CR_Conf,AKJ22H1NTVIQX,55,Male,Right,High School/GED,Infinity,6,0-10%,0-10%,11-20%,31-40%,21-30%,51-60%,31-40%,31-40%,11-20%,41-50%,21-30%,Non-Solver
+CR_Conf,AKPXWXJFLHM08,27,Male,Right,Graduate Degree,1000 seconds,9,61-70%,11-20%,51-60%,31-40%,21-30%,21-30%,21-30%,31-40%,41-50%,0-10%,0-10%,Non-Solver
+CR_Conf,AKWIRTRUXO6R5,44,Male,Right,College,Infinity,6,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,51-60%,61-70%,71-80%,81-90%,81-90%,Non-Solver
+CR_Conf,AKZD89B2WLSX7,49,Female,Right,College,There is no way to know without additional information,1,31-40%,0-10%,11-20%,11-20%,21-30%,21-30%,31-40%,41-50%,41-50%,61-70%,71-80%,Non-Solver
+CR_Conf,AL2546ZT0KV1Z,25,Female,Right,Graduate Degree,1 hour,7,11-20%,0-10%,0-10%,41-50%,51-60%,41-50%,61-70%,41-50%,61-70%,41-50%,51-60%,Solver
+CR_Conf,AL83KKXUORS9Y,60,Female,Right,High School/GED,2000 hours,1,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,ALARJPFSEZGGI,36,Male,Right,College,There is no way to know without additional information,7,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,41-50%,Non-Solver
+CR_Conf,ALDQRWYZ8KQ9A,41,Male,Right,College,1000 hours,1,21-30%,0-10%,11-20%,0-10%,21-30%,11-20%,21-30%,11-20%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,ALF6OOKP0XSE8,44,Female,Right,College,1 hour,7,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,ALF9AAZGQP4K5,31,Male,Right,College,2000 hours,7,31-40%,0-10%,0-10%,0-10%,11-20%,0-10%,21-30%,21-30%,11-20%,21-30%,11-20%,Non-Solver
+CR_Conf,ALMXTU647ULDU,69,Male,Right,College,1000 hours,7,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,21-30%,11-20%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,ALNWK6Z0JZ7JS,28,Female,Both hands are equally strong,Graduate Degree,1 minute,4,0-10%,0-10%,0-10%,31-40%,21-30%,21-30%,11-20%,0-10%,0-10%,51-60%,71-80%,Non-Solver
+CR_Conf,ALUKD738FTTZW,44,Male,Right,Graduate Degree,Infinity,10,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,ALW6G6Z52AJ5D,38,Female,Right,Graduate Degree,There is no way to know without additional information,5,31-40%,0-10%,0-10%,0-10%,21-30%,51-60%,31-40%,31-40%,11-20%,41-50%,51-60%,Non-Solver
+CR_Conf,ALZDJ7DBWN919,32,Female,Right,College,1 hour,10,21-30%,0-10%,0-10%,0-10%,0-10%,21-30%,0-10%,0-10%,0-10%,21-30%,41-50%,Solver
+CR_Conf,AM0ICBSM87D2F,23,Male,Right,College,1 hour,7,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,31-40%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,AM2ZKQTY60RTG,33,Female,Right,College,1000 hours,4,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AMA18W8F60Y2J,50,Female,Right,High School/GED,2000 hours,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,61-70%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,AMAHVZOQ00EQ7,29,Male,Right,Graduate Degree,1000 hours,1,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,AMELYCC59JKB0,37,Female,Right,College,1000 hours,5,41-50%,0-10%,0-10%,0-10%,11-20%,0-10%,31-40%,31-40%,21-30%,41-50%,41-50%,Non-Solver
+CR_Conf,AMJ03G9G9DTUS,29,Male,Right,Graduate Degree,1 hour,9,11-20%,51-60%,61-70%,51-60%,71-80%,51-60%,61-70%,41-50%,61-70%,71-80%,41-50%,Solver
+CR_Conf,AMNRYECHXZY34,34,Male,Right,College,1000 hours,4,31-40%,0-10%,0-10%,0-10%,0-10%,31-40%,21-30%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,AMPMTF5IAAMK8,37,Male,Right,Graduate Degree,1 hour,3,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,Solver
+CR_Conf,AMV1E7FFPVAW4,39,Female,Right,High School/GED,There is no way to know without additional information,1,11-20%,0-10%,0-10%,81-90%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,61-70%,Non-Solver
+CR_Conf,AMVBT3XDCQBHI,73,Male,Right,High School/GED,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,AMYURTQIMAC8T,31,Female,Right,College,1000 seconds,10,11-20%,0-10%,81-90%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AN6L87Z4LP6R5,28,Male,Right,College,1 minute,6,21-30%,11-20%,61-70%,51-60%,31-40%,21-30%,21-30%,21-30%,11-20%,41-50%,21-30%,Non-Solver
+CR_Conf,AN7N56XWXCX45,20,Male,Left,College,2000 hours,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,ANBWJZYU2A68T,46,Male,Right,Graduate Degree,1 hour,6,21-30%,0-10%,11-20%,11-20%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,11-20%,Solver
+CR_Conf,ANN162CY5IAGN,43,Male,Left,College,There is no way to know without additional information,9,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,71-80%,Non-Solver
+CR_Conf,ANOMPD7C83M3W,57,Female,Right,Graduate Degree,2000 hours,6,11-20%,0-10%,61-70%,51-60%,51-60%,51-60%,61-70%,41-50%,71-80%,0-10%,0-10%,Non-Solver
+CR_Conf,ANQ0RLFEZ17W0,28,Female,Right,College,1000 minutes,7,31-40%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,ANYB94DHDJKNO,50,Female,Right,College,1 hour,8,51-60%,0-10%,0-10%,0-10%,0-10%,31-40%,11-20%,0-10%,0-10%,11-20%,11-20%,Solver
+CR_Conf,AO9PVVS0ETC4V,28,Male,Both hands are equally strong,Graduate Degree,1000 minutes,8,11-20%,0-10%,0-10%,81-90%,81-90%,81-90%,81-90%,81-90%,81-90%,81-90%,81-90%,Non-Solver
+CR_Conf,AOCME08MZQHA7,32,Transmasculine non-binary,Left,College,Infinity,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AOJJK61F8QF22,30,Male,Right,Graduate Degree,There is no way to know without additional information,7,21-30%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,11-20%,11-20%,11-20%,41-50%,Non-Solver
+CR_Conf,AORMYJSLXA8U6,47,Female,Right,Graduate Degree,1000 minutes,9,11-20%,0-10%,0-10%,51-60%,61-70%,51-60%,61-70%,61-70%,51-60%,61-70%,61-70%,Non-Solver
+CR_Conf,AOS2PVHT2HYTL,64,Female,Right,College,Infinity,8,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,31-40%,Non-Solver
+CR_Conf,AOSLTO4W2A476,29,Male,Right,High School/GED,There is no way to know without additional information,1,41-50%,0-10%,0-10%,0-10%,21-30%,21-30%,31-40%,0-10%,0-10%,41-50%,31-40%,Non-Solver
+CR_Conf,AOWW3URQNRJ6U,27,Male,Right,High School/GED,Infinity,3,21-30%,0-10%,31-40%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,AP8AMEEK8U0HC,30,Female,Right,Graduate Degree,1000 minutes,5,11-20%,0-10%,0-10%,41-50%,31-40%,31-40%,41-50%,21-30%,31-40%,51-60%,41-50%,Non-Solver
+CR_Conf,APCVD1Y1UE7XM,18,Male,Right,College,1 hour,6,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,11-20%,0-10%,0-10%,11-20%,0-10%,Solver
+CR_Conf,APDDA1Y59RHV9,55,Female,Right,College,1 second,3,0-10%,0-10%,11-20%,21-30%,31-40%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,APDZ10TRIR1Q9,27,Male,Right,High School/GED,2000 hours,5,31-40%,0-10%,0-10%,0-10%,11-20%,21-30%,31-40%,61-70%,31-40%,11-20%,11-20%,Non-Solver
+CR_Conf,APEHS2JTA3FZJ,35,Male,Both hands are equally strong,High School/GED,There is no way to know without additional information,6,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,51-60%,41-50%,51-60%,61-70%,61-70%,Non-Solver
+CR_Conf,APGBQQ5XS3Q4P,32,Male,Right,Graduate Degree,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,41-50%,21-30%,Non-Solver
+CR_Conf,APGX2WZ59OWDN,25,Female,Right,College,Infinity,6,21-30%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,APKFFVZKZJ6NZ,27,Male,Left,College,There is no way to know without additional information,7,31-40%,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,11-20%,0-10%,11-20%,21-30%,Non-Solver
+CR_Conf,APRG355NLSZ09,24,Female,Right,College,2000 hours,7,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,21-30%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,APVWMP5952IOY,30,Male,Right,College,Infinity,6,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,Non-Solver
+CR_Conf,APY5858P6BTDY,29,Female,Right,College,1 hour,9,11-20%,0-10%,0-10%,0-10%,51-60%,31-40%,81-90%,41-50%,71-80%,61-70%,21-30%,Solver
+CR_Conf,AQ2Z8GSCNU8H6,28,Male,Left,College,Infinity,5,61-70%,0-10%,0-10%,0-10%,11-20%,11-20%,31-40%,51-60%,41-50%,81-90%,11-20%,Non-Solver
+CR_Conf,AQ63WUIFI2C6F,27,Male,Right,Graduate Degree,2000 hours,9,41-50%,41-50%,31-40%,41-50%,11-20%,31-40%,51-60%,41-50%,31-40%,21-30%,41-50%,Non-Solver
+CR_Conf,AQOXSP4W3ITSW,50,Male,Right,College,Infinity,9,51-60%,0-10%,0-10%,0-10%,11-20%,0-10%,31-40%,31-40%,41-50%,61-70%,11-20%,Non-Solver
+CR_Conf,AR0PIL5RKRI12,25,Female,Right,College,1 minute,8,51-60%,71-80%,61-70%,41-50%,31-40%,51-60%,61-70%,71-80%,41-50%,81-90%,41-50%,Non-Solver
+CR_Conf,AR1IWBDA7MC86,32,Male,Right,College,There is no way to know without additional information,1,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,21-30%,Non-Solver
+CR_Conf,ARG392N6HWZCJ,25,Male,Right,College,1000 minutes,8,51-60%,41-50%,41-50%,31-40%,21-30%,31-40%,31-40%,51-60%,21-30%,41-50%,41-50%,Non-Solver
+CR_Conf,ARHBT4K14I7U,50,Female,Left,High School/GED,Infinity,3,11-20%,0-10%,0-10%,0-10%,31-40%,41-50%,0-10%,0-10%,0-10%,71-80%,61-70%,Non-Solver
+CR_Conf,ARLGZWN6W91WD,31,Female,Right,College,There is no way to know without additional information,1,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,31-40%,31-40%,31-40%,11-20%,11-20%,Non-Solver
+CR_Conf,ARM2CBQGJCQ5Z,37,Female,Right,College,1 hour,5,11-20%,0-10%,0-10%,11-20%,0-10%,21-30%,11-20%,11-20%,11-20%,0-10%,11-20%,Solver
+CR_Conf,ARR5S0BHQWBGZ,29,Male,Right,High School/GED,There is no way to know without additional information,6,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,ARZV0T1MCI22L,31,Female,Right,College,1000 minutes,2,0-10%,0-10%,11-20%,11-20%,31-40%,51-60%,41-50%,21-30%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,AS2WTWYVRW9BV,41,Male,Left,High School/GED,1000 hours,3,21-30%,91-100%,21-30%,11-20%,41-50%,61-70%,0-10%,51-60%,71-80%,81-90%,31-40%,Non-Solver
+CR_Conf,ASF5V3K4IFP4K,26,Male,Left,College,1000 seconds,2,11-20%,0-10%,21-30%,0-10%,21-30%,21-30%,11-20%,0-10%,0-10%,11-20%,31-40%,Non-Solver
+CR_Conf,ASFR82SJYMGNU,33,Female,Right,College,1 hour,7,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver
+CR_Conf,ASGVG12IKRQMJ,29,Female,Right,College,Infinity,4,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,ASQQKELQ5WN35,34,Male,Right,Graduate Degree,1 minute,10,61-70%,71-80%,61-70%,71-80%,81-90%,51-60%,61-70%,71-80%,61-70%,61-70%,71-80%,Non-Solver
+CR_Conf,ASS0YATH0WK3R,26,Female,Right,College,1000 minutes,7,11-20%,0-10%,11-20%,31-40%,51-60%,31-40%,21-30%,21-30%,0-10%,41-50%,31-40%,Non-Solver
+CR_Conf,ASTR3EPUOKEXV,29,Male,Both hands are equally strong,College,1000 minutes,8,61-70%,0-10%,0-10%,11-20%,61-70%,71-80%,0-10%,0-10%,0-10%,31-40%,11-20%,Non-Solver
+CR_Conf,ASU6TRBBUNLFZ,47,Male,Right,College,1 hour,5,31-40%,0-10%,0-10%,0-10%,11-20%,31-40%,11-20%,11-20%,11-20%,0-10%,11-20%,Solver
+CR_Conf,AT0XK1SBXZZVZ,35,Female,Right,Graduate Degree,Infinity,8,51-60%,0-10%,0-10%,31-40%,41-50%,51-60%,0-10%,0-10%,0-10%,61-70%,51-60%,Non-Solver
+CR_Conf,AT7QJKGCPSO6J,35,Male,Right,College,There is no way to know without additional information,8,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,Non-Solver
+CR_Conf,AT861RPSVJPNU,40,Male,Both hands are equally strong,Graduate Degree,1000 seconds,8,21-30%,31-40%,21-30%,31-40%,31-40%,61-70%,51-60%,41-50%,41-50%,61-70%,61-70%,Non-Solver
+CR_Conf,ATADQXPHL10Y8,34,Male,Right,High School/GED,1000 seconds,8,21-30%,0-10%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,ATGD9YT82E25,27,Male,Right,College,Infinity,4,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,61-70%,0-10%,Non-Solver
+CR_Conf,ATHS9GUME1XCA,54,Male,Right,High School/GED,1 hour,4,21-30%,11-20%,21-30%,21-30%,31-40%,61-70%,31-40%,21-30%,21-30%,11-20%,0-10%,Solver
+CR_Conf,ATJDYRKPNPTVZ,30,Male,Right,Graduate Degree,1 minute,9,61-70%,71-80%,51-60%,71-80%,31-40%,51-60%,81-90%,31-40%,51-60%,51-60%,91-100%,Non-Solver
+CR_Conf,ATY1UPL3PAABG,28,Male,Right,Graduate Degree,1000 hours,8,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver
+CR_Conf,AU2NVT51E749C,41,Male,Right,Graduate Degree,1 hour,7,21-30%,0-10%,0-10%,11-20%,21-30%,41-50%,31-40%,51-60%,61-70%,71-80%,81-90%,Solver
+CR_Conf,AU3WB2DD4QJ4B,23,Female,Right,College,There is no way to know without additional information,2,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,11-20%,11-20%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,AUAN582MLI96N,40,Male,Right,Graduate Degree,1 minute,3,31-40%,0-10%,11-20%,31-40%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AUPRMVUM25CSP,35,Female,Right,Graduate Degree,1000 seconds,10,31-40%,71-80%,51-60%,71-80%,81-90%,71-80%,61-70%,51-60%,71-80%,81-90%,61-70%,Non-Solver
+CR_Conf,AUR00C9X9QOZJ,47,Female,Right,Graduate Degree,There is no way to know without additional information,3,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,51-60%,51-60%,61-70%,71-80%,71-80%,Non-Solver
+CR_Conf,AUU3FYNZXKENO,46,Female,Right,College,Infinity,6,0-10%,0-10%,31-40%,41-50%,31-40%,41-50%,11-20%,51-60%,11-20%,61-70%,61-70%,Non-Solver
+CR_Conf,AV25DTYX6HU1I,45,Male,Right,College,1 hour,10,71-80%,0-10%,0-10%,41-50%,61-70%,81-90%,31-40%,41-50%,31-40%,21-30%,31-40%,Solver
+CR_Conf,AV7A20KYBTQHL,62,Female,Right,College,There is no way to know without additional information,9,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,AVD6HMIO1HLFI,30,Male,Right,High School/GED,Infinity,8,61-70%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,61-70%,21-30%,Non-Solver
+CR_Conf,AVI5GB8RDVIB2,52,Male,Right,College,Infinity,10,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AVJUIF9QHQRY8,35,Female,Right,College,1 minute,6,31-40%,0-10%,11-20%,31-40%,21-30%,41-50%,11-20%,0-10%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,AVNXCGTZQ1CFK,34,Female,Right,Graduate Degree,There is no way to know without additional information,3,21-30%,0-10%,11-20%,11-20%,11-20%,21-30%,11-20%,21-30%,31-40%,41-50%,61-70%,Non-Solver
+CR_Conf,AVSYT8SWYR5Q0,35,Female,Right,Graduate Degree,There is no way to know without additional information,4,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AVU1N78F92K93,28,Male,Right,College,There is no way to know without additional information,2,11-20%,0-10%,11-20%,11-20%,41-50%,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AVZOC3OGBQRX2,38,Female,Right,Graduate Degree,Infinity,3,21-30%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,21-30%,21-30%,Non-Solver
+CR_Conf,AWEBSKTX07CGL,45,Female,Right,Graduate Degree,1000 seconds,8,61-70%,61-70%,51-60%,71-80%,61-70%,51-60%,41-50%,71-80%,61-70%,51-60%,71-80%,Non-Solver
+CR_Conf,AWJ5RYXJCSGV0,47,Female,Both hands are equally strong,Graduate Degree,2000 hours,5,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,11-20%,0-10%,Non-Solver
+CR_Conf,AWMO0GYE4AYF9,28,Male,Right,Graduate Degree,1 hour,10,31-40%,11-20%,11-20%,11-20%,21-30%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver
+CR_Conf,AWNQ9E62XRB0O,20,Male,Right,High School/GED,1 minute,4,21-30%,21-30%,11-20%,41-50%,21-30%,21-30%,11-20%,11-20%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AWQP20VVZBLSF,32,Male,Right,High School/GED,2000 hours,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,AWWLXQEJDDH4F,39,Male,Right,College,2000 hours,7,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,21-30%,61-70%,11-20%,31-40%,41-50%,Non-Solver
+CR_Conf,AWXIEV9H6KT9E,25,Male,Right,College,1 hour,5,31-40%,31-40%,21-30%,31-40%,31-40%,41-50%,31-40%,41-50%,41-50%,21-30%,31-40%,Solver
+CR_Conf,AWY6W20U8H3JA,55,Female,Left,College,Infinity,6,51-60%,0-10%,0-10%,11-20%,31-40%,31-40%,41-50%,21-30%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,AWZCVOUD0LPT,28,Male,Right,Graduate Degree,1000 minutes,10,71-80%,0-10%,21-30%,31-40%,21-30%,51-60%,51-60%,61-70%,41-50%,71-80%,61-70%,Non-Solver
+CR_Conf,AX4QV62HBKJ34,55,Male,Right,Graduate Degree,Infinity,1,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,AXFTXWW2B0Y5B,28,Female,Right,College,1000 hours,4,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,0-10%,0-10%,0-10%,11-20%,Non-Solver
+CR_Conf,AXLSMBLT1SFFN,27,Male,Right,Graduate Degree,1 minute,7,21-30%,21-30%,31-40%,31-40%,41-50%,41-50%,31-40%,31-40%,31-40%,31-40%,21-30%,Non-Solver
+CR_Conf,AXPCNT7S29XX2,33,Non Binary,Right,College,There is no way to know without additional information,4,91-100%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,41-50%,41-50%,Non-Solver
+CR_Conf,AXPZAP62ZYWP8,23,Male,Right,High School/GED,There is no way to know without additional information,4,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,31-40%,41-50%,Non-Solver
+CR_Conf,AXQDSQGBC79S2,36,Male,Right,College,1000 minutes,5,11-20%,0-10%,0-10%,0-10%,41-50%,11-20%,41-50%,21-30%,21-30%,21-30%,11-20%,Non-Solver
+CR_Conf,AXYQUQZ664FI1,55,Female,Right,College,Infinity,6,51-60%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AY0GG2W8XO1LP,41,Male,Right,Graduate Degree,1000 hours,5,11-20%,0-10%,0-10%,11-20%,0-10%,41-50%,41-50%,0-10%,11-20%,0-10%,0-10%,Non-Solver
+CR_Conf,AY20GP97EYIOU,47,Male,Right,College,1 hour,3,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,Solver
+CR_Conf,AY48Z6P9V2BPA,35,Female,Right,College,1 minute,9,11-20%,61-70%,71-80%,81-90%,71-80%,61-70%,71-80%,81-90%,81-90%,71-80%,61-70%,Non-Solver
+CR_Conf,AY832D29HUURG,25,Male,Right,Graduate Degree,There is no way to know without additional information,3,51-60%,51-60%,31-40%,11-20%,11-20%,11-20%,11-20%,11-20%,41-50%,11-20%,0-10%,Non-Solver
+CR_Conf,AY8JXIKA2CXM4,25,Male,Right,Graduate Degree,2000 hours,9,21-30%,51-60%,71-80%,51-60%,61-70%,41-50%,61-70%,71-80%,61-70%,51-60%,71-80%,Non-Solver
+CR_Conf,AYI52R70VMEG5,41,Male,Right,High School/GED,Infinity,7,41-50%,0-10%,0-10%,0-10%,11-20%,11-20%,21-30%,21-30%,21-30%,31-40%,11-20%,Non-Solver
+CR_Conf,AYJOS6IIR2HTA,28,Female,Right,Graduate Degree,1 minute,8,31-40%,61-70%,51-60%,41-50%,31-40%,51-60%,61-70%,71-80%,51-60%,31-40%,41-50%,Non-Solver
+CR_Conf,AYQAO6B91191T,29,Male,Right,High School/GED,Infinity,7,31-40%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,0-10%,0-10%,31-40%,0-10%,Non-Solver
+CR_Conf,AYSG3J2U3UF1Y,58,Male,Right,College,1 minute,7,21-30%,11-20%,21-30%,11-20%,0-10%,11-20%,0-10%,0-10%,0-10%,0-10%,31-40%,Non-Solver
+CR_Conf,AYW62R027PUT1,43,Male,Right,College,1000 hours,3,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,21-30%,31-40%,Non-Solver
+CR_Conf,AYXDE087J2KO,47,Female,Right,College,There is no way to know without additional information,6,0-10%,0-10%,0-10%,0-10%,21-30%,11-20%,41-50%,61-70%,71-80%,81-90%,51-60%,Non-Solver
+CR_Conf,AYY7JSAD0SGXL,37,Female,Right,Graduate Degree,There is no way to know without additional information,8,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,AZ57C58RDAMJF,56,Female,Right,College,1 hour,3,21-30%,0-10%,0-10%,0-10%,11-20%,21-30%,41-50%,41-50%,31-40%,31-40%,11-20%,Solver
+CR_Conf,AZ62O8KDF3EYR,30,Male,Right,College,1 hour,6,51-60%,0-10%,0-10%,11-20%,51-60%,71-80%,31-40%,31-40%,11-20%,41-50%,21-30%,Solver
+CR_Conf,AZ69TBTDH7AZS,26,Male,Both hands are equally strong,College,1000 hours,5,11-20%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver
+CR_Conf,AZ860Z1ABU6NS,38,Female,Right,Graduate Degree,There is no way to know without additional information,7,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,11-20%,51-60%,Non-Solver
+CR_Conf,AZCGSVDT79E6X,25,Male,Right,Less than High School,1 hour,2,11-20%,0-10%,0-10%,0-10%,11-20%,21-30%,11-20%,11-20%,0-10%,11-20%,21-30%,Solver
+CR_Conf,AZEGZ5ZVM6P5A,32,Female,Right,College,1000 seconds,8,31-40%,0-10%,51-60%,31-40%,61-70%,0-10%,11-20%,11-20%,0-10%,21-30%,11-20%,Non-Solver
+CR_Conf,AZIAQJWXTSFUX,41,Male,Right,College,2000 hours,1,11-20%,11-20%,11-20%,11-20%,11-20%,21-30%,51-60%,21-30%,21-30%,41-50%,21-30%,Non-Solver
+CR_Conf,AZJS4O3334NAB,40,Female,Right,College,1 hour,8,31-40%,0-10%,0-10%,0-10%,0-10%,31-40%,0-10%,0-10%,0-10%,41-50%,21-30%,Solver
+CR_Conf,AZJVAP536DY13,34,Male,Right,College,There is no way to know without additional information,9,31-40%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,0-10%,0-10%,41-50%,81-90%,Non-Solver
+CR_Conf,AZMC727QDIUW7,51,Female,Right,Graduate Degree,There is no way to know without additional information,3,11-20%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,0-10%,0-10%,61-70%,Non-Solver
+CR_Conf,AZOAQIDF3IYEL,28,Female,Right,Graduate Degree,1 hour,7,61-70%,51-60%,61-70%,61-70%,51-60%,61-70%,81-90%,61-70%,51-60%,81-90%,51-60%,Solver
+CR_Conf,AZOV5QBQK3B8L,34,Male,Right,Graduate Degree,Infinity,10,11-20%,0-10%,11-20%,41-50%,21-30%,31-40%,61-70%,51-60%,71-80%,81-90%,91-100%,Non-Solver
+CR_Conf,AZTHBV93S8U3T,29,Male,Both hands are equally strong,College,1000 hours,1,0-10%,11-20%,31-40%,21-30%,41-50%,21-30%,11-20%,11-20%,11-20%,21-30%,21-30%,Non-Solver
+CR_Conf,AZVI1B5Z5L56N,54,Female,Right,College,There is no way to know without additional information,2,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver
+CR_Conf,AZXRWSMDC8FJN,39,Male,Right,High School/GED,Infinity,3,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,21-30%,21-30%,21-30%,Non-Solver
+CR_Conf,AZZA3J049G7R5,28,Female,Right,High School/GED,1000 hours,1,21-30%,0-10%,0-10%,0-10%,21-30%,0-10%,21-30%,11-20%,11-20%,0-10%,11-20%,Non-Solver
+CR_Conf,COPIEDA1X7FVM9URL2CR,59,Female,Right,High School/GED,There is no way to know without additional information,6,21-30%,0-10%,0-10%,0-10%,0-10%,0-10%,11-20%,11-20%,11-20%,11-20%,41-50%,Non-Solver

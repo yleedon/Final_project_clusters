@@ -1,0 +1,95 @@
+Problem,Worker ID,Age,Gender,Strong hand,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,"BFRP, AUIE, GNDC","BFGP, AUIE, RNDC","AERP, BGCD, FUIN","CNRP, AGDS, EIOT","BNPR, ACDF, EIUG","ANPR, BCDF, EIUG",Class
+LettersDice,18,17,Male,Right,High School/GED,"BNPR, ACDF, EIUG",10,4,6,0.4,0.1,0.2,0.15,0.05,0.4,0.1,Solver
+LettersDice,17,29,Male,Right,College,"BNPR, ACDF, EIUG",10,4,5,0.7,0,0.05,0.15,0.05,0.7,0.05,Solver
+LettersDice,16,22,Female,Right,College,"BNPR, ACDF, EIUG",10,1,1,0.85,0,0,0,0,1,0,Solver
+LettersDice,15,25,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",1,3,7,0.05,0.15,0.15,0.15,0.15,0.2,0.2,Solver
+LettersDice,14,26,Male,Right,College,"BNPR, ACDF, EIUG",5,4,7,0.7,0.3,0,0,0,0.7,0,Solver
+LettersDice,13,27,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,5,8,0.5,0.2,0.05,0.05,0.05,0.5,0.15,Solver
+LettersDice,12,25,Female,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,6,7,0.8,0.1,0.1,0.1,0.1,0.5,0.1,Solver
+LettersDice,11,28,Male,Right,Graduate Degree,"ANPR, BCDF, EIUG",10,1,5,1,0,0,0,0,0,1,Non-Solver
+LettersDice,10,29,Male,Right,High School/GED,"BNPR, ACDF, EIUG",10,2,4,0.6,0.2,0,0,0,0.6,0.2,Solver
+LettersDice,9,36,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,1,5,0.6,0.3,0.05,0.05,0.05,0.5,0.05,Solver
+LettersDice,8,26,Female,Right,College,"AERP, BGCD, FUIN",1,9,8,0.15,0.15,0.1,0.15,0.2,0.2,0.2,Non-Solver
+LettersDice,7,35,Female,Left,Graduate Degree,"BNPR, ACDF, EIUG",10,2,5,0.5,0.1,0.1,0.1,0.1,0.5,0.1,Solver
+LettersDice,6,60,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,2,3,0.6,0.05,0.05,0.1,0.1,0.6,0.1,Solver
+LettersDice,5,39,Female,Right,Graduate Degree,"BFRP, AUIE, GNDC",6,8,8,0.4,0.3,0.25,0.15,0.1,0.15,0.05,Non-Solver
+LettersDice,4,62,Female,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,4,6,0.8,0,0,0,0.2,0.8,0,Solver
+LettersDice,3,29,Female,Right,Graduate Degree,"BFRP, AUIE, GNDC",1,2,3,0.3,0.2,0.2,0.1,0.1,0.2,0.2,Non-Solver
+LettersDice,2,28,Female,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,3,2,0.75,0.05,0.05,0.05,0.05,0.75,0.05,Solver
+LettersDice,1,33,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,3,4,0.75,0.05,0.05,0.05,0.05,0.75,0.05,Solver
+LettersDice,A2WHC086WNUQNB,53,Female,Right,College,"AERP, BGCD, FUIN",1,10,10,0.1,0.2,0.2,0.2,0.2,0.1,0.1,Non-Solver
+LettersDice,AMZV70TID53WY,26,Male,Right,College,"BFRP, AUIE, GNDC",3,4,4,0.4,0.25,0.25,0.15,0.15,0.15,0.05,Non-Solver
+LettersDice,A147F5PJTHOB8A,42,Male,Right,High School/GED,"BNPR, ACDF, EIUG",1,10,10,0.15,0.2,0.1,0.15,0.3,0.15,0.1,Solver
+LettersDice,A1NZFJHVJ9CNTO,29,Male,Right,High School/GED,"BFRP, AUIE, GNDC",10,1,1,0.9,0.9,0.05,0.05,0,0,0,Non-Solver
+LettersDice,AO46MWFKLP3ZN,30,Male,Right,Graduate Degree,"AERP, BGCD, FUIN",10,1,5,0.5,0.1,0.1,0.5,0.05,0.15,0.1,Non-Solver
+LettersDice,A39YK8LJ8O37OY,33,Female,Right,Graduate Degree,"BFRP, AUIE, GNDC",2,1,1,0.1,0.05,0.05,0.05,0.2,0.35,0.3,Non-Solver
+LettersDice,AKF2CET7H6C5X,32,Male,Right,Graduate Degree,"CNRP, AGDS, EIOT",1,7,4,0.75,0.15,0.15,0.1,0.35,0.15,0.1,Non-Solver
+LettersDice,A53WVYONK6B9Q,26,Male,Right,High School/GED,"CNRP, AGDS, EIOT",4,4,4,0.15,0.05,0.15,0.15,0.15,0.2,0.3,Non-Solver
+LettersDice,AMELYCC59JKB0,37,Female,Right,College,"BFRP, AUIE, GNDC",3,8,4,0.45,0.25,0.2,0.1,0.15,0.15,0.15,Non-Solver
+LettersDice,A8FCVU1TTDVL0,40,Female,Right,College,"BFRP, AUIE, GNDC",3,7,7,0.4,0.75,0,0.25,0,0,0,Non-Solver
+LettersDice,A198MSVO1VTAT5,60,Female,Right,College,"BNPR, ACDF, EIUG",8,1,1,0.9,0.05,0,0,0,0.9,0.05,Solver
+LettersDice,A2QUQ0S2F6K3QJ,63,Female,Right,High School/GED,"BNPR, ACDF, EIUG",10,2,3,0.85,0.2,0,0,0,0.8,0,Solver
+LettersDice,A2EI9E6EBZEZO1,38,Female,Right,College,"CNRP, AGDS, EIOT",1,10,9,0,0.1,0.15,0.25,0.25,0.2,0.05,Non-Solver
+LettersDice,APS21FRK7TBKW,47,Female,Right,College,"BNPR, ACDF, EIUG",1,3,4,0.1,0.2,0.2,0.15,0.15,0.15,0.15,Solver
+LettersDice,A2IQ0QCTQ3KWLT,48,Female,Right,High School/GED,"CNRP, AGDS, EIOT",2,9,9,0.35,0.1,0.1,0.1,0.5,0.1,0.1,Non-Solver
+LettersDice,A2MWAXV1YRK5GH,69,Female,Left,Graduate Degree,"BNPR, ACDF, EIUG",10,2,2,0.95,0.15,0,0,0,0.85,0,Solver
+LettersDice,A3HOBJ4PJUOCUN,59,Female,Right,High School/GED,"BNPR, ACDF, EIUG",7,2,1,0.9,0.1,0.1,0.1,0.1,0.5,0.1,Solver
+LettersDice,A1DS0M9DLHAISJ,38,Female,Right,College,"BFRP, AUIE, GNDC",10,1,7,0.45,0.2,0.25,0.2,0,0.2,0.15,Non-Solver
+LettersDice,AAASQIW3J32OL,58,Female,Right,College,"BNPR, ACDF, EIUG",8,5,6,0.5,0.1,0.1,0.1,0.1,0.5,0.1,Solver
+LettersDice,yijmma,33,Male,Right,College,"BNPR, ACDF, EIUG",7,2,3,0.65,0.1,0.15,0.15,0.1,0.35,0.15,Solver
+LettersDice,A1M7G9KKXWH76A,48,Male,Right,College,"BFRP, AUIE, GNDC",3,5,3,0.5,0.6,0.1,0.05,0.15,0.1,0,Non-Solver
+LettersDice,A2APG8MSLJ6G2K,69,Female,Right,College,"BNPR, ACDF, EIUG",10,8,8,0.75,0.05,0.05,0.05,0.05,0.75,0.05,Solver
+LettersDice,AB2GND2ZHOCOT,29,Female,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,2,3,0.8,0.2,0,0,0,0.8,0,Solver
+LettersDice,A3PDTUA1YLJTMC,43,Male,Right,College,"BNPR, ACDF, EIUG",10,7,7,0.65,0.2,0,0,0,0.6,0.2,Solver
+LettersDice,A2O2Y99RA9GFUJ,64,Male,Right,College,"BFRP, AUIE, GNDC",5,5,8,0.5,0.4,0.2,0.1,0.1,0.1,0.1,Non-Solver
+LettersDice,AFM65NU0UXIGP,31,Male,Right,High School/GED,"BNPR, ACDF, EIUG",10,2,6,0.45,0.2,0.2,0,0,0.6,0,Solver
+LettersDice,A1TLNLB9D87H6,35,Female,Left,College,"BFRP, AUIE, GNDC",1,10,10,0.05,0.15,0.15,0.2,0.2,0.15,0.15,Non-Solver
+LettersDice,200600666,31,Male,Left,Graduate Degree,"ANPR, BCDF, EIUG",5,7,5,0.3,0.05,0.2,0.2,0.25,0.1,0.2,Non-Solver
+LettersDice,A2EEP8D4MRUIRZ,30,Male,Right,High School/GED,"BFRP, AUIE, GNDC",8,5,5,0.9,0.2,0.2,0.2,0,0.2,0.2,Non-Solver
+LettersDice,A3DHAM13WLSE9V,23,Male,Right,High School/GED,"ANPR, BCDF, EIUG",1,10,10,0.05,0.2,0.2,0.15,0.15,0.15,0.15,Non-Solver
+LettersDice,A1SIUJEL2LS8UO,31,Male,Right,College,"BNPR, ACDF, EIUG",8,2,6,0.25,0.15,0.15,0.25,0.15,0.15,0.15,Solver
+LettersDice,AG9LWKO86TNHG,48,Female,Left,College,"BFGP, AUIE, RNDC",1,10,10,0.2,0.2,0.2,0.1,0.2,0.1,0.2,Non-Solver
+LettersDice,AHYTT3T8W9Y9Y,37,Female,Right,College,"ANPR, BCDF, EIUG",4,7,6,0.7,0.25,0.1,0.2,0.15,0.1,0.2,Non-Solver
+LettersDice,A1ZT30BGR3266K,35,Female,Right,College,"BNPR, ACDF, EIUG",9,4,5,0.55,0.1,0.1,0.05,0.1,0.55,0.1,Solver
+LettersDice,A1NKBXOTZAI1YK,33,Male,Right,College,"BNPR, ACDF, EIUG",1,10,10,0.2,0.15,0.15,0.2,0.2,0.15,0.15,Solver
+LettersDice,A2TTBCUOTC4Y24,32,Male,Right,Graduate Degree,"CNRP, AGDS, EIOT",9,5,8,0.3,0.15,0.1,0.2,0.2,0.2,0.15,Non-Solver
+LettersDice,A10249252O9I20MRSOBVF,56,Female,Both hands are equally strong,High School/GED,"BFRP, AUIE, GNDC",1,10,8,0.15,0.2,0.2,0.15,0.15,0.15,0.15,Non-Solver
+LettersDice,A1UNBT94I82S8V,25,Male,Left,College,"BFGP, AUIE, RNDC",5,6,4,0.6,0.1,0.3,0.15,0.15,0.15,0.15,Non-Solver
+LettersDice,A1V2H0UF94ATWY,59,Male,Right,High School/GED,"BNPR, ACDF, EIUG",7,6,6,0.75,0.05,0.05,0.05,0.05,0.75,0.05,Solver
+LettersDice,A16HSMUJ7C7QA7,65,Female,Left,High School/GED,"BFRP, AUIE, GNDC",2,10,8,0.1,0.25,0.15,0.15,0.15,0.15,0.15,Non-Solver
+LettersDice,A30RAYNDOWQ61S,57,Male,Right,High School/GED,"ANPR, BCDF, EIUG",1,10,10,0.1,0.15,0.15,0.15,0.15,0.15,0.25,Non-Solver
+LettersDice,AVJUIF9QHQRY8,35,Female,Right,College,"BFRP, AUIE, GNDC",3,4,5,0.4,0.4,0.1,0.25,0.05,0.1,0.1,Non-Solver
+LettersDice,A3U21PUMQ6NGT2,38,Female,Right,College,"ANPR, BCDF, EIUG",3,7,8,0.35,0.2,0.2,0.2,0.1,0.1,0.2,Non-Solver
+LettersDice,A3J85WP15JFYW0,31,Male,Right,College,"BNPR, ACDF, EIUG",10,2,4,0.3,0.25,0.05,0.1,0.1,0.3,0.2,Solver
+LettersDice,A2DWPP1KKAY0HG,24,Male,Right,College,"BNPR, ACDF, EIUG",10,2,2,0.9,0,0,0,0,0.95,0.05,Solver
+LettersDice,A2ZLII4MLBHWR4,27,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",1,10,10,0.5,0,0.2,0,0.3,0.5,0,Solver
+LettersDice,1532532,22,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",7,3,5,0.65,0.05,0.05,0.1,0.1,0.65,0.05,Solver
+LettersDice,A18TCR555RWUZV,34,Male,Right,College,"AERP, BGCD, FUIN",1,10,10,0.1,0.15,0.15,0.2,0.2,0.15,0.15,Non-Solver
+LettersDice,A1JVWOBGNA6KJT,54,Male,Right,High School/GED,"AERP, BGCD, FUIN",4,9,6,0.35,0.15,0.1,0.3,0.15,0.15,0.15,Non-Solver
+LettersDice,A1O5IL3N3G3WIL,45,Female,Right,College,"BFRP, AUIE, GNDC",5,8,6,0.55,0.4,0.15,0.1,0.1,0.1,0.15,Non-Solver
+LettersDice,A1ROEDVMTO9Y3X,50,Female,Left,College,"BFRP, AUIE, GNDC",9,9,7,0.45,0.15,0.15,0,0.05,0.1,0.1,Non-Solver
+LettersDice,A1RV2LERVS0A4H,33,Female,Right,College,"BNPR, ACDF, EIUG",10,1,1,0.9,0.05,0,0,0,0.9,0.05,Solver
+LettersDice,A1WVNDH62P2UNZ,26,Female,Right,High School/GED,"ANPR, BCDF, EIUG",1,7,4,0.35,0.2,0.1,0.25,0,0.25,0.2,Non-Solver
+LettersDice,A21SF3IKIZB0VN,73,Female,Left,Graduate Degree,"BNPR, ACDF, EIUG",9,10,9,0.15,0.2,0.2,0.1,0.15,0.15,0.2,Solver
+LettersDice,A23BWWRR7J5XLS,42,Male,Right,High School/GED,"BNPR, ACDF, EIUG",6,6,6,0.6,0.2,0.05,0.05,0.05,0.6,0.05,Solver
+LettersDice,A23KAJRDVCVGOE,41,Male,Left,High School/GED,"CNRP, AGDS, EIOT",4,6,9,0.15,0.1,0.1,0.15,0.35,0.15,0.15,Non-Solver
+LettersDice,A2541C8MY0BYV3,29,Male,Right,College,"BFGP, AUIE, RNDC",4,8,9,0.15,0.1,0.3,0.1,0.1,0.2,0.2,Non-Solver
+LettersDice,A270HX8LH9LJ8W,38,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,5,6,0.3,0.1,0.15,0.15,0.1,0.3,0.2,Solver
+LettersDice,A2B2HQHFBYLTXU,36,Male,Right,Graduate Degree,"BFRP, AUIE, GNDC",7,5,6,0.55,0.45,0.25,0.05,0.05,0.15,0.05,Non-Solver
+LettersDice,A2GNG7DWHQA6ZZ,34,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,6,8,0.55,0.05,0.05,0.05,0.1,0.4,0.35,Solver
+LettersDice,A2VLTSW6CXIUMR,44,Male,Right,High School/GED,"BNPR, ACDF, EIUG",5,8,9,0.3,0.1,0.2,0.1,0.1,0.4,0.1,Solver
+LettersDice,A2YCMT5BPA0AG9,50,Male,Right,College,"CNRP, AGDS, EIOT",4,8,7,0.25,0.25,0.1,0.2,0.2,0.1,0.15,Non-Solver
+LettersDice,A2YWSSQEXXCRGK,51,Female,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,6,6,0.8,0.1,0.05,0,0,0.8,0.05,Solver
+LettersDice,A3ADVMXAYYYPD2,42,Male,Right,Graduate Degree,"CNRP, AGDS, EIOT",10,1,5,0.55,0.1,0.15,0.1,0.55,0.05,0.05,Non-Solver
+LettersDice,A3C8NUIBNZYMT2,30,Male,Right,College,"AERP, BGCD, FUIN",3,9,9,0.1,0.2,0.15,0.2,0.15,0.15,0.15,Non-Solver
+LettersDice,A3LLOANE52R4LT,35,Male,Right,College,"BNPR, ACDF, EIUG",3,9,9,0.15,0.1,0.1,0.3,0.15,0.2,0.15,Solver
+LettersDice,A3QLGMZOLGMBQ1,51,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",8,10,10,0.15,0.2,0.2,0.2,0.2,0.2,0,Solver
+LettersDice,A3R5OJR60C6004,45,Male,Right,College,"BNPR, ACDF, EIUG",9,4,4,0.55,0.15,0.05,0.15,0.05,0.55,0.05,Solver
+LettersDice,A3S1DILZ70PXC,41,Female,Right,College,"AERP, BGCD, FUIN",1,10,6,0.2,0.15,0.15,0.2,0.2,0.15,0.15,Non-Solver
+LettersDice,A3URLNXHLP4ARU,47,Female,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,8,6,0.6,0.1,0.1,0.1,0.05,0.6,0.05,Solver
+LettersDice,A4IH4CO046EV3,40,Male,Right,College,"BFRP, AUIE, GNDC",9,3,3,0.8,0.7,0.1,0.05,0.05,0.05,0.05,Non-Solver
+LettersDice,AAQREZOK13OV7,31,Male,Right,College,"BNPR, ACDF, EIUG",9,3,3,0.6,0.15,0,0,0,0.6,0.25,Solver
+LettersDice,AFQ9W6WA8O9EH,51,Female,Left,Graduate Degree,"BNPR, ACDF, EIUG",10,1,10,0.1,0.2,0.2,0.2,0.15,0.1,0.15,Solver
+LettersDice,AN9MVFWRCF2OP,29,Male,Right,College,"BFRP, AUIE, GNDC",6,9,7,0.3,0.25,0.15,0.15,0.15,0.15,0.15,Non-Solver
+LettersDice,AY2U544TCVPMQ,37,Male,Right,Graduate Degree,"BNPR, ACDF, EIUG",10,2,3,0.25,0.3,0.05,0.05,0.05,0.5,0.05,Solver
+LettersDice,AYW62R027PUT1,44,Male,Right,College,"BNPR, ACDF, EIUG",9,3,3,0.7,0.4,0,0,0,0.6,0,Solver
