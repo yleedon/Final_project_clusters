@@ -2,6 +2,7 @@ import math
 import statistics
 import pandas as pd
 import json
+import final_project as fp
 
 
 def get_highest_voted_ans(dic_prob):
@@ -48,6 +49,7 @@ def get_init_features(df,num_of_answers, first_idx):
     features['consensus'] = get_consensus(dic_prob) #divided by log(n) 0: full consensus 1: no consensus
     features['highest_voted_ans'] = get_highest_voted_ans(dic_prob)
     features['variance'] = statistics.variance(list(dic.values()))
+
     return features
 
 
@@ -66,6 +68,7 @@ def extract_meta_features():
     with open('/Users/yanivleedon/Desktop/final_project_clusters/meta_data/problems_meta_data.txt') as json_file:
         problem_dic = json.load(json_file)
         ans = {}
+
         # for each problem, extract features
         for problem in problem_dic:
             # needed meta data from file
