@@ -1,5 +1,8 @@
 import math
 import statistics
+from os import getcwd
+from os.path import join
+
 import pandas as pd
 import json
 import final_project as fp
@@ -57,6 +60,8 @@ def test():
     print('test started')
 
 
+    file = join(getcwd(), 'meta_data', 'problems_meta_data.txt')
+    print(file)
 
 
     print('test finished')
@@ -65,14 +70,14 @@ def test():
 
 def extract_meta_features():
     # Load meta sdata file
-    with open('/Users/yanivleedon/Desktop/final_project_clusters/meta_data/problems_meta_data.txt') as json_file:
+    with open(join(getcwd(), 'meta_data', 'problems_meta_data.JSON')) as json_file:
         problem_dic = json.load(json_file)
         ans = {}
 
         # for each problem, extract features
         for problem in problem_dic:
             # needed meta data from file
-            file_name = problem_dic[problem]['file_name']
+            file_name = join(getcwd(), 'data', problem_dic[problem]['file_name'])
             num_of_answers = problem_dic[problem]['num_of_answers']
             first_idx = problem_dic[problem]['first_idx']
 
