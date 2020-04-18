@@ -1,10 +1,7 @@
 import math
 import statistics
-from os import listdir, getcwd
-from os.path import isfile, join
 import pandas as pd
 import json
-import final_project as fp
 
 
 def get_highest_voted_ans(dic_prob):
@@ -54,8 +51,17 @@ def get_init_features(df,num_of_answers, first_idx):
     return features
 
 
-if __name__ == '__main__':
+def test():
+    print('test started')
 
+
+
+
+    print('test finished')
+
+
+
+def extract_meta_features():
     # Load meta sdata file
     with open('/Users/yanivleedon/Desktop/final_project_clusters/meta_data/problems_meta_data.txt') as json_file:
         problem_dic = json.load(json_file)
@@ -73,3 +79,13 @@ if __name__ == '__main__':
             # get initial features
             ans[problem] = get_init_features(df, num_of_answers, first_idx)
         print(ans)
+
+
+if __name__ == '__main__':
+
+    extract_meta_features()
+
+    # test()
+
+
+
