@@ -38,9 +38,15 @@ def get_answer_distribution(all_possible_ans, df):
         dic[str(answer)] += 1
     return dic
 
+
+def get_agg_arrogance(df):
+    temp = fp.get_arrogance(df)
+
+
 def get_init_features(df,num_of_answers, first_idx):
     features = {}
     all_possible_ans = df.columns[first_idx : first_idx + num_of_answers]
+    df = fp.change_precentage_to_num(df,all_possible_ans)
     dic = get_answer_distribution(all_possible_ans, df)
 
     # get probability
@@ -52,6 +58,7 @@ def get_init_features(df,num_of_answers, first_idx):
     features['consensus'] = get_consensus(dic_prob) #divided by log(n) 0: full consensus 1: no consensus
     features['highest_voted_ans'] = get_highest_voted_ans(dic_prob)
     features['variance'] = statistics.variance(list(dic.values()))
+    features['agg_arrogance'] = get_agg_arrogance(df)
 
     return features
 
