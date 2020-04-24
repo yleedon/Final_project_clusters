@@ -41,6 +41,8 @@ def get_answer_distribution(all_possible_ans, df):
 
 def get_agg_arrogance(df):
     temp = fp.get_arrogance(df)
+    all_arrogance = temp['arrogance']
+    return statistics.mean(all_arrogance)
 
 
 def get_init_features(df,num_of_answers, first_idx):
