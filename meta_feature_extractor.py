@@ -84,18 +84,30 @@ def get_init_features(df,num_of_answers, first_idx):
 
     return features
 
-def normalize_var(ans, features):
-    for feature in features:
-        max = ans[feature].max()
-        min = ans[feature].min()
-        ans[feature] = ans[feature].apply(lambda x: (x - min)/(max - min))
-    return ans
+def normalize_var(df, col_names):
+    """
+    Given a data frame and a list of column name, will normalize all the data under each given
+    column name between 0 - 1
+    :param df: the data frame to apply changes to
+    :param col_names: the name of the columns in the data frame that are to be normalized
+    :return: the data frame normalized
+    """
+    for feature in col_names:
+        max = df[feature].max()
+        min = df[feature].min()
+        df[feature] = df[feature].apply(lambda x: (x - min)/(max - min))
+    return df
 
 
 
 def extract_meta_features(all_prob_dir, json_meta_data):
-
-
+    """
+    Calculates the meta features of all the problems in the gived directory.
+    :param all_prob_dir: the path of the directory that hold all of the problems data sets
+    :param json_meta_data: a json file that holds for each problem the answers starting index
+           and the answer amount
+    :return: a data frame with all the problems meta features (normalized between 0,1)
+    """
     with open(json_meta_data) as json_file:
         problem_dic = json.load(json_file)
         ans = {}
@@ -132,11 +144,16 @@ def extract_meta_features(all_prob_dir, json_meta_data):
 
 if __name__ == '__main__':
 
+    # default values
     json_meta_data = join(getcwd(), 'meta_data', 'problems_meta_data.JSON')
     all_prob_dir = listdir(join(getcwd(), 'data'))
+
+    # get meta features
     m_features = extract_meta_features(all_prob_dir, json_meta_data)
     print("Success:\n" + str(m_features))
 
+    # add index name (problem)
+    m_features.index.names = ['problem']
     # export_features_csv(m_features)
     m_features.to_csv('meta_data/meta_features_all.csv')
 
