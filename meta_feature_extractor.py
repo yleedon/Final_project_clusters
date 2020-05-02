@@ -2,8 +2,6 @@ import math
 import statistics
 from os import getcwd, listdir
 from os.path import join
-import csv
-
 import pandas as pd
 import json
 import final_project as fp
@@ -86,36 +84,6 @@ def get_init_features(df,num_of_answers, first_idx):
 
     return features
 
-def export_features_csv(prob_dic):
-    with open('test.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-
-        # write header
-        header = ['problem']
-        for prob, feutures in prob_dic.items():
-            for f_name in feutures:
-                header.append(f_name)
-            break
-        writer.writerow(header)
-
-        for prob, feutures  in prob_dic.items():
-            line_arr = [prob]
-            for f_name, f_value in feutures.items():
-                line_arr.append(f_value)
-            writer.writerow(line_arr)
-
-
-def test():
-    print('test started')
-
-
-    file = join(getcwd(), 'meta_data', 'problems_meta_data.txt')
-    print(file)
-
-
-    print('test finished')
-
-
 def normalize_var(ans, features):
     for feature in features:
         max = ans[feature].max()
@@ -125,10 +93,10 @@ def normalize_var(ans, features):
 
 
 
-def extract_meta_features():
+def extract_meta_features(all_prob_dir, json_meta_data):
 
 
-    with open(join(getcwd(), 'meta_data', 'problems_meta_data.JSON')) as json_file:
+    with open(json_meta_data) as json_file:
         problem_dic = json.load(json_file)
         ans = {}
 
@@ -137,10 +105,8 @@ def extract_meta_features():
         for prob in problem_dic:
             valid_problems.append(prob)
 
-        all_data_dir = listdir(join(getcwd(), 'data'))
-
-        # iterate over evrery problem and extract meta features
-        for problem in all_data_dir:
+        # iterate over every problem and extract meta features
+        for problem in all_prob_dir:
             file_name = join(getcwd(), 'data', problem)
             df = pd.read_csv(file_name, index_col='Worker ID')
             problem_name = df['Problem'].unique()[0]
@@ -156,7 +122,8 @@ def extract_meta_features():
 
         # change  dic to df
         ans_df = pd.DataFrame(ans).transpose()
-        # normalize variance features
+
+        # normalize variance features [0,1]
         to_normalize = ['variance','var_EAAA','var_EMAM','var_confidence','var_arrogance']
         ans_df = normalize_var(ans_df,to_normalize)
         return ans_df
@@ -164,11 +131,13 @@ def extract_meta_features():
 
 
 if __name__ == '__main__':
-    m_features = extract_meta_features()
-    print(m_features)
+
+    json_meta_data = join(getcwd(), 'meta_data', 'problems_meta_data.JSON')
+    all_prob_dir = listdir(join(getcwd(), 'data'))
+    m_features = extract_meta_features(all_prob_dir, json_meta_data)
+    print("Success:\n" + str(m_features))
+
     # export_features_csv(m_features)
     m_features.to_csv('meta_data/meta_features_all.csv')
 
-    # test()
-# alldata=alldata[alldata['Confidence']!=0]   iyzik
 
