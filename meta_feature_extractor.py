@@ -132,11 +132,16 @@ def extract_meta_features(all_prob_dir, json_meta_data):
 
 if __name__ == '__main__':
 
+    # default values
     json_meta_data = join(getcwd(), 'meta_data', 'problems_meta_data.JSON')
     all_prob_dir = listdir(join(getcwd(), 'data'))
+
+    # get meta features
     m_features = extract_meta_features(all_prob_dir, json_meta_data)
     print("Success:\n" + str(m_features))
 
+    # add index name (problem)
+    m_features.index.names = ['problem']
     # export_features_csv(m_features)
     m_features.to_csv('meta_data/meta_features_all.csv')
 
