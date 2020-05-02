@@ -1,35 +1,35 @@
 {
-    "RawData_Pills" :
+    "Pills" :
        {
            "file_name" : "RawData_Pills.csv",
            "num_of_answers" : 6,
            "first_idx" : 8
        },
-    "RawData_3Robots" :
+    "ThreeRobots" :
        {
            "file_name" : "RawData_3Robots.csv",
            "num_of_answers" : 12,
            "first_idx" : 10
        },
-    "RawData_CR_Conf":
+    "CR_Conf":
         {
             "file_name": "RawData_CR_Conf.csv",
             "num_of_answers": 10,
             "first_idx": 8
         },
-    "RawData_LetterDice":
+    "LettersDice":
         {
             "file_name": "RawData_LetterDice.csv",
             "num_of_answers": 6,
             "first_idx": 10
         },
-    "RawData_MagicPotion":
+    "MagicPotion":
         {
             "file_name": "RawData_MagicPotion.csv",
             "num_of_answers": 8,
             "first_idx": 10
         },
-    "RawData_Traveler":
+    "Traveler":
         {
             "file_name": "RawData_Traveler.csv",
             "num_of_answers": 4,
