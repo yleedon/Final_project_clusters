@@ -73,10 +73,10 @@ def get_init_features(df,num_of_answers, first_idx):
 
     # simple meta features extraction
     features['consensus'] = get_consensus(dic_prob) #divided by log(n) 0: full consensus 1: no consensus
-    features['highest_voted_ans'] = get_highest_voted_ans(dic_prob)
-    features['variance'] = statistics.variance(list(dic.values()))
+    features['highest_voted_ans'] = get_highest_voted_ans(dic_prob) # the percentage (amount / all) of the highest voted answer
+    features['variance'] = statistics.variance(list(dic.values())) # variance of the problems answers
 
-    # complex meta features extraction
+    # complex meta features extraction (for each feature: avg, median and var (normalized by max var))
     features['avg_arrogance'], features['med_arrogance'], features['var_arrogance'] = get_agg_arrogance(df)
     features['avg_confidence'], features['med_confidence'], features['var_confidence'] = get_agg_confidence(df)
     features['avg_EMAM'], features['med_EMAM'], features['var_EMAM'] = get_agg_EMAM(df,dic_prob)
